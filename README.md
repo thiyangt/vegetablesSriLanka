@@ -19,13 +19,13 @@ pak::pak("thiyangt/vegetablesSriLanka")
 library(vegetablesSriLanka)
 data("vegetables.srilanka")
 head(vegetables.srilanka)
-#>         Date    Item      Type   Market Price
-#> 1 2016-08-01 Pumpkin Wholesale   Pettah    70
-#> 2 2016-08-01 Pumpkin Wholesale Dambulla    45
-#> 3 2016-08-01 Pumpkin    Retail   Pettah    90
-#> 4 2016-08-01 Pumpkin    Retail Dambulla    70
-#> 5 2016-08-01 Brinjal Wholesale   Pettah    60
-#> 6 2016-08-01 Brinjal Wholesale Dambulla    45
+#>         Date  Item   Type   Market Price
+#> 1 2016-08-01 Beans Retail Dambulla   165
+#> 2 2016-08-02 Beans Retail Dambulla   190
+#> 3 2016-08-03 Beans Retail Dambulla   190
+#> 4 2016-08-04 Beans Retail Dambulla   190
+#> 5 2016-08-05 Beans Retail Dambulla   190
+#> 6 2016-08-08 Beans Retail Dambulla   190
 ```
 
 ## Data Quality Analysis
