@@ -6,7 +6,7 @@
 #'   \item{Item}{Vegetable name}
 #'   \item{Type}{Wholesale or Retail price}
 #'   \item{Market}{Pettah or Dambulla market}
-#'   \item{Price}{Price in LKR/kg}
+#'   \item{Price}{Price in LKR per kg}
 #'   }
 #' @source Accessed from Daily Reports - Central Bank of Sri Lanka
 #' @examples
