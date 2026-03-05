@@ -26,6 +26,14 @@ head(vegetables.srilanka)
 #> 4 2016-08-04 Beans Retail Dambulla   190
 #> 5 2016-08-05 Beans Retail Dambulla   190
 #> 6 2016-08-08 Beans Retail Dambulla   190
+tail(vegetables.srilanka)
+#>              Date   Item      Type Market Price
+#> 123787 2026-01-16 Tomato Wholesale Pettah   450
+#> 123788 2026-01-19 Tomato Wholesale Pettah   450
+#> 123789 2026-01-20 Tomato Wholesale Pettah   400
+#> 123790 2026-01-21 Tomato Wholesale Pettah   350
+#> 123791 2026-01-22 Tomato Wholesale Pettah   300
+#> 123792 2026-01-23 Tomato Wholesale Pettah   300
 ```
 
 ## Data Quality Analysis
@@ -42,7 +50,7 @@ library(tidyverse)
 vis_dat(vegetables.srilanka)
 ```
 
-<img src="man/figures/README-unnamed-chunk-3-1.png" width="100%" />
+<img src="man/figures/README-unnamed-chunk-3-1.png" alt="" width="100%" />
 
 ### Amount of missings in each columns
 
@@ -50,7 +58,7 @@ vis_dat(vegetables.srilanka)
 vis_miss(vegetables.srilanka)
 ```
 
-<img src="man/figures/README-unnamed-chunk-4-1.png" width="100%" />
+<img src="man/figures/README-unnamed-chunk-4-1.png" alt="" width="100%" />
 
 ### Visualise item-wise missing percentage
 
@@ -60,7 +68,7 @@ vs1 <- vegetables.srilanka |>
 gg_miss_fct(vs1, Item)
 ```
 
-<img src="man/figures/README-unnamed-chunk-5-1.png" width="100%" />
+<img src="man/figures/README-unnamed-chunk-5-1.png" alt="" width="100%" />
 
 ``` r
 vs <- vegetables.srilanka |>
@@ -72,12 +80,14 @@ missing_summary <- vs |>
   summarise(
     missing_pct = mean(!complete.cases(across())) * 100
   )
-#> Warning: There was 1 warning in `summarise()`.
+#> Warning: There were 15 warnings in `summarise()`.
+#> The first warning was:
 #> ℹ In argument: `missing_pct = mean(!complete.cases(across())) * 100`.
 #> ℹ In group 1: `Item = "Beans"`.
 #> Caused by warning:
 #> ! Using `across()` without supplying `.cols` was deprecated in dplyr 1.1.0.
 #> ℹ Please supply `.cols` instead.
+#> ℹ Run `dplyr::last_dplyr_warnings()` to see the 14 remaining warnings.
 
 ggplot(missing_summary, aes(x = reorder(Item, -missing_pct), y = missing_pct)) +
   geom_bar(stat = "identity", fill = "steelblue") +
@@ -90,7 +100,7 @@ ggplot(missing_summary, aes(x = reorder(Item, -missing_pct), y = missing_pct)) +
   theme(axis.text.x = element_text(angle = 45, hjust = 1))
 ```
 
-<img src="man/figures/README-unnamed-chunk-6-1.png" width="100%" />
+<img src="man/figures/README-unnamed-chunk-6-1.png" alt="" width="100%" />
 
 ## Example
 
@@ -103,4 +113,4 @@ vegetables.srilanka |>
   geom_line()
 ```
 
-<img src="man/figures/README-unnamed-chunk-7-1.png" width="100%" />
+<img src="man/figures/README-unnamed-chunk-7-1.png" alt="" width="100%" />

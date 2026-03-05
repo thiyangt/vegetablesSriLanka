@@ -33,7 +33,9 @@ pak::pak("thiyangt/vegetablesSriLanka")
 library(vegetablesSriLanka)
 data("vegetables.srilanka")
 head(vegetables.srilanka)
+tail(vegetables.srilanka)
 ```
+
 ## Data Quality Analysis
 
 ```{r, warning=FALSE, message=FALSE}
