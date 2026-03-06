@@ -6,7 +6,7 @@ library(here)
 
 ## Read data
 rm(list=ls())
-vegetables.srilanka <- read_csv(here("data-raw", "data.csv"))
+vegetables.srilanka <- read_csv(here("data-raw", "vegetables.srilanka.csv"))
 
 
 vegetables.srilanka$Date <- as.Date(vegetables.srilanka$Date, format ="%d/%m/%Y")

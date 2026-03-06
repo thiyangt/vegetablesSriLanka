@@ -19,21 +19,21 @@ pak::pak("thiyangt/vegetablesSriLanka")
 library(vegetablesSriLanka)
 data("vegetables.srilanka")
 head(vegetables.srilanka)
-#>         Date  Item   Type   Market Price
-#> 1 2016-08-01 Beans Retail Dambulla   165
-#> 2 2016-08-02 Beans Retail Dambulla   190
-#> 3 2016-08-03 Beans Retail Dambulla   190
-#> 4 2016-08-04 Beans Retail Dambulla   190
-#> 5 2016-08-05 Beans Retail Dambulla   190
-#> 6 2016-08-08 Beans Retail Dambulla   190
+#>         Date            Item      Type   Market Price
+#> 1 2016-08-01           Beans    Retail Dambulla   165
+#> 2 2016-08-01           Beans    Retail   Pettah   160
+#> 3 2016-08-01           Beans Wholesale Dambulla   130
+#> 4 2016-08-01           Beans Wholesale   Pettah   140
+#> 5 2016-08-01 Big Onion (Imp)    Retail Dambulla    80
+#> 6 2016-08-01 Big Onion (Imp)    Retail   Pettah    80
 tail(vegetables.srilanka)
-#>              Date   Item      Type Market Price
-#> 123787 2026-01-16 Tomato Wholesale Pettah   450
-#> 123788 2026-01-19 Tomato Wholesale Pettah   450
-#> 123789 2026-01-20 Tomato Wholesale Pettah   400
-#> 123790 2026-01-21 Tomato Wholesale Pettah   350
-#> 123791 2026-01-22 Tomato Wholesale Pettah   300
-#> 123792 2026-01-23 Tomato Wholesale Pettah   300
+#>              Date        Item      Type   Market Price
+#> 123787 2026-01-23 Snake gourd Wholesale Dambulla   200
+#> 123788 2026-01-23 Snake gourd Wholesale   Pettah   200
+#> 123789 2026-01-23      Tomato    Retail Dambulla   420
+#> 123790 2026-01-23      Tomato    Retail   Pettah   350
+#> 123791 2026-01-23      Tomato Wholesale Dambulla   390
+#> 123792 2026-01-23      Tomato Wholesale   Pettah   300
 ```
 
 ## Data Quality Analysis
