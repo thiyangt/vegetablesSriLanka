@@ -11,8 +11,8 @@
 <script src="deps/bootstrap-5.3.1/bootstrap.bundle.min.js"></script><link href="deps/font-awesome-6.5.2/css/all.min.css" rel="stylesheet">
 <link href="deps/font-awesome-6.5.2/css/v4-shims.min.css" rel="stylesheet">
 <script src="deps/headroom-0.11.0/headroom.min.js"></script><script src="deps/headroom-0.11.0/jQuery.headroom.min.js"></script><script src="deps/bootstrap-toc-1.0.1/bootstrap-toc.min.js"></script><script src="deps/clipboard.js-2.0.11/clipboard.min.js"></script><script src="deps/search-1.0.0/autocomplete.jquery.min.js"></script><script src="deps/search-1.0.0/fuse.min.js"></script><script src="deps/search-1.0.0/mark.min.js"></script><!-- pkgdown --><script src="pkgdown.js"></script><meta property="og:title" content="Daily Vegetable Prices of Sri Lanka">
-<meta name="description" content="This package provides retail and wholesale vegetable price data for two major economic centers in Sri Lanka: Dambulla and Pettah. It includes tools for analyzing, visualizing, and comparing vegetable prices across markets.">
-<meta property="og:description" content="This package provides retail and wholesale vegetable price data for two major economic centers in Sri Lanka: Dambulla and Pettah. It includes tools for analyzing, visualizing, and comparing vegetable prices across markets.">
+<meta name="description" content="Provides retail and wholesale vegetable price data from two major market hubs in Sri Lanka, Dambulla and Pettah. Includes tools for analyzing, visualizing, and comparing vegetable prices across markets.">
+<meta property="og:description" content="Provides retail and wholesale vegetable price data from two major market hubs in Sri Lanka, Dambulla and Pettah. Includes tools for analyzing, visualizing, and comparing vegetable prices across markets.">
 </head>
 <body>
     <a href="#main" class="visually-hidden-focusable">Skip to contents</a>
@@ -22,7 +22,7 @@
 
     <a class="navbar-brand me-2" href="index.html">vegetablesSriLanka</a>
 
-    <small class="nav-text text-muted me-auto" data-bs-toggle="tooltip" data-bs-placement="bottom" title="">0.1.0</small>
+    <small class="nav-text text-muted me-auto" data-bs-toggle="tooltip" data-bs-placement="bottom" title="">1.1.0</small>
 
 
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
@@ -32,6 +32,12 @@
     <div id="navbar" class="collapse navbar-collapse ms-3">
       <ul class="navbar-nav me-auto">
 <li class="nav-item"><a class="nav-link" href="reference/index.html">Reference</a></li>
+<li class="nav-item dropdown">
+  <button class="nav-link dropdown-toggle" type="button" id="dropdown-articles" data-bs-toggle="dropdown" aria-expanded="false" aria-haspopup="true">Articles</button>
+  <ul class="dropdown-menu" aria-labelledby="dropdown-articles">
+<li><a class="dropdown-item" href="articles/getting-started.html">getting-started</a></li>
+  </ul>
+</li>
       </ul>
 <ul class="navbar-nav">
 <li class="nav-item"><form class="form-inline" role="search">
@@ -45,8 +51,9 @@
 </nav><div class="container template-home">
 <div class="row">
   <main id="main" class="col-md-9"><div class="section level1">
-<div class="page-header"><h1 id="vegetablessrilanka-">vegetablesSriLanka <img src="logo/vegetableSriLanka_hex.png" align="right" height="200"><a class="anchor" aria-label="anchor" href="#vegetablessrilanka-"></a>
+<div class="page-header"><h1 id="vegetablessrilanka">vegetablesSriLanka<a class="anchor" aria-label="anchor" href="#vegetablessrilanka"></a>
 </h1></div>
+<!--<img src="logo/vegetableSriLanka_hex.png" align="right" height="200"/>-->
 <div class="section level2">
 <h2 id="installation">Installation<a class="anchor" aria-label="anchor" href="#installation"></a>
 </h2>
@@ -60,85 +67,90 @@
 </h2>
 <div class="sourceCode" id="cb2"><pre class="downlit sourceCode r">
 <code class="sourceCode R"><span><span class="kw"><a href="https://rdrr.io/r/base/library.html" class="external-link">library</a></span><span class="op">(</span><span class="va">vegetablesSriLanka</span><span class="op">)</span></span>
+<span><span class="co">#&gt; Registered S3 method overwritten by 'tsibble':</span></span>
+<span><span class="co">#&gt;   method               from </span></span>
+<span><span class="co">#&gt;   as_tibble.grouped_df dplyr</span></span>
 <span><span class="fu"><a href="https://rdrr.io/r/utils/data.html" class="external-link">data</a></span><span class="op">(</span><span class="st">"vegetables.srilanka"</span><span class="op">)</span></span>
 <span><span class="fu"><a href="https://rdrr.io/r/utils/head.html" class="external-link">head</a></span><span class="op">(</span><span class="va">vegetables.srilanka</span><span class="op">)</span></span>
-<span><span class="co">#&gt;         Date    Item      Type   Market Price</span></span>
-<span><span class="co">#&gt; 1 2016-08-01 Pumpkin Wholesale   Pettah    70</span></span>
-<span><span class="co">#&gt; 2 2016-08-01 Pumpkin Wholesale Dambulla    45</span></span>
-<span><span class="co">#&gt; 3 2016-08-01 Pumpkin    Retail   Pettah    90</span></span>
-<span><span class="co">#&gt; 4 2016-08-01 Pumpkin    Retail Dambulla    70</span></span>
-<span><span class="co">#&gt; 5 2016-08-01 Brinjal Wholesale   Pettah    60</span></span>
-<span><span class="co">#&gt; 6 2016-08-01 Brinjal Wholesale Dambulla    45</span></span></code></pre></div>
-</div>
-<div class="section level2">
-<h2 id="data-quality-analysis">Data Quality Analysis<a class="anchor" aria-label="anchor" href="#data-quality-analysis"></a>
-</h2>
-<div class="sourceCode" id="cb3"><pre class="downlit sourceCode r">
-<code class="sourceCode R"><span><span class="kw"><a href="https://rdrr.io/r/base/library.html" class="external-link">library</a></span><span class="op">(</span><span class="va"><a href="https://docs.ropensci.org/visdat/" class="external-link">visdat</a></span><span class="op">)</span></span>
-<span><span class="kw"><a href="https://rdrr.io/r/base/library.html" class="external-link">library</a></span><span class="op">(</span><span class="va"><a href="https://github.com/njtierney/naniar" class="external-link">naniar</a></span><span class="op">)</span></span>
-<span><span class="kw"><a href="https://rdrr.io/r/base/library.html" class="external-link">library</a></span><span class="op">(</span><span class="va"><a href="https://tidyverse.tidyverse.org" class="external-link">tidyverse</a></span><span class="op">)</span></span></code></pre></div>
-<div class="section level3">
-<h3 id="information-about-the-class-of-the-data-input">Information about the class of the data input<a class="anchor" aria-label="anchor" href="#information-about-the-class-of-the-data-input"></a>
-</h3>
-<div class="sourceCode" id="cb4"><pre class="downlit sourceCode r">
-<code class="sourceCode R"><span><span class="fu"><a href="https://docs.ropensci.org/visdat/reference/vis_dat.html" class="external-link">vis_dat</a></span><span class="op">(</span><span class="va">vegetables.srilanka</span><span class="op">)</span></span></code></pre></div>
-<p><img src="reference/figures/README-unnamed-chunk-3-1.png" width="100%"></p>
-</div>
-<div class="section level3">
-<h3 id="amount-of-missings-in-each-columns">Amount of missings in each columns<a class="anchor" aria-label="anchor" href="#amount-of-missings-in-each-columns"></a>
-</h3>
-<div class="sourceCode" id="cb5"><pre class="downlit sourceCode r">
-<code class="sourceCode R"><span><span class="fu"><a href="https://docs.ropensci.org/visdat/reference/vis_miss.html" class="external-link">vis_miss</a></span><span class="op">(</span><span class="va">vegetables.srilanka</span><span class="op">)</span></span></code></pre></div>
-<p><img src="reference/figures/README-unnamed-chunk-4-1.png" width="100%"></p>
-</div>
-<div class="section level3">
-<h3 id="visualise-item-wise-missing-percentage">Visualise item-wise missing percentage<a class="anchor" aria-label="anchor" href="#visualise-item-wise-missing-percentage"></a>
-</h3>
-<div class="sourceCode" id="cb6"><pre class="downlit sourceCode r">
-<code class="sourceCode R"><span><span class="va">vs1</span> <span class="op">&lt;-</span> <span class="va">vegetables.srilanka</span> <span class="op">|&gt;</span></span>
-<span>  <span class="fu"><a href="https://dplyr.tidyverse.org/reference/filter.html" class="external-link">filter</a></span><span class="op">(</span><span class="op">!</span><span class="fu"><a href="https://rdrr.io/r/base/NA.html" class="external-link">is.na</a></span><span class="op">(</span><span class="va">Item</span><span class="op">)</span><span class="op">)</span> </span>
-<span><span class="fu"><a href="https://naniar.njtierney.com/reference/gg_miss_fct.html" class="external-link">gg_miss_fct</a></span><span class="op">(</span><span class="va">vs1</span>, <span class="va">Item</span><span class="op">)</span></span></code></pre></div>
-<p><img src="reference/figures/README-unnamed-chunk-5-1.png" width="100%"></p>
-<div class="sourceCode" id="cb7"><pre class="downlit sourceCode r">
-<code class="sourceCode R"><span><span class="va">vs</span> <span class="op">&lt;-</span> <span class="va">vegetables.srilanka</span> <span class="op">|&gt;</span></span>
-<span>  <span class="fu"><a href="https://dplyr.tidyverse.org/reference/filter.html" class="external-link">filter</a></span><span class="op">(</span><span class="op">!</span><span class="fu"><a href="https://rdrr.io/r/base/NA.html" class="external-link">is.na</a></span><span class="op">(</span><span class="va">Item</span><span class="op">)</span><span class="op">)</span> <span class="op">|&gt;</span></span>
-<span>  <span class="fu"><a href="https://dplyr.tidyverse.org/reference/select.html" class="external-link">select</a></span><span class="op">(</span><span class="va">Item</span>, <span class="va">Price</span><span class="op">)</span></span>
-<span><span class="co"># Calculate item-wise missing percentage</span></span>
-<span><span class="va">missing_summary</span> <span class="op">&lt;-</span> <span class="va">vs</span> <span class="op">|&gt;</span></span>
-<span>  <span class="fu"><a href="https://dplyr.tidyverse.org/reference/group_by.html" class="external-link">group_by</a></span><span class="op">(</span><span class="va">Item</span><span class="op">)</span> <span class="op">|&gt;</span></span>
-<span>  <span class="fu"><a href="https://dplyr.tidyverse.org/reference/summarise.html" class="external-link">summarise</a></span><span class="op">(</span></span>
-<span>    missing_pct <span class="op">=</span> <span class="fu"><a href="https://rdrr.io/r/base/mean.html" class="external-link">mean</a></span><span class="op">(</span><span class="op">!</span><span class="fu"><a href="https://rdrr.io/r/stats/complete.cases.html" class="external-link">complete.cases</a></span><span class="op">(</span><span class="fu"><a href="https://dplyr.tidyverse.org/reference/across.html" class="external-link">across</a></span><span class="op">(</span><span class="op">)</span><span class="op">)</span><span class="op">)</span> <span class="op">*</span> <span class="fl">100</span></span>
-<span>  <span class="op">)</span></span>
-<span><span class="co">#&gt; Warning: There was 1 warning in `summarise()`.</span></span>
-<span><span class="co">#&gt; ℹ In argument: `missing_pct = mean(!complete.cases(across())) * 100`.</span></span>
-<span><span class="co">#&gt; ℹ In group 1: `Item = "Beans"`.</span></span>
-<span><span class="co">#&gt; Caused by warning:</span></span>
-<span><span class="co">#&gt; ! Using `across()` without supplying `.cols` was deprecated in dplyr 1.1.0.</span></span>
-<span><span class="co">#&gt; ℹ Please supply `.cols` instead.</span></span>
-<span></span>
-<span><span class="fu"><a href="https://ggplot2.tidyverse.org/reference/ggplot.html" class="external-link">ggplot</a></span><span class="op">(</span><span class="va">missing_summary</span>, <span class="fu"><a href="https://ggplot2.tidyverse.org/reference/aes.html" class="external-link">aes</a></span><span class="op">(</span>x <span class="op">=</span> <span class="fu"><a href="https://rdrr.io/r/stats/reorder.factor.html" class="external-link">reorder</a></span><span class="op">(</span><span class="va">Item</span>, <span class="op">-</span><span class="va">missing_pct</span><span class="op">)</span>, y <span class="op">=</span> <span class="va">missing_pct</span><span class="op">)</span><span class="op">)</span> <span class="op">+</span></span>
-<span>  <span class="fu"><a href="https://ggplot2.tidyverse.org/reference/geom_bar.html" class="external-link">geom_bar</a></span><span class="op">(</span>stat <span class="op">=</span> <span class="st">"identity"</span>, fill <span class="op">=</span> <span class="st">"steelblue"</span><span class="op">)</span> <span class="op">+</span></span>
-<span>  <span class="fu"><a href="https://ggplot2.tidyverse.org/reference/labs.html" class="external-link">labs</a></span><span class="op">(</span></span>
-<span>    title <span class="op">=</span> <span class="st">"Item-wise Missing Data Percentage"</span>,</span>
-<span>    x <span class="op">=</span> <span class="st">"Item"</span>,</span>
-<span>    y <span class="op">=</span> <span class="st">"Missing Percentage (%)"</span></span>
-<span>  <span class="op">)</span> <span class="op">+</span></span>
-<span>  <span class="fu"><a href="https://ggplot2.tidyverse.org/reference/ggtheme.html" class="external-link">theme_minimal</a></span><span class="op">(</span><span class="op">)</span> <span class="op">+</span></span>
-<span>  <span class="fu"><a href="https://ggplot2.tidyverse.org/reference/theme.html" class="external-link">theme</a></span><span class="op">(</span>axis.text.x <span class="op">=</span> <span class="fu"><a href="https://ggplot2.tidyverse.org/reference/element.html" class="external-link">element_text</a></span><span class="op">(</span>angle <span class="op">=</span> <span class="fl">45</span>, hjust <span class="op">=</span> <span class="fl">1</span><span class="op">)</span><span class="op">)</span></span></code></pre></div>
-<p><img src="reference/figures/README-unnamed-chunk-6-1.png" width="100%"></p>
-</div>
+<span><span class="co">#&gt; # A tibble: 6 × 5</span></span>
+<span><span class="co">#&gt;   Date       Item  Type   Market   Price</span></span>
+<span><span class="co">#&gt;   &lt;date&gt;     &lt;chr&gt; &lt;chr&gt;  &lt;chr&gt;    &lt;dbl&gt;</span></span>
+<span><span class="co">#&gt; 1 2016-08-01 Beans Retail Dambulla   165</span></span>
+<span><span class="co">#&gt; 2 2016-08-02 Beans Retail Dambulla   190</span></span>
+<span><span class="co">#&gt; 3 2016-08-03 Beans Retail Dambulla   190</span></span>
+<span><span class="co">#&gt; 4 2016-08-04 Beans Retail Dambulla   190</span></span>
+<span><span class="co">#&gt; 5 2016-08-05 Beans Retail Dambulla   190</span></span>
+<span><span class="co">#&gt; 6 2016-08-08 Beans Retail Dambulla   190</span></span>
+<span><span class="fu"><a href="https://rdrr.io/r/utils/head.html" class="external-link">tail</a></span><span class="op">(</span><span class="va">vegetables.srilanka</span><span class="op">)</span></span>
+<span><span class="co">#&gt; # A tibble: 6 × 5</span></span>
+<span><span class="co">#&gt;   Date       Item   Type      Market Price</span></span>
+<span><span class="co">#&gt;   &lt;date&gt;     &lt;chr&gt;  &lt;chr&gt;     &lt;chr&gt;  &lt;dbl&gt;</span></span>
+<span><span class="co">#&gt; 1 2026-03-03 Tomato Wholesale Pettah   120</span></span>
+<span><span class="co">#&gt; 2 2026-03-04 Tomato Wholesale Pettah   120</span></span>
+<span><span class="co">#&gt; 3 2026-03-05 Tomato Wholesale Pettah    80</span></span>
+<span><span class="co">#&gt; 4 2026-03-06 Tomato Wholesale Pettah    90</span></span>
+<span><span class="co">#&gt; 5 2026-03-09 Tomato Wholesale Pettah   120</span></span>
+<span><span class="co">#&gt; 6 2026-03-10 Tomato Wholesale Pettah   120</span></span></code></pre></div>
 </div>
 <div class="section level2">
 <h2 id="example">Example<a class="anchor" aria-label="anchor" href="#example"></a>
 </h2>
-<div class="sourceCode" id="cb8"><pre class="downlit sourceCode r">
-<code class="sourceCode R"><span><span class="va">vegetables.srilanka</span> <span class="op">|&gt;</span></span>
-<span>  <span class="fu"><a href="https://dplyr.tidyverse.org/reference/filter.html" class="external-link">filter</a></span><span class="op">(</span><span class="va">Item</span> <span class="op">==</span> <span class="st">"Pumpkin"</span><span class="op">)</span> <span class="op">|&gt;</span></span>
-<span>  <span class="fu"><a href="https://dplyr.tidyverse.org/reference/filter.html" class="external-link">filter</a></span><span class="op">(</span><span class="va">Type</span> <span class="op">==</span> <span class="st">"Retail"</span><span class="op">)</span> <span class="op">|&gt;</span></span>
-<span>  <span class="fu"><a href="https://dplyr.tidyverse.org/reference/filter.html" class="external-link">filter</a></span><span class="op">(</span><span class="va">Market</span> <span class="op">==</span> <span class="st">"Dambulla"</span><span class="op">)</span> <span class="op">|&gt;</span></span>
-<span>  <span class="fu"><a href="https://ggplot2.tidyverse.org/reference/ggplot.html" class="external-link">ggplot</a></span><span class="op">(</span><span class="fu"><a href="https://ggplot2.tidyverse.org/reference/aes.html" class="external-link">aes</a></span><span class="op">(</span>x<span class="op">=</span><span class="va">Date</span>, y<span class="op">=</span><span class="va">Price</span><span class="op">)</span><span class="op">)</span> <span class="op">+</span> </span>
-<span>  <span class="fu"><a href="https://ggplot2.tidyverse.org/reference/geom_path.html" class="external-link">geom_line</a></span><span class="op">(</span><span class="op">)</span></span></code></pre></div>
-<p><img src="reference/figures/README-unnamed-chunk-7-1.png" width="100%"></p>
+</div>
+<div class="section level2">
+<h2 id="fill-missing-gaps">Fill missing gaps<a class="anchor" aria-label="anchor" href="#fill-missing-gaps"></a>
+</h2>
+<div class="sourceCode" id="cb3"><pre class="downlit sourceCode r">
+<code class="sourceCode R"><span><span class="va">filled</span> <span class="op">&lt;-</span> <span class="fu"><a href="reference/fillgaps_vegetable_prices.html">fillgaps_vegetable_prices</a></span><span class="op">(</span></span>
+<span>   data <span class="op">=</span> <span class="va">vegetables.srilanka</span>,</span>
+<span>   item <span class="op">=</span> <span class="st">"Carrot"</span>,</span>
+<span>   market <span class="op">=</span> <span class="st">"Dambulla"</span>,</span>
+<span>   type <span class="op">=</span> <span class="st">"Retail"</span></span>
+<span> <span class="op">)</span></span>
+<span><span class="va">filled</span></span>
+<span><span class="co">#&gt; # A tsibble: 3,509 x 5 [1D]</span></span>
+<span><span class="co">#&gt;    Date       Item   Type   Market   Price</span></span>
+<span><span class="co">#&gt;    &lt;date&gt;     &lt;chr&gt;  &lt;chr&gt;  &lt;chr&gt;    &lt;dbl&gt;</span></span>
+<span><span class="co">#&gt;  1 2016-08-01 Carrot Retail Dambulla   155</span></span>
+<span><span class="co">#&gt;  2 2016-08-02 Carrot Retail Dambulla   155</span></span>
+<span><span class="co">#&gt;  3 2016-08-03 Carrot Retail Dambulla   150</span></span>
+<span><span class="co">#&gt;  4 2016-08-04 Carrot Retail Dambulla   145</span></span>
+<span><span class="co">#&gt;  5 2016-08-05 Carrot Retail Dambulla   145</span></span>
+<span><span class="co">#&gt;  6 2016-08-06 &lt;NA&gt;   &lt;NA&gt;   &lt;NA&gt;        NA</span></span>
+<span><span class="co">#&gt;  7 2016-08-07 &lt;NA&gt;   &lt;NA&gt;   &lt;NA&gt;        NA</span></span>
+<span><span class="co">#&gt;  8 2016-08-08 Carrot Retail Dambulla   125</span></span>
+<span><span class="co">#&gt;  9 2016-08-09 Carrot Retail Dambulla   135</span></span>
+<span><span class="co">#&gt; 10 2016-08-10 Carrot Retail Dambulla   150</span></span>
+<span><span class="co">#&gt; # ℹ 3,499 more rows</span></span></code></pre></div>
+</div>
+<div class="section level2">
+<h2 id="plot-data">Plot data<a class="anchor" aria-label="anchor" href="#plot-data"></a>
+</h2>
+<div class="sourceCode" id="cb4"><pre class="downlit sourceCode r">
+<code class="sourceCode R"><span><span class="fu"><a href="reference/plot_vegetable_prices.html">plot_vegetable_prices</a></span><span class="op">(</span></span>
+<span>   data <span class="op">=</span> <span class="va">vegetables.srilanka</span>,</span>
+<span>   item <span class="op">=</span> <span class="st">"Carrot"</span>,</span>
+<span>   market <span class="op">=</span> <span class="st">"Dambulla"</span>,</span>
+<span>   type <span class="op">=</span> <span class="st">"Retail"</span></span>
+<span> <span class="op">)</span></span></code></pre></div>
+<p><img src="reference/figures/README-unnamed-chunk-3-1.png" alt="" width="100%"></p>
+</div>
+<div class="section level2">
+<h2 id="data-quality-analysis">Data Quality Analysis<a class="anchor" aria-label="anchor" href="#data-quality-analysis"></a>
+</h2>
+<div class="sourceCode" id="cb5"><pre class="downlit sourceCode r">
+<code class="sourceCode R"><span><span class="fu"><a href="reference/visualize_missingness.html">visualize_missingness</a></span><span class="op">(</span></span>
+<span>  data <span class="op">=</span> <span class="va">vegetables.srilanka</span>,</span>
+<span>  group_var <span class="op">=</span> <span class="st">"Item"</span>,</span>
+<span>  target_var <span class="op">=</span> <span class="st">"Price"</span></span>
+<span> <span class="op">)</span></span>
+<span><span class="co">#&gt; $data_structure</span></span></code></pre></div>
+<p><img src="reference/figures/README-unnamed-chunk-4-1.png" alt="" width="100%"></p>
+<div class="sourceCode" id="cb6"><pre class="sourceCode R"><code class="sourceCode r"><span id="cb6-1"><a href="#cb6-1" tabindex="-1"></a><span class="co">#&gt; </span></span>
+<span id="cb6-2"><a href="#cb6-2" tabindex="-1"></a><span class="co">#&gt; $missing_map</span></span></code></pre></div>
+<p><img src="reference/figures/README-unnamed-chunk-4-2.png" alt="" width="100%"></p>
+<div class="sourceCode" id="cb7"><pre class="sourceCode R"><code class="sourceCode r"><span id="cb7-1"><a href="#cb7-1" tabindex="-1"></a><span class="co">#&gt; </span></span>
+<span id="cb7-2"><a href="#cb7-2" tabindex="-1"></a><span class="co">#&gt; $missing_by_group</span></span></code></pre></div>
+<p><img src="reference/figures/README-unnamed-chunk-4-3.png" alt="" width="100%"></p>
 </div>
 </div>
   </main><aside class="col-md-3"><div class="license">
