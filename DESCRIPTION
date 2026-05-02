@@ -9,9 +9,21 @@ Authors@R: c(
     person("Priyanga Dilini", "Talagala", role = c("aut"), comment = c(ORCID = "0000-0003-2870-7449")))
   )
 Description: Provides retail and wholesale vegetable price data from two major market hubs in Sri Lanka, Dambulla and Pettah. Includes tools for analyzing, visualizing, and comparing vegetable prices across markets.
+Maintainer: Thiyanga S. Talagala <ttalagala@sjp.ac.lk>
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
 Depends: 
-    R (>= 3.5)
+    R (>= 4.1.0)
+Imports:
+    tsibble,
+    fabletools,
+    dplyr,
+    naniar,
+    visdat,
+    ggplot2
 RoxygenNote: 7.3.3
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr

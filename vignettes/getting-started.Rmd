@@ -1,24 +1,21 @@
 ---
-output: github_document
+title: "getting-started"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{getting-started}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
 ---
-
-<!-- README.md is generated from README.Rmd. Please edit that file -->
 
 ```{r, include = FALSE}
 knitr::opts_chunk$set(
   collapse = TRUE,
-  comment = "#>",
-  fig.path = "man/figures/README-",
-  out.width = "100%"
+  comment = "#>"
 )
 ```
 
-# vegetablesSriLanka 
 
-<!--<img src="logo/vegetableSriLanka_hex.png" align="right" height="200"/>-->
-
-
-## Installation
+# Installation
 
 You can install the development version of vegetablesSriLanka from GitHub with:
 
@@ -27,9 +24,7 @@ You can install the development version of vegetablesSriLanka from GitHub with:
 pak::pak("thiyangt/vegetablesSriLanka")
 ```
 
-## Load data
-
-
+# Load  package and data
 
 ```{r example}
 library(vegetablesSriLanka)
@@ -40,7 +35,7 @@ tail(vegetables.srilanka)
 
 
 
-## Example
+# Example
 
 ## Fill missing gaps
 
@@ -69,7 +64,6 @@ plot_vegetable_prices(
 
 
 ## Data Quality Analysis
-
 
 ```{r, warning=FALSE, message=FALSE}
 visualize_missingness(

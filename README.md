@@ -1,7 +1,9 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# vegetablesSriLanka <img src="logo/vegetableSriLanka_hex.png" align="right" height="200"/>
+# vegetablesSriLanka
+
+<!--<img src="logo/vegetableSriLanka_hex.png" align="right" height="200"/>-->
 
 ## Installation
 
@@ -17,100 +19,92 @@ pak::pak("thiyangt/vegetablesSriLanka")
 
 ``` r
 library(vegetablesSriLanka)
+#> Registered S3 method overwritten by 'tsibble':
+#>   method               from 
+#>   as_tibble.grouped_df dplyr
 data("vegetables.srilanka")
 head(vegetables.srilanka)
-#>         Date            Item      Type   Market Price
-#> 1 2016-08-01           Beans    Retail Dambulla   165
-#> 2 2016-08-01           Beans    Retail   Pettah   160
-#> 3 2016-08-01           Beans Wholesale Dambulla   130
-#> 4 2016-08-01           Beans Wholesale   Pettah   140
-#> 5 2016-08-01 Big Onion (Imp)    Retail Dambulla    80
-#> 6 2016-08-01 Big Onion (Imp)    Retail   Pettah    80
+#> # A tibble: 6 × 5
+#>   Date       Item  Type   Market   Price
+#>   <date>     <chr> <chr>  <chr>    <dbl>
+#> 1 2016-08-01 Beans Retail Dambulla   165
+#> 2 2016-08-02 Beans Retail Dambulla   190
+#> 3 2016-08-03 Beans Retail Dambulla   190
+#> 4 2016-08-04 Beans Retail Dambulla   190
+#> 5 2016-08-05 Beans Retail Dambulla   190
+#> 6 2016-08-08 Beans Retail Dambulla   190
 tail(vegetables.srilanka)
-#>              Date        Item      Type   Market Price
-#> 123787 2026-01-23 Snake gourd Wholesale Dambulla   200
-#> 123788 2026-01-23 Snake gourd Wholesale   Pettah   200
-#> 123789 2026-01-23      Tomato    Retail Dambulla   420
-#> 123790 2026-01-23      Tomato    Retail   Pettah   350
-#> 123791 2026-01-23      Tomato Wholesale Dambulla   390
-#> 123792 2026-01-23      Tomato Wholesale   Pettah   300
+#> # A tibble: 6 × 5
+#>   Date       Item   Type      Market Price
+#>   <date>     <chr>  <chr>     <chr>  <dbl>
+#> 1 2026-03-03 Tomato Wholesale Pettah   120
+#> 2 2026-03-04 Tomato Wholesale Pettah   120
+#> 3 2026-03-05 Tomato Wholesale Pettah    80
+#> 4 2026-03-06 Tomato Wholesale Pettah    90
+#> 5 2026-03-09 Tomato Wholesale Pettah   120
+#> 6 2026-03-10 Tomato Wholesale Pettah   120
 ```
 
-## Data Quality Analysis
+## Example
+
+## Fill missing gaps
 
 ``` r
-library(visdat)
-library(naniar)
-library(tidyverse)
+filled <- fillgaps_vegetable_prices(
+   data = vegetables.srilanka,
+   item = "Carrot",
+   market = "Dambulla",
+   type = "Retail"
+ )
+filled
+#> # A tsibble: 3,509 x 5 [1D]
+#>    Date       Item   Type   Market   Price
+#>    <date>     <chr>  <chr>  <chr>    <dbl>
+#>  1 2016-08-01 Carrot Retail Dambulla   155
+#>  2 2016-08-02 Carrot Retail Dambulla   155
+#>  3 2016-08-03 Carrot Retail Dambulla   150
+#>  4 2016-08-04 Carrot Retail Dambulla   145
+#>  5 2016-08-05 Carrot Retail Dambulla   145
+#>  6 2016-08-06 <NA>   <NA>   <NA>        NA
+#>  7 2016-08-07 <NA>   <NA>   <NA>        NA
+#>  8 2016-08-08 Carrot Retail Dambulla   125
+#>  9 2016-08-09 Carrot Retail Dambulla   135
+#> 10 2016-08-10 Carrot Retail Dambulla   150
+#> # ℹ 3,499 more rows
 ```
 
-### Information about the class of the data input
+## Plot data
 
 ``` r
-vis_dat(vegetables.srilanka)
+plot_vegetable_prices(
+   data = vegetables.srilanka,
+   item = "Carrot",
+   market = "Dambulla",
+   type = "Retail"
+ )
 ```
 
 <img src="man/figures/README-unnamed-chunk-3-1.png" alt="" width="100%" />
 
-### Amount of missings in each columns
+## Data Quality Analysis
 
 ``` r
-vis_miss(vegetables.srilanka)
+visualize_missingness(
+  data = vegetables.srilanka,
+  group_var = "Item",
+  target_var = "Price"
+ )
+#> $data_structure
 ```
 
 <img src="man/figures/README-unnamed-chunk-4-1.png" alt="" width="100%" />
 
-### Visualise item-wise missing percentage
+    #> 
+    #> $missing_map
 
-``` r
-vs1 <- vegetables.srilanka |>
-  filter(!is.na(Item)) 
-gg_miss_fct(vs1, Item)
-```
+<img src="man/figures/README-unnamed-chunk-4-2.png" alt="" width="100%" />
 
-<img src="man/figures/README-unnamed-chunk-5-1.png" alt="" width="100%" />
+    #> 
+    #> $missing_by_group
 
-``` r
-vs <- vegetables.srilanka |>
-  filter(!is.na(Item)) |>
-  select(Item, Price)
-# Calculate item-wise missing percentage
-missing_summary <- vs |>
-  group_by(Item) |>
-  summarise(
-    missing_pct = mean(!complete.cases(across())) * 100
-  )
-#> Warning: There were 15 warnings in `summarise()`.
-#> The first warning was:
-#> ℹ In argument: `missing_pct = mean(!complete.cases(across())) * 100`.
-#> ℹ In group 1: `Item = "Beans"`.
-#> Caused by warning:
-#> ! Using `across()` without supplying `.cols` was deprecated in dplyr 1.1.0.
-#> ℹ Please supply `.cols` instead.
-#> ℹ Run `dplyr::last_dplyr_warnings()` to see the 14 remaining warnings.
-
-ggplot(missing_summary, aes(x = reorder(Item, -missing_pct), y = missing_pct)) +
-  geom_bar(stat = "identity", fill = "steelblue") +
-  labs(
-    title = "Item-wise Missing Data Percentage",
-    x = "Item",
-    y = "Missing Percentage (%)"
-  ) +
-  theme_minimal() +
-  theme(axis.text.x = element_text(angle = 45, hjust = 1))
-```
-
-<img src="man/figures/README-unnamed-chunk-6-1.png" alt="" width="100%" />
-
-## Example
-
-``` r
-vegetables.srilanka |>
-  filter(Item == "Pumpkin") |>
-  filter(Type == "Retail") |>
-  filter(Market == "Dambulla") |>
-  ggplot(aes(x=Date, y=Price)) + 
-  geom_line()
-```
-
-<img src="man/figures/README-unnamed-chunk-7-1.png" alt="" width="100%" />
+<img src="man/figures/README-unnamed-chunk-4-3.png" alt="" width="100%" />
