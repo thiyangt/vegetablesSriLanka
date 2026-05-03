@@ -14,5 +14,4 @@
 ^pkgdown$
 ^inst/doc$
 ^doc$
-^vignettes$
 ^Meta$
