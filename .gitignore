@@ -15,3 +15,5 @@
 ^cran-comments\.md$
 inst/doc
 docs
+/doc/
+/Meta/

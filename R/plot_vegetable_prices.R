@@ -19,7 +19,7 @@
 #' @importFrom dplyr mutate
 #' @importFrom tsibble as_tsibble
 #' @importFrom tsibble fill_gaps
-#' @importFrom fabletools autoplot
+#' @importFrom ggplot2 ggplot
 #'
 #' @examples
 #' plot_vegetable_prices(
@@ -44,7 +44,11 @@ plot_vegetable_prices <- function(data, item, market, type) {
     tsibble::as_tsibble(index = Date) |>
     tsibble::fill_gaps()
 
-  ts_plot <- fabletools::autoplot(filtered_data, Price)
+  ts_plot <- ggplot2::ggplot(
+    filtered_data,
+    ggplot2::aes(x = Date, y = Price)
+  ) +
+    ggplot2::geom_line()
 
   return(ts_plot)
 }

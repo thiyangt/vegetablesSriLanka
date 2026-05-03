@@ -13,3 +13,6 @@
 ^cran-comments\.md$
 ^pkgdown$
 ^inst/doc$
+^doc$
+^vignettes$
+^Meta$
