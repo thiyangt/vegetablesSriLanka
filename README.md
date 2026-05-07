@@ -19,9 +19,6 @@ pak::pak("thiyangt/vegetablesSriLanka")
 
 ``` r
 library(vegetablesSriLanka)
-#> Registered S3 method overwritten by 'tsibble':
-#>   method               from 
-#>   as_tibble.grouped_df dplyr
 data("vegetables.srilanka")
 head(vegetables.srilanka)
 #> # A tibble: 6 × 5
@@ -89,22 +86,24 @@ plot_vegetable_prices(
 ## Data Quality Analysis
 
 ``` r
-visualize_missingness(
+dqa <- visualize_missingness(
   data = vegetables.srilanka,
   group_var = "Item",
   target_var = "Price"
  )
-#> $data_structure
+dqa$data_structure
 ```
 
 <img src="man/figures/README-unnamed-chunk-4-1.png" alt="" width="100%" />
 
-    #> 
-    #> $missing_map
+``` r
+dqa$missing_map
+```
 
 <img src="man/figures/README-unnamed-chunk-4-2.png" alt="" width="100%" />
 
-    #> 
-    #> $missing_by_group
+``` r
+dqa$missing_by_group
+```
 
 <img src="man/figures/README-unnamed-chunk-4-3.png" alt="" width="100%" />
