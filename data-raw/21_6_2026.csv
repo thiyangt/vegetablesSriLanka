@@ -1,0 +1,3657 @@
+Date,Item,Type,Market,Price
+11/03/2026,Beans,Wholesale,Pettah,250
+11/03/2026,Beans,Retail,Pettah,300
+11/03/2026,Beans,Wholesale,Dambulla,295
+11/03/2026,Beans,Retail,Dambulla,325
+11/03/2026,Potato (Imp),Wholesale,Pettah,160
+11/03/2026,Potato (Imp),Retail,Pettah,230
+11/03/2026,Potato (Imp),Wholesale,Dambulla,155
+11/03/2026,Potato (Imp),Retail,Dambulla,175
+11/03/2026,Potato (Local),Wholesale,Pettah,303
+11/03/2026,Potato (Local),Retail,Pettah,370
+11/03/2026,Potato (Local),Wholesale,Dambulla,235
+11/03/2026,Potato (Local),Retail,Dambulla,255
+11/03/2026,Big Onion (Imp),Wholesale,Pettah,131
+11/03/2026,Big Onion (Imp),Retail,Pettah,180
+11/03/2026,Big Onion (Imp),Wholesale,Dambulla,145
+11/03/2026,Big Onion (Imp),Retail,Dambulla,165
+11/03/2026,Big Onion (Local),Wholesale,Pettah,NA
+11/03/2026,Big Onion (Local),Retail,Pettah,NA
+11/03/2026,Big Onion (Local),Wholesale,Dambulla,NA
+11/03/2026,Big Onion (Local),Retail,Dambulla,NA
+11/03/2026,Red Onion (Local),Wholesale,Pettah,175
+11/03/2026,Red Onion (Local),Retail,Pettah,220
+11/03/2026,Red Onion (Local),Wholesale,Dambulla,130
+11/03/2026,Red Onion (Local),Retail,Dambulla,150
+11/03/2026,Lime,Wholesale,Pettah,80
+11/03/2026,Lime,Retail,Pettah,130
+11/03/2026,Lime,Wholesale,Dambulla,65
+11/03/2026,Lime,Retail,Dambulla,95
+11/03/2026,Red Onion (Imp),Wholesale,Pettah,216
+11/03/2026,Red Onion (Imp),Retail,Pettah,400
+11/03/2026,Red Onion (Imp),Wholesale,Dambulla,145
+11/03/2026,Red Onion (Imp),Retail,Dambulla,165
+11/03/2026,Snake gourd,Wholesale,Pettah,150
+11/03/2026,Snake gourd,Retail,Pettah,200
+11/03/2026,Snake gourd,Wholesale,Dambulla,85
+11/03/2026,Snake gourd,Retail,Dambulla,115
+11/03/2026,Pumpkin,Wholesale,Pettah,140
+11/03/2026,Pumpkin,Retail,Pettah,200
+11/03/2026,Pumpkin,Wholesale,Dambulla,125
+11/03/2026,Pumpkin,Retail,Dambulla,155
+11/03/2026,Brinjal,Wholesale,Pettah,300
+11/03/2026,Brinjal,Retail,Pettah,350
+11/03/2026,Brinjal,Wholesale,Dambulla,250
+11/03/2026,Brinjal,Retail,Dambulla,280
+11/03/2026,Tomato,Wholesale,Pettah,80
+11/03/2026,Tomato,Retail,Pettah,130
+11/03/2026,Tomato,Wholesale,Dambulla,70
+11/03/2026,Tomato,Retail,Dambulla,100
+11/03/2026,Cabbage,Wholesale,Pettah,150
+11/03/2026,Cabbage,Retail,Pettah,200
+11/03/2026,Cabbage,Wholesale,Dambulla,135
+11/03/2026,Cabbage,Retail,Dambulla,155
+11/03/2026,Carrot,Wholesale,Pettah,250
+11/03/2026,Carrot,Retail,Pettah,300
+11/03/2026,Carrot,Wholesale,Dambulla,235
+11/03/2026,Carrot,Retail,Dambulla,265
+11/03/2026,Green Chilli,Wholesale,Pettah,NA
+11/03/2026,Green Chilli,Retail,Pettah,300
+11/03/2026,Green Chilli,Wholesale,Dambulla,295
+11/03/2026,Green Chilli,Retail,Dambulla,325
+12/03/2026,Lime,Wholesale,Pettah,80
+12/03/2026,Lime,Retail,Pettah,130
+12/03/2026,Lime,Wholesale,Dambulla,65
+12/03/2026,Lime,Retail,Dambulla,95
+12/03/2026,Potato (Imp),Wholesale,Pettah,165
+12/03/2026,Potato (Imp),Retail,Pettah,230
+12/03/2026,Potato (Imp),Wholesale,Dambulla,155
+12/03/2026,Potato (Imp),Retail,Dambulla,175
+12/03/2026,Potato (Local),Wholesale,Pettah,253
+12/03/2026,Potato (Local),Retail,Pettah,370
+12/03/2026,Potato (Local),Wholesale,Dambulla,230
+12/03/2026,Potato (Local),Retail,Dambulla,250
+12/03/2026,Big Onion (Imp),Wholesale,Pettah,132
+12/03/2026,Big Onion (Imp),Retail,Pettah,180
+12/03/2026,Big Onion (Imp),Wholesale,Dambulla,143
+12/03/2026,Big Onion (Imp),Retail,Dambulla,163
+12/03/2026,Big Onion (Local),Wholesale,Pettah,NA
+12/03/2026,Big Onion (Local),Retail,Pettah,NA
+12/03/2026,Big Onion (Local),Wholesale,Dambulla,NA
+12/03/2026,Big Onion (Local),Retail,Dambulla,NA
+12/03/2026,Red Onion (Local),Wholesale,Pettah,175
+12/03/2026,Red Onion (Local),Retail,Pettah,220
+12/03/2026,Red Onion (Local),Wholesale,Dambulla,140
+12/03/2026,Red Onion (Local),Retail,Dambulla,160
+12/03/2026,Green Chilli,Wholesale,Pettah,400
+12/03/2026,Green Chilli,Retail,Pettah,450
+12/03/2026,Green Chilli,Wholesale,Dambulla,325
+12/03/2026,Green Chilli,Retail,Dambulla,355
+12/03/2026,Red Onion (Imp),Wholesale,Pettah,218
+12/03/2026,Red Onion (Imp),Retail,Pettah,400
+12/03/2026,Red Onion (Imp),Wholesale,Dambulla,195
+12/03/2026,Red Onion (Imp),Retail,Dambulla,215
+12/03/2026,Pumpkin,Wholesale,Pettah,140
+12/03/2026,Pumpkin,Retail,Pettah,200
+12/03/2026,Pumpkin,Wholesale,Dambulla,115
+12/03/2026,Pumpkin,Retail,Dambulla,145
+12/03/2026,Brinjal,Wholesale,Pettah,300
+12/03/2026,Brinjal,Retail,Pettah,350
+12/03/2026,Brinjal,Wholesale,Dambulla,290
+12/03/2026,Brinjal,Retail,Dambulla,320
+12/03/2026,Tomato,Wholesale,Pettah,80
+12/03/2026,Tomato,Retail,Pettah,130
+12/03/2026,Tomato,Wholesale,Dambulla,45
+12/03/2026,Tomato,Retail,Dambulla,75
+12/03/2026,Cabbage,Wholesale,Pettah,150
+12/03/2026,Cabbage,Retail,Pettah,200
+12/03/2026,Cabbage,Wholesale,Dambulla,125
+12/03/2026,Cabbage,Retail,Dambulla,155
+12/03/2026,Carrot,Wholesale,Pettah,250
+12/03/2026,Carrot,Retail,Pettah,300
+12/03/2026,Carrot,Wholesale,Dambulla,185
+12/03/2026,Carrot,Retail,Dambulla,215
+12/03/2026,Beans,Wholesale,Pettah,250
+12/03/2026,Beans,Retail,Pettah,300
+12/03/2026,Beans,Wholesale,Dambulla,225
+12/03/2026,Beans,Retail,Dambulla,255
+12/03/2026,Snake gourd,Wholesale,Pettah,150
+12/03/2026,Snake gourd,Retail,Pettah,200
+12/03/2026,Snake gourd,Wholesale,Dambulla,75
+12/03/2026,Snake gourd,Retail,Dambulla,105
+13/03/2026,Potato (Imp),Wholesale,Pettah,161
+13/03/2026,Potato (Imp),Retail,Pettah,230
+13/03/2026,Potato (Imp),Wholesale,Dambulla,158
+13/03/2026,Potato (Imp),Retail,Dambulla,178
+13/03/2026,Potato (Local),Wholesale,Pettah,262
+13/03/2026,Potato (Local),Retail,Pettah,350
+13/03/2026,Potato (Local),Wholesale,Dambulla,235
+13/03/2026,Potato (Local),Retail,Dambulla,255
+13/03/2026,Big Onion (Imp),Wholesale,Pettah,131
+13/03/2026,Big Onion (Imp),Retail,Pettah,180
+13/03/2026,Big Onion (Imp),Wholesale,Dambulla,143
+13/03/2026,Big Onion (Imp),Retail,Dambulla,163
+13/03/2026,Big Onion (Local),Wholesale,Pettah,NA
+13/03/2026,Big Onion (Local),Retail,Pettah,NA
+13/03/2026,Big Onion (Local),Wholesale,Dambulla,NA
+13/03/2026,Big Onion (Local),Retail,Dambulla,NA
+13/03/2026,Red Onion (Imp),Wholesale,Pettah,214
+13/03/2026,Red Onion (Imp),Retail,Pettah,400
+13/03/2026,Red Onion (Imp),Wholesale,Dambulla,175
+13/03/2026,Red Onion (Imp),Retail,Dambulla,195
+13/03/2026,Red Onion (Local),Wholesale,Pettah,NA
+13/03/2026,Red Onion (Local),Retail,Pettah,NA
+13/03/2026,Red Onion (Local),Wholesale,Dambulla,175
+13/03/2026,Red Onion (Local),Retail,Dambulla,195
+13/03/2026,Lime,Wholesale,Pettah,80
+13/03/2026,Lime,Retail,Pettah,130
+13/03/2026,Lime,Wholesale,Dambulla,55
+13/03/2026,Lime,Retail,Dambulla,85
+13/03/2026,Green Chilli,Wholesale,Pettah,NA
+13/03/2026,Green Chilli,Retail,Pettah,450
+13/03/2026,Green Chilli,Wholesale,Dambulla,280
+13/03/2026,Green Chilli,Retail,Dambulla,310
+13/03/2026,Pumpkin,Wholesale,Pettah,140
+13/03/2026,Pumpkin,Retail,Pettah,200
+13/03/2026,Pumpkin,Wholesale,Dambulla,115
+13/03/2026,Pumpkin,Retail,Dambulla,145
+13/03/2026,Brinjal,Wholesale,Pettah,250
+13/03/2026,Brinjal,Retail,Pettah,300
+13/03/2026,Brinjal,Wholesale,Dambulla,265
+13/03/2026,Brinjal,Retail,Dambulla,295
+13/03/2026,Tomato,Wholesale,Pettah,80
+13/03/2026,Tomato,Retail,Pettah,130
+13/03/2026,Tomato,Wholesale,Dambulla,55
+13/03/2026,Tomato,Retail,Dambulla,85
+13/03/2026,Cabbage,Wholesale,Pettah,150
+13/03/2026,Cabbage,Retail,Pettah,200
+13/03/2026,Cabbage,Wholesale,Dambulla,135
+13/03/2026,Cabbage,Retail,Dambulla,165
+13/03/2026,Carrot,Wholesale,Pettah,250
+13/03/2026,Carrot,Retail,Pettah,300
+13/03/2026,Carrot,Wholesale,Dambulla,250
+13/03/2026,Carrot,Retail,Dambulla,280
+13/03/2026,Beans,Wholesale,Pettah,200
+13/03/2026,Beans,Retail,Pettah,250
+13/03/2026,Beans,Wholesale,Dambulla,170
+13/03/2026,Beans,Retail,Dambulla,200
+13/03/2026,Snake gourd,Wholesale,Pettah,120
+13/03/2026,Snake gourd,Retail,Pettah,170
+13/03/2026,Snake gourd,Wholesale,Dambulla,83
+13/03/2026,Snake gourd,Retail,Dambulla,113
+16/03/2026,Lime,Wholesale,Pettah,80
+16/03/2026,Lime,Retail,Pettah,130
+16/03/2026,Lime,Wholesale,Dambulla,90
+16/03/2026,Lime,Retail,Dambulla,120
+16/03/2026,Potato (Imp),Wholesale,Pettah,158
+16/03/2026,Potato (Imp),Retail,Pettah,200
+16/03/2026,Potato (Imp),Wholesale,Dambulla,155
+16/03/2026,Potato (Imp),Retail,Dambulla,175
+16/03/2026,Potato (Local),Wholesale,Pettah,320
+16/03/2026,Potato (Local),Retail,Pettah,350
+16/03/2026,Potato (Local),Wholesale,Dambulla,275
+16/03/2026,Potato (Local),Retail,Dambulla,295
+16/03/2026,Big Onion (Imp),Wholesale,Pettah,133
+16/03/2026,Big Onion (Imp),Retail,Pettah,180
+16/03/2026,Big Onion (Imp),Wholesale,Dambulla,145
+16/03/2026,Big Onion (Imp),Retail,Dambulla,165
+16/03/2026,Big Onion (Local),Wholesale,Pettah,NA
+16/03/2026,Big Onion (Local),Retail,Pettah,NA
+16/03/2026,Big Onion (Local),Wholesale,Dambulla,NA
+16/03/2026,Big Onion (Local),Retail,Dambulla,NA
+16/03/2026,Red Onion (Local),Wholesale,Pettah,NA
+16/03/2026,Red Onion (Local),Retail,Pettah,NA
+16/03/2026,Red Onion (Local),Wholesale,Dambulla,130
+16/03/2026,Red Onion (Local),Retail,Dambulla,150
+16/03/2026,Green Chilli,Wholesale,Pettah,NA
+16/03/2026,Green Chilli,Retail,Pettah,450
+16/03/2026,Green Chilli,Wholesale,Dambulla,325
+16/03/2026,Green Chilli,Retail,Dambulla,355
+16/03/2026,Red Onion (Imp),Wholesale,Pettah,235
+16/03/2026,Red Onion (Imp),Retail,Pettah,400
+16/03/2026,Red Onion (Imp),Wholesale,Dambulla,190
+16/03/2026,Red Onion (Imp),Retail,Dambulla,210
+16/03/2026,Pumpkin,Wholesale,Pettah,140
+16/03/2026,Pumpkin,Retail,Pettah,200
+16/03/2026,Pumpkin,Wholesale,Dambulla,120
+16/03/2026,Pumpkin,Retail,Dambulla,150
+16/03/2026,Beans,Wholesale,Pettah,200
+16/03/2026,Beans,Retail,Pettah,250
+16/03/2026,Beans,Wholesale,Dambulla,200
+16/03/2026,Beans,Retail,Dambulla,230
+16/03/2026,Carrot,Wholesale,Pettah,250
+16/03/2026,Carrot,Retail,Pettah,300
+16/03/2026,Carrot,Wholesale,Dambulla,250
+16/03/2026,Carrot,Retail,Dambulla,280
+16/03/2026,Cabbage,Wholesale,Pettah,100
+16/03/2026,Cabbage,Retail,Pettah,150
+16/03/2026,Cabbage,Wholesale,Dambulla,115
+16/03/2026,Cabbage,Retail,Dambulla,145
+16/03/2026,Snake gourd,Wholesale,Pettah,120
+16/03/2026,Snake gourd,Retail,Pettah,170
+16/03/2026,Snake gourd,Wholesale,Dambulla,65
+16/03/2026,Snake gourd,Retail,Dambulla,95
+16/03/2026,Brinjal,Wholesale,Pettah,250
+16/03/2026,Brinjal,Retail,Pettah,300
+16/03/2026,Brinjal,Wholesale,Dambulla,225
+16/03/2026,Brinjal,Retail,Dambulla,255
+16/03/2026,Tomato,Wholesale,Pettah,100
+16/03/2026,Tomato,Retail,Pettah,150
+16/03/2026,Tomato,Wholesale,Dambulla,65
+16/03/2026,Tomato,Retail,Dambulla,95
+17/03/2026,Red Onion (Local),Wholesale,Pettah,207
+17/03/2026,Red Onion (Local),Retail,Pettah,NA
+17/03/2026,Red Onion (Local),Wholesale,Dambulla,155
+17/03/2026,Red Onion (Local),Retail,Dambulla,175
+17/03/2026,Potato (Imp),Wholesale,Pettah,156
+17/03/2026,Potato (Imp),Retail,Pettah,200
+17/03/2026,Potato (Imp),Wholesale,Dambulla,153
+17/03/2026,Potato (Imp),Retail,Dambulla,173
+17/03/2026,Potato (Local),Wholesale,Pettah,315
+17/03/2026,Potato (Local),Retail,Pettah,350
+17/03/2026,Potato (Local),Wholesale,Dambulla,245
+17/03/2026,Potato (Local),Retail,Dambulla,265
+17/03/2026,Big Onion (Imp),Wholesale,Pettah,133
+17/03/2026,Big Onion (Imp),Retail,Pettah,180
+17/03/2026,Big Onion (Imp),Wholesale,Dambulla,150
+17/03/2026,Big Onion (Imp),Retail,Dambulla,170
+17/03/2026,Big Onion (Local),Wholesale,Pettah,NA
+17/03/2026,Big Onion (Local),Retail,Pettah,NA
+17/03/2026,Big Onion (Local),Wholesale,Dambulla,NA
+17/03/2026,Big Onion (Local),Retail,Dambulla,NA
+17/03/2026,Red Onion (Imp),Wholesale,Pettah,238
+17/03/2026,Red Onion (Imp),Retail,Pettah,400
+17/03/2026,Red Onion (Imp),Wholesale,Dambulla,185
+17/03/2026,Red Onion (Imp),Retail,Dambulla,205
+17/03/2026,Lime,Wholesale,Pettah,80
+17/03/2026,Lime,Retail,Pettah,130
+17/03/2026,Lime,Wholesale,Dambulla,75
+17/03/2026,Lime,Retail,Dambulla,105
+17/03/2026,Green Chilli,Wholesale,Pettah,NA
+17/03/2026,Green Chilli,Retail,Pettah,450
+17/03/2026,Green Chilli,Wholesale,Dambulla,340
+17/03/2026,Green Chilli,Retail,Dambulla,370
+17/03/2026,Snake gourd,Wholesale,Pettah,120
+17/03/2026,Snake gourd,Retail,Pettah,170
+17/03/2026,Snake gourd,Wholesale,Dambulla,65
+17/03/2026,Snake gourd,Retail,Dambulla,95
+17/03/2026,Pumpkin,Wholesale,Pettah,140
+17/03/2026,Pumpkin,Retail,Pettah,200
+17/03/2026,Pumpkin,Wholesale,Dambulla,120
+17/03/2026,Pumpkin,Retail,Dambulla,150
+17/03/2026,Brinjal,Wholesale,Pettah,300
+17/03/2026,Brinjal,Retail,Pettah,350
+17/03/2026,Brinjal,Wholesale,Dambulla,290
+17/03/2026,Brinjal,Retail,Dambulla,320
+17/03/2026,Tomato,Wholesale,Pettah,100
+17/03/2026,Tomato,Retail,Pettah,150
+17/03/2026,Tomato,Wholesale,Dambulla,60
+17/03/2026,Tomato,Retail,Dambulla,90
+17/03/2026,Cabbage,Wholesale,Pettah,100
+17/03/2026,Cabbage,Retail,Pettah,150
+17/03/2026,Cabbage,Wholesale,Dambulla,120
+17/03/2026,Cabbage,Retail,Dambulla,150
+17/03/2026,Carrot,Wholesale,Pettah,250
+17/03/2026,Carrot,Retail,Pettah,300
+17/03/2026,Carrot,Wholesale,Dambulla,230
+17/03/2026,Carrot,Retail,Dambulla,260
+17/03/2026,Beans,Wholesale,Pettah,200
+17/03/2026,Beans,Retail,Pettah,250
+17/03/2026,Beans,Wholesale,Dambulla,190
+17/03/2026,Beans,Retail,Dambulla,220
+18/03/2026,Potato (Local),Wholesale,Pettah,315
+18/03/2026,Potato (Local),Retail,Pettah,350
+18/03/2026,Potato (Local),Wholesale,Dambulla,230
+18/03/2026,Potato (Local),Retail,Dambulla,260
+18/03/2026,Big Onion (Imp),Wholesale,Pettah,141
+18/03/2026,Big Onion (Imp),Retail,Pettah,180
+18/03/2026,Big Onion (Imp),Wholesale,Dambulla,145
+18/03/2026,Big Onion (Imp),Retail,Dambulla,165
+18/03/2026,Big Onion (Local),Wholesale,Pettah,NA
+18/03/2026,Big Onion (Local),Retail,Pettah,NA
+18/03/2026,Big Onion (Local),Wholesale,Dambulla,NA
+18/03/2026,Big Onion (Local),Retail,Dambulla,NA
+18/03/2026,Red Onion (Imp),Wholesale,Pettah,235
+18/03/2026,Red Onion (Imp),Retail,Pettah,400
+18/03/2026,Red Onion (Imp),Wholesale,Dambulla,275
+18/03/2026,Red Onion (Imp),Retail,Dambulla,295
+18/03/2026,Red Onion (Local),Wholesale,Pettah,207
+18/03/2026,Red Onion (Local),Retail,Pettah,NA
+18/03/2026,Red Onion (Local),Wholesale,Dambulla,200
+18/03/2026,Red Onion (Local),Retail,Dambulla,220
+18/03/2026,Lime,Wholesale,Pettah,80
+18/03/2026,Lime,Retail,Pettah,130
+18/03/2026,Lime,Wholesale,Dambulla,90
+18/03/2026,Lime,Retail,Dambulla,120
+18/03/2026,Potato (Imp),Wholesale,Pettah,155
+18/03/2026,Potato (Imp),Retail,Pettah,200
+18/03/2026,Potato (Imp),Wholesale,Dambulla,153
+18/03/2026,Potato (Imp),Retail,Dambulla,173
+18/03/2026,Green Chilli,Wholesale,Pettah,350
+18/03/2026,Green Chilli,Retail,Pettah,400
+18/03/2026,Green Chilli,Wholesale,Dambulla,360
+18/03/2026,Green Chilli,Retail,Dambulla,390
+18/03/2026,Pumpkin,Wholesale,Pettah,140
+18/03/2026,Pumpkin,Retail,Pettah,200
+18/03/2026,Pumpkin,Wholesale,Dambulla,120
+18/03/2026,Pumpkin,Retail,Dambulla,150
+18/03/2026,Brinjal,Wholesale,Pettah,250
+18/03/2026,Brinjal,Retail,Pettah,300
+18/03/2026,Brinjal,Wholesale,Dambulla,240
+18/03/2026,Brinjal,Retail,Dambulla,270
+18/03/2026,Tomato,Wholesale,Pettah,80
+18/03/2026,Tomato,Retail,Pettah,130
+18/03/2026,Tomato,Wholesale,Dambulla,80
+18/03/2026,Tomato,Retail,Dambulla,110
+18/03/2026,Cabbage,Wholesale,Pettah,100
+18/03/2026,Cabbage,Retail,Pettah,150
+18/03/2026,Cabbage,Wholesale,Dambulla,135
+18/03/2026,Cabbage,Retail,Dambulla,165
+18/03/2026,Carrot,Wholesale,Pettah,250
+18/03/2026,Carrot,Retail,Pettah,300
+18/03/2026,Carrot,Wholesale,Dambulla,250
+18/03/2026,Carrot,Retail,Dambulla,280
+18/03/2026,Beans,Wholesale,Pettah,200
+18/03/2026,Beans,Retail,Pettah,250
+18/03/2026,Beans,Wholesale,Dambulla,230
+18/03/2026,Beans,Retail,Dambulla,260
+18/03/2026,Snake gourd,Wholesale,Pettah,120
+18/03/2026,Snake gourd,Retail,Pettah,170
+18/03/2026,Snake gourd,Wholesale,Dambulla,90
+18/03/2026,Snake gourd,Retail,Dambulla,120
+19/03/2026,Potato (Imp),Wholesale,Pettah,153
+19/03/2026,Potato (Imp),Retail,Pettah,200
+19/03/2026,Potato (Imp),Wholesale,Dambulla,153
+19/03/2026,Potato (Imp),Retail,Dambulla,173
+19/03/2026,Potato (Local),Wholesale,Pettah,315
+19/03/2026,Potato (Local),Retail,Pettah,350
+19/03/2026,Potato (Local),Wholesale,Dambulla,230
+19/03/2026,Potato (Local),Retail,Dambulla,250
+19/03/2026,Big Onion (Imp),Wholesale,Pettah,145
+19/03/2026,Big Onion (Imp),Retail,Pettah,180
+19/03/2026,Big Onion (Imp),Wholesale,Dambulla,150
+19/03/2026,Big Onion (Imp),Retail,Dambulla,170
+19/03/2026,Big Onion (Local),Wholesale,Pettah,NA
+19/03/2026,Big Onion (Local),Retail,Pettah,NA
+19/03/2026,Big Onion (Local),Wholesale,Dambulla,NA
+19/03/2026,Big Onion (Local),Retail,Dambulla,NA
+19/03/2026,Red Onion (Imp),Wholesale,Pettah,238
+19/03/2026,Red Onion (Imp),Retail,Pettah,400
+19/03/2026,Red Onion (Imp),Wholesale,Dambulla,195
+19/03/2026,Red Onion (Imp),Retail,Dambulla,215
+19/03/2026,Red Onion (Local),Wholesale,Pettah,207
+19/03/2026,Red Onion (Local),Retail,Pettah,NA
+19/03/2026,Red Onion (Local),Wholesale,Dambulla,180
+19/03/2026,Red Onion (Local),Retail,Dambulla,200
+19/03/2026,Lime,Wholesale,Pettah,80
+19/03/2026,Lime,Retail,Pettah,130
+19/03/2026,Lime,Wholesale,Dambulla,85
+19/03/2026,Lime,Retail,Dambulla,115
+19/03/2026,Green Chilli,Wholesale,Pettah,350
+19/03/2026,Green Chilli,Retail,Pettah,400
+19/03/2026,Green Chilli,Wholesale,Dambulla,325
+19/03/2026,Green Chilli,Retail,Dambulla,355
+19/03/2026,Pumpkin,Wholesale,Pettah,140
+19/03/2026,Pumpkin,Retail,Pettah,200
+19/03/2026,Pumpkin,Wholesale,Dambulla,125
+19/03/2026,Pumpkin,Retail,Dambulla,155
+19/03/2026,Brinjal,Wholesale,Pettah,250
+19/03/2026,Brinjal,Retail,Pettah,300
+19/03/2026,Brinjal,Wholesale,Dambulla,250
+19/03/2026,Brinjal,Retail,Dambulla,280
+19/03/2026,Tomato,Wholesale,Pettah,80
+19/03/2026,Tomato,Retail,Pettah,130
+19/03/2026,Tomato,Wholesale,Dambulla,48
+19/03/2026,Tomato,Retail,Dambulla,78
+19/03/2026,Cabbage,Wholesale,Pettah,100
+19/03/2026,Cabbage,Retail,Pettah,150
+19/03/2026,Cabbage,Wholesale,Dambulla,105
+19/03/2026,Cabbage,Retail,Dambulla,135
+19/03/2026,Carrot,Wholesale,Pettah,250
+19/03/2026,Carrot,Retail,Pettah,300
+19/03/2026,Carrot,Wholesale,Dambulla,280
+19/03/2026,Carrot,Retail,Dambulla,310
+19/03/2026,Beans,Wholesale,Pettah,200
+19/03/2026,Beans,Retail,Pettah,250
+19/03/2026,Beans,Wholesale,Dambulla,240
+19/03/2026,Beans,Retail,Dambulla,270
+19/03/2026,Snake gourd,Wholesale,Pettah,120
+19/03/2026,Snake gourd,Retail,Pettah,170
+19/03/2026,Snake gourd,Wholesale,Dambulla,75
+19/03/2026,Snake gourd,Retail,Dambulla,105
+20/03/2026,Lime,Wholesale,Pettah,80
+20/03/2026,Lime,Retail,Pettah,130
+20/03/2026,Lime,Wholesale,Dambulla,70
+20/03/2026,Lime,Retail,Dambulla,100
+20/03/2026,Potato (Imp),Wholesale,Pettah,156
+20/03/2026,Potato (Imp),Retail,Pettah,200
+20/03/2026,Potato (Imp),Wholesale,Dambulla,145
+20/03/2026,Potato (Imp),Retail,Dambulla,165
+20/03/2026,Potato (Local),Wholesale,Pettah,315
+20/03/2026,Potato (Local),Retail,Pettah,350
+20/03/2026,Potato (Local),Wholesale,Dambulla,265
+20/03/2026,Potato (Local),Retail,Dambulla,285
+20/03/2026,Big Onion (Imp),Wholesale,Pettah,144
+20/03/2026,Big Onion (Imp),Retail,Pettah,180
+20/03/2026,Big Onion (Imp),Wholesale,Dambulla,145
+20/03/2026,Big Onion (Imp),Retail,Dambulla,165
+20/03/2026,Big Onion (Local),Wholesale,Pettah,NA
+20/03/2026,Big Onion (Local),Retail,Pettah,NA
+20/03/2026,Big Onion (Local),Wholesale,Dambulla,NA
+20/03/2026,Big Onion (Local),Retail,Dambulla,NA
+20/03/2026,Red Onion (Local),Wholesale,Pettah,210
+20/03/2026,Red Onion (Local),Retail,Pettah,NA
+20/03/2026,Red Onion (Local),Wholesale,Dambulla,140
+20/03/2026,Red Onion (Local),Retail,Dambulla,160
+20/03/2026,Green Chilli,Wholesale,Pettah,350
+20/03/2026,Green Chilli,Retail,Pettah,400
+20/03/2026,Green Chilli,Wholesale,Dambulla,340
+20/03/2026,Green Chilli,Retail,Dambulla,370
+20/03/2026,Red Onion (Imp),Wholesale,Pettah,244
+20/03/2026,Red Onion (Imp),Retail,Pettah,400
+20/03/2026,Red Onion (Imp),Wholesale,Dambulla,NA
+20/03/2026,Red Onion (Imp),Retail,Dambulla,NA
+20/03/2026,Pumpkin,Wholesale,Pettah,140
+20/03/2026,Pumpkin,Retail,Pettah,200
+20/03/2026,Pumpkin,Wholesale,Dambulla,125
+20/03/2026,Pumpkin,Retail,Dambulla,155
+20/03/2026,Beans,Wholesale,Pettah,200
+20/03/2026,Beans,Retail,Pettah,250
+20/03/2026,Beans,Wholesale,Dambulla,160
+20/03/2026,Beans,Retail,Dambulla,190
+20/03/2026,Carrot,Wholesale,Pettah,300
+20/03/2026,Carrot,Retail,Pettah,350
+20/03/2026,Carrot,Wholesale,Dambulla,210
+20/03/2026,Carrot,Retail,Dambulla,240
+20/03/2026,Cabbage,Wholesale,Pettah,100
+20/03/2026,Cabbage,Retail,Pettah,150
+20/03/2026,Cabbage,Wholesale,Dambulla,68
+20/03/2026,Cabbage,Retail,Dambulla,98
+20/03/2026,Snake gourd,Wholesale,Pettah,150
+20/03/2026,Snake gourd,Retail,Pettah,200
+20/03/2026,Snake gourd,Wholesale,Dambulla,65
+20/03/2026,Snake gourd,Retail,Dambulla,95
+20/03/2026,Brinjal,Wholesale,Pettah,250
+20/03/2026,Brinjal,Retail,Pettah,300
+20/03/2026,Brinjal,Wholesale,Dambulla,225
+20/03/2026,Brinjal,Retail,Dambulla,255
+20/03/2026,Tomato,Wholesale,Pettah,80
+20/03/2026,Tomato,Retail,Pettah,130
+20/03/2026,Tomato,Wholesale,Dambulla,65
+20/03/2026,Tomato,Retail,Dambulla,95
+23/03/2026,Red Onion (Local),Wholesale,Pettah,232
+23/03/2026,Red Onion (Local),Retail,Pettah,325
+23/03/2026,Red Onion (Local),Wholesale,Dambulla,200
+23/03/2026,Red Onion (Local),Retail,Dambulla,220
+23/03/2026,Potato (Imp),Wholesale,Pettah,161
+23/03/2026,Potato (Imp),Retail,Pettah,200
+23/03/2026,Potato (Imp),Wholesale,Dambulla,158
+23/03/2026,Potato (Imp),Retail,Dambulla,178
+23/03/2026,Potato (Local),Wholesale,Pettah,317
+23/03/2026,Potato (Local),Retail,Pettah,350
+23/03/2026,Potato (Local),Wholesale,Dambulla,230
+23/03/2026,Potato (Local),Retail,Dambulla,250
+23/03/2026,Big Onion (Imp),Wholesale,Pettah,160
+23/03/2026,Big Onion (Imp),Retail,Pettah,200
+23/03/2026,Big Onion (Imp),Wholesale,Dambulla,165
+23/03/2026,Big Onion (Imp),Retail,Dambulla,185
+23/03/2026,Big Onion (Local),Wholesale,Pettah,NA
+23/03/2026,Big Onion (Local),Retail,Pettah,NA
+23/03/2026,Big Onion (Local),Wholesale,Dambulla,NA
+23/03/2026,Big Onion (Local),Retail,Dambulla,NA
+23/03/2026,Red Onion (Imp),Wholesale,Pettah,243
+23/03/2026,Red Onion (Imp),Retail,Pettah,400
+23/03/2026,Red Onion (Imp),Wholesale,Dambulla,195
+23/03/2026,Red Onion (Imp),Retail,Dambulla,215
+23/03/2026,Lime,Wholesale,Pettah,100
+23/03/2026,Lime,Retail,Pettah,150
+23/03/2026,Lime,Wholesale,Dambulla,95
+23/03/2026,Lime,Retail,Dambulla,125
+23/03/2026,Green Chilli,Wholesale,Pettah,350
+23/03/2026,Green Chilli,Retail,Pettah,400
+23/03/2026,Green Chilli,Wholesale,Dambulla,275
+23/03/2026,Green Chilli,Retail,Dambulla,305
+23/03/2026,Snake gourd,Wholesale,Pettah,130
+23/03/2026,Snake gourd,Retail,Pettah,200
+23/03/2026,Snake gourd,Wholesale,Dambulla,50
+23/03/2026,Snake gourd,Retail,Dambulla,80
+23/03/2026,Pumpkin,Wholesale,Pettah,140
+23/03/2026,Pumpkin,Retail,Pettah,200
+23/03/2026,Pumpkin,Wholesale,Dambulla,100
+23/03/2026,Pumpkin,Retail,Dambulla,130
+23/03/2026,Brinjal,Wholesale,Pettah,250
+23/03/2026,Brinjal,Retail,Pettah,300
+23/03/2026,Brinjal,Wholesale,Dambulla,170
+23/03/2026,Brinjal,Retail,Dambulla,200
+23/03/2026,Tomato,Wholesale,Pettah,80
+23/03/2026,Tomato,Retail,Pettah,130
+23/03/2026,Tomato,Wholesale,Dambulla,45
+23/03/2026,Tomato,Retail,Dambulla,75
+23/03/2026,Cabbage,Wholesale,Pettah,120
+23/03/2026,Cabbage,Retail,Pettah,170
+23/03/2026,Cabbage,Wholesale,Dambulla,95
+23/03/2026,Cabbage,Retail,Dambulla,125
+23/03/2026,Carrot,Wholesale,Pettah,350
+23/03/2026,Carrot,Retail,Pettah,400
+23/03/2026,Carrot,Wholesale,Dambulla,300
+23/03/2026,Carrot,Retail,Dambulla,330
+23/03/2026,Beans,Wholesale,Pettah,250
+23/03/2026,Beans,Retail,Pettah,300
+23/03/2026,Beans,Wholesale,Dambulla,205
+23/03/2026,Beans,Retail,Dambulla,235
+24/03/2026,Red Onion (Imp),Wholesale,Pettah,243
+24/03/2026,Red Onion (Imp),Retail,Pettah,400
+24/03/2026,Red Onion (Imp),Wholesale,Dambulla,NA
+24/03/2026,Red Onion (Imp),Retail,Dambulla,NA
+24/03/2026,Big Onion (Local),Wholesale,Pettah,NA
+24/03/2026,Big Onion (Local),Retail,Pettah,NA
+24/03/2026,Big Onion (Local),Wholesale,Dambulla,NA
+24/03/2026,Big Onion (Local),Retail,Dambulla,NA
+24/03/2026,Red Onion (Local),Wholesale,Pettah,229
+24/03/2026,Red Onion (Local),Retail,Pettah,315
+24/03/2026,Red Onion (Local),Wholesale,Dambulla,210
+24/03/2026,Red Onion (Local),Retail,Dambulla,230
+24/03/2026,Potato (Local),Wholesale,Pettah,320
+24/03/2026,Potato (Local),Retail,Pettah,350
+24/03/2026,Potato (Local),Wholesale,Dambulla,230
+24/03/2026,Potato (Local),Retail,Dambulla,250
+24/03/2026,Potato (Imp),Wholesale,Pettah,161
+24/03/2026,Potato (Imp),Retail,Pettah,178
+24/03/2026,Potato (Imp),Wholesale,Dambulla,150
+24/03/2026,Potato (Imp),Retail,Dambulla,170
+24/03/2026,Big Onion (Imp),Wholesale,Pettah,158
+24/03/2026,Big Onion (Imp),Retail,Pettah,183
+24/03/2026,Big Onion (Imp),Wholesale,Dambulla,168
+24/03/2026,Big Onion (Imp),Retail,Dambulla,188
+24/03/2026,Lime,Wholesale,Pettah,80
+24/03/2026,Lime,Retail,Pettah,130
+24/03/2026,Lime,Wholesale,Dambulla,75
+24/03/2026,Lime,Retail,Dambulla,105
+24/03/2026,Green Chilli,Wholesale,Pettah,250
+24/03/2026,Green Chilli,Retail,Pettah,300
+24/03/2026,Green Chilli,Wholesale,Dambulla,290
+24/03/2026,Green Chilli,Retail,Dambulla,320
+24/03/2026,Snake gourd,Wholesale,Pettah,130
+24/03/2026,Snake gourd,Retail,Pettah,200
+24/03/2026,Snake gourd,Wholesale,Dambulla,53
+24/03/2026,Snake gourd,Retail,Dambulla,83
+24/03/2026,Pumpkin,Wholesale,Pettah,140
+24/03/2026,Pumpkin,Retail,Pettah,200
+24/03/2026,Pumpkin,Wholesale,Dambulla,95
+24/03/2026,Pumpkin,Retail,Dambulla,125
+24/03/2026,Brinjal,Wholesale,Pettah,200
+24/03/2026,Brinjal,Retail,Pettah,250
+24/03/2026,Brinjal,Wholesale,Dambulla,155
+24/03/2026,Brinjal,Retail,Dambulla,185
+24/03/2026,Tomato,Wholesale,Pettah,80
+24/03/2026,Tomato,Retail,Pettah,130
+24/03/2026,Tomato,Wholesale,Dambulla,45
+24/03/2026,Tomato,Retail,Dambulla,75
+24/03/2026,Cabbage,Wholesale,Pettah,120
+24/03/2026,Cabbage,Retail,Pettah,170
+24/03/2026,Cabbage,Wholesale,Dambulla,95
+24/03/2026,Cabbage,Retail,Dambulla,125
+24/03/2026,Carrot,Wholesale,Pettah,350
+24/03/2026,Carrot,Retail,Pettah,400
+24/03/2026,Carrot,Wholesale,Dambulla,355
+24/03/2026,Carrot,Retail,Dambulla,385
+24/03/2026,Beans,Wholesale,Pettah,350
+24/03/2026,Beans,Retail,Pettah,400
+24/03/2026,Beans,Wholesale,Dambulla,240
+24/03/2026,Beans,Retail,Dambulla,270
+25/03/2026,Potato (Imp),Wholesale,Pettah,161
+25/03/2026,Potato (Imp),Retail,Pettah,190
+25/03/2026,Potato (Imp),Wholesale,Dambulla,155
+25/03/2026,Potato (Imp),Retail,Dambulla,175
+25/03/2026,Potato (Local),Wholesale,Pettah,320
+25/03/2026,Potato (Local),Retail,Pettah,350
+25/03/2026,Potato (Local),Wholesale,Dambulla,230
+25/03/2026,Potato (Local),Retail,Dambulla,250
+25/03/2026,Big Onion (Imp),Wholesale,Pettah,155
+25/03/2026,Big Onion (Imp),Retail,Pettah,185
+25/03/2026,Big Onion (Imp),Wholesale,Dambulla,160
+25/03/2026,Big Onion (Imp),Retail,Dambulla,180
+25/03/2026,Big Onion (Local),Wholesale,Pettah,NA
+25/03/2026,Big Onion (Local),Retail,Pettah,NA
+25/03/2026,Big Onion (Local),Wholesale,Dambulla,NA
+25/03/2026,Big Onion (Local),Retail,Dambulla,NA
+25/03/2026,Red Onion (Imp),Wholesale,Pettah,217
+25/03/2026,Red Onion (Imp),Retail,Pettah,340
+25/03/2026,Red Onion (Imp),Wholesale,Dambulla,260
+25/03/2026,Red Onion (Imp),Retail,Dambulla,280
+25/03/2026,Red Onion (Local),Wholesale,Pettah,232
+25/03/2026,Red Onion (Local),Retail,Pettah,325
+25/03/2026,Red Onion (Local),Wholesale,Dambulla,250
+25/03/2026,Red Onion (Local),Retail,Dambulla,270
+25/03/2026,Lime,Wholesale,Pettah,80
+25/03/2026,Lime,Retail,Pettah,130
+25/03/2026,Lime,Wholesale,Dambulla,95
+25/03/2026,Lime,Retail,Dambulla,125
+25/03/2026,Green Chilli,Wholesale,Pettah,250
+25/03/2026,Green Chilli,Retail,Pettah,300
+25/03/2026,Green Chilli,Wholesale,Dambulla,265
+25/03/2026,Green Chilli,Retail,Dambulla,295
+25/03/2026,Snake gourd,Wholesale,Pettah,130
+25/03/2026,Snake gourd,Retail,Pettah,200
+25/03/2026,Snake gourd,Wholesale,Dambulla,45
+25/03/2026,Snake gourd,Retail,Dambulla,75
+25/03/2026,Pumpkin,Wholesale,Pettah,140
+25/03/2026,Pumpkin,Retail,Pettah,200
+25/03/2026,Pumpkin,Wholesale,Dambulla,115
+25/03/2026,Pumpkin,Retail,Dambulla,145
+25/03/2026,Brinjal,Wholesale,Pettah,200
+25/03/2026,Brinjal,Retail,Pettah,250
+25/03/2026,Brinjal,Wholesale,Dambulla,115
+25/03/2026,Brinjal,Retail,Dambulla,145
+25/03/2026,Tomato,Wholesale,Pettah,70
+25/03/2026,Tomato,Retail,Pettah,120
+25/03/2026,Tomato,Wholesale,Dambulla,38
+25/03/2026,Tomato,Retail,Dambulla,68
+25/03/2026,Cabbage,Wholesale,Pettah,100
+25/03/2026,Cabbage,Retail,Pettah,150
+25/03/2026,Cabbage,Wholesale,Dambulla,85
+25/03/2026,Cabbage,Retail,Dambulla,115
+25/03/2026,Carrot,Wholesale,Pettah,300
+25/03/2026,Carrot,Retail,Pettah,350
+25/03/2026,Carrot,Wholesale,Dambulla,280
+25/03/2026,Carrot,Retail,Dambulla,310
+25/03/2026,Beans,Wholesale,Pettah,350
+25/03/2026,Beans,Retail,Pettah,400
+25/03/2026,Beans,Wholesale,Dambulla,265
+25/03/2026,Beans,Retail,Dambulla,295
+26/03/2026,Potato (Local),Wholesale,Pettah,320
+26/03/2026,Potato (Local),Retail,Pettah,350
+26/03/2026,Potato (Local),Wholesale,Dambulla,240
+26/03/2026,Potato (Local),Retail,Dambulla,260
+26/03/2026,Big Onion (Imp),Wholesale,Pettah,158
+26/03/2026,Big Onion (Imp),Retail,Pettah,193
+26/03/2026,Big Onion (Imp),Wholesale,Dambulla,155
+26/03/2026,Big Onion (Imp),Retail,Dambulla,175
+26/03/2026,Big Onion (Local),Wholesale,Pettah,NA
+26/03/2026,Big Onion (Local),Retail,Pettah,NA
+26/03/2026,Big Onion (Local),Wholesale,Dambulla,NA
+26/03/2026,Big Onion (Local),Retail,Dambulla,NA
+26/03/2026,Red Onion (Imp),Wholesale,Pettah,217
+26/03/2026,Red Onion (Imp),Retail,Pettah,320
+26/03/2026,Red Onion (Imp),Wholesale,Dambulla,255
+26/03/2026,Red Onion (Imp),Retail,Dambulla,275
+26/03/2026,Red Onion (Local),Wholesale,Pettah,234
+26/03/2026,Red Onion (Local),Retail,Pettah,315
+26/03/2026,Red Onion (Local),Wholesale,Dambulla,175
+26/03/2026,Red Onion (Local),Retail,Dambulla,195
+26/03/2026,Lime,Wholesale,Pettah,80
+26/03/2026,Lime,Retail,Pettah,130
+26/03/2026,Lime,Wholesale,Dambulla,85
+26/03/2026,Lime,Retail,Dambulla,115
+26/03/2026,Potato (Imp),Wholesale,Pettah,158
+26/03/2026,Potato (Imp),Retail,Pettah,185
+26/03/2026,Potato (Imp),Wholesale,Dambulla,153
+26/03/2026,Potato (Imp),Retail,Dambulla,173
+26/03/2026,Green Chilli,Wholesale,Pettah,250
+26/03/2026,Green Chilli,Retail,Pettah,300
+26/03/2026,Green Chilli,Wholesale,Dambulla,225
+26/03/2026,Green Chilli,Retail,Dambulla,255
+26/03/2026,Pumpkin,Wholesale,Pettah,140
+26/03/2026,Pumpkin,Retail,Pettah,200
+26/03/2026,Pumpkin,Wholesale,Dambulla,70
+26/03/2026,Pumpkin,Retail,Dambulla,100
+26/03/2026,Beans,Wholesale,Pettah,350
+26/03/2026,Beans,Retail,Pettah,400
+26/03/2026,Beans,Wholesale,Dambulla,250
+26/03/2026,Beans,Retail,Dambulla,280
+26/03/2026,Carrot,Wholesale,Pettah,300
+26/03/2026,Carrot,Retail,Pettah,350
+26/03/2026,Carrot,Wholesale,Dambulla,275
+26/03/2026,Carrot,Retail,Dambulla,305
+26/03/2026,Snake gourd,Wholesale,Pettah,130
+26/03/2026,Snake gourd,Retail,Pettah,200
+26/03/2026,Snake gourd,Wholesale,Dambulla,55
+26/03/2026,Snake gourd,Retail,Dambulla,85
+26/03/2026,Tomato,Wholesale,Pettah,60
+26/03/2026,Tomato,Retail,Pettah,100
+26/03/2026,Tomato,Wholesale,Dambulla,40
+26/03/2026,Tomato,Retail,Dambulla,70
+26/03/2026,Brinjal,Wholesale,Pettah,150
+26/03/2026,Brinjal,Retail,Pettah,200
+26/03/2026,Brinjal,Wholesale,Dambulla,115
+26/03/2026,Brinjal,Retail,Dambulla,145
+26/03/2026,Cabbage,Wholesale,Pettah,100
+26/03/2026,Cabbage,Retail,Pettah,150
+26/03/2026,Cabbage,Wholesale,Dambulla,75
+26/03/2026,Cabbage,Retail,Dambulla,105
+27/03/2026,Potato (Imp),Wholesale,Pettah,154
+27/03/2026,Potato (Imp),Retail,Pettah,185
+27/03/2026,Potato (Imp),Wholesale,Dambulla,150
+27/03/2026,Potato (Imp),Retail,Dambulla,170
+27/03/2026,Potato (Local),Wholesale,Pettah,320
+27/03/2026,Potato (Local),Retail,Pettah,350
+27/03/2026,Potato (Local),Wholesale,Dambulla,240
+27/03/2026,Potato (Local),Retail,Dambulla,260
+27/03/2026,Big Onion (Imp),Wholesale,Pettah,158
+27/03/2026,Big Onion (Imp),Retail,Pettah,190
+27/03/2026,Big Onion (Imp),Wholesale,Dambulla,148
+27/03/2026,Big Onion (Imp),Retail,Dambulla,168
+27/03/2026,Big Onion (Local),Wholesale,Pettah,NA
+27/03/2026,Big Onion (Local),Retail,Pettah,NA
+27/03/2026,Big Onion (Local),Wholesale,Dambulla,NA
+27/03/2026,Big Onion (Local),Retail,Dambulla,NA
+27/03/2026,Red Onion (Imp),Wholesale,Pettah,217
+27/03/2026,Red Onion (Imp),Retail,Pettah,380
+27/03/2026,Red Onion (Imp),Wholesale,Dambulla,245
+27/03/2026,Red Onion (Imp),Retail,Dambulla,265
+27/03/2026,Lime,Wholesale,Pettah,100
+27/03/2026,Lime,Retail,Pettah,150
+27/03/2026,Lime,Wholesale,Dambulla,95
+27/03/2026,Lime,Retail,Dambulla,125
+27/03/2026,Red Onion (Local),Wholesale,Pettah,240
+27/03/2026,Red Onion (Local),Retail,Pettah,315
+27/03/2026,Red Onion (Local),Wholesale,Dambulla,160
+27/03/2026,Red Onion (Local),Retail,Dambulla,180
+27/03/2026,Pumpkin,Wholesale,Pettah,140
+27/03/2026,Pumpkin,Retail,Pettah,200
+27/03/2026,Pumpkin,Wholesale,Dambulla,58
+27/03/2026,Pumpkin,Retail,Dambulla,83
+27/03/2026,Brinjal,Wholesale,Pettah,120
+27/03/2026,Brinjal,Retail,Pettah,170
+27/03/2026,Brinjal,Wholesale,Dambulla,115
+27/03/2026,Brinjal,Retail,Dambulla,145
+27/03/2026,Tomato,Wholesale,Pettah,70
+27/03/2026,Tomato,Retail,Pettah,100
+27/03/2026,Tomato,Wholesale,Dambulla,45
+27/03/2026,Tomato,Retail,Dambulla,75
+27/03/2026,Cabbage,Wholesale,Pettah,100
+27/03/2026,Cabbage,Retail,Pettah,150
+27/03/2026,Cabbage,Wholesale,Dambulla,85
+27/03/2026,Cabbage,Retail,Dambulla,115
+27/03/2026,Carrot,Wholesale,Pettah,300
+27/03/2026,Carrot,Retail,Pettah,350
+27/03/2026,Carrot,Wholesale,Dambulla,290
+27/03/2026,Carrot,Retail,Dambulla,320
+27/03/2026,Beans,Wholesale,Pettah,300
+27/03/2026,Beans,Retail,Pettah,350
+27/03/2026,Beans,Wholesale,Dambulla,285
+27/03/2026,Beans,Retail,Dambulla,315
+27/03/2026,Snake gourd,Wholesale,Pettah,130
+27/03/2026,Snake gourd,Retail,Pettah,200
+27/03/2026,Snake gourd,Wholesale,Dambulla,65
+27/03/2026,Snake gourd,Retail,Dambulla,95
+27/03/2026,Green Chilli,Wholesale,Pettah,250
+27/03/2026,Green Chilli,Retail,Pettah,300
+27/03/2026,Green Chilli,Wholesale,Dambulla,265
+27/03/2026,Green Chilli,Retail,Dambulla,295
+30/03/2026,Lime,Wholesale,Pettah,90
+30/03/2026,Lime,Retail,Pettah,150
+30/03/2026,Lime,Wholesale,Dambulla,155
+30/03/2026,Lime,Retail,Dambulla,185
+30/03/2026,Potato (Imp),Wholesale,Pettah,145
+30/03/2026,Potato (Imp),Retail,Pettah,175
+30/03/2026,Potato (Imp),Wholesale,Dambulla,148
+30/03/2026,Potato (Imp),Retail,Dambulla,168
+30/03/2026,Potato (Local),Wholesale,Pettah,315
+30/03/2026,Potato (Local),Retail,Pettah,350
+30/03/2026,Potato (Local),Wholesale,Dambulla,265
+30/03/2026,Potato (Local),Retail,Dambulla,285
+30/03/2026,Big Onion (Imp),Wholesale,Pettah,150
+30/03/2026,Big Onion (Imp),Retail,Pettah,185
+30/03/2026,Big Onion (Imp),Wholesale,Dambulla,143
+30/03/2026,Big Onion (Imp),Retail,Dambulla,163
+30/03/2026,Big Onion (Local),Wholesale,Pettah,NA
+30/03/2026,Big Onion (Local),Retail,Pettah,NA
+30/03/2026,Big Onion (Local),Wholesale,Dambulla,NA
+30/03/2026,Big Onion (Local),Retail,Dambulla,NA
+30/03/2026,Red Onion (Imp),Wholesale,Pettah,230
+30/03/2026,Red Onion (Imp),Retail,Pettah,380
+30/03/2026,Red Onion (Imp),Wholesale,Dambulla,NA
+30/03/2026,Red Onion (Imp),Retail,Dambulla,NA
+30/03/2026,Red Onion (Local),Wholesale,Pettah,233
+30/03/2026,Red Onion (Local),Retail,Pettah,350
+30/03/2026,Red Onion (Local),Wholesale,Dambulla,180
+30/03/2026,Red Onion (Local),Retail,Dambulla,200
+30/03/2026,Green Chilli,Wholesale,Pettah,250
+30/03/2026,Green Chilli,Retail,Pettah,300
+30/03/2026,Green Chilli,Wholesale,Dambulla,360
+30/03/2026,Green Chilli,Retail,Dambulla,390
+30/03/2026,Pumpkin,Wholesale,Pettah,140
+30/03/2026,Pumpkin,Retail,Pettah,200
+30/03/2026,Pumpkin,Wholesale,Dambulla,65
+30/03/2026,Pumpkin,Retail,Dambulla,95
+30/03/2026,Brinjal,Wholesale,Pettah,100
+30/03/2026,Brinjal,Retail,Pettah,150
+30/03/2026,Brinjal,Wholesale,Dambulla,135
+30/03/2026,Brinjal,Retail,Dambulla,165
+30/03/2026,Tomato,Wholesale,Pettah,70
+30/03/2026,Tomato,Retail,Pettah,100
+30/03/2026,Tomato,Wholesale,Dambulla,75
+30/03/2026,Tomato,Retail,Dambulla,105
+30/03/2026,Cabbage,Wholesale,Pettah,100
+30/03/2026,Cabbage,Retail,Pettah,150
+30/03/2026,Cabbage,Wholesale,Dambulla,95
+30/03/2026,Cabbage,Retail,Dambulla,125
+30/03/2026,Carrot,Wholesale,Pettah,300
+30/03/2026,Carrot,Retail,Pettah,350
+30/03/2026,Carrot,Wholesale,Dambulla,240
+30/03/2026,Carrot,Retail,Dambulla,270
+30/03/2026,Beans,Wholesale,Pettah,300
+30/03/2026,Beans,Retail,Pettah,350
+30/03/2026,Beans,Wholesale,Dambulla,415
+30/03/2026,Beans,Retail,Dambulla,445
+30/03/2026,Snake gourd,Wholesale,Pettah,130
+30/03/2026,Snake gourd,Retail,Pettah,200
+30/03/2026,Snake gourd,Wholesale,Dambulla,95
+30/03/2026,Snake gourd,Retail,Dambulla,125
+31/03/2026,Potato (Imp),Wholesale,Pettah,141
+31/03/2026,Potato (Imp),Retail,Pettah,175
+31/03/2026,Potato (Imp),Wholesale,Dambulla,145
+31/03/2026,Potato (Imp),Retail,Dambulla,165
+31/03/2026,Potato (Local),Wholesale,Pettah,303
+31/03/2026,Potato (Local),Retail,Pettah,350
+31/03/2026,Potato (Local),Wholesale,Dambulla,240
+31/03/2026,Potato (Local),Retail,Dambulla,260
+31/03/2026,Big Onion (Imp),Wholesale,Pettah,145
+31/03/2026,Big Onion (Imp),Retail,Pettah,185
+31/03/2026,Big Onion (Imp),Wholesale,Dambulla,143
+31/03/2026,Big Onion (Imp),Retail,Dambulla,163
+31/03/2026,Big Onion (Local),Wholesale,Pettah,NA
+31/03/2026,Big Onion (Local),Retail,Pettah,NA
+31/03/2026,Big Onion (Local),Wholesale,Dambulla,NA
+31/03/2026,Big Onion (Local),Retail,Dambulla,NA
+31/03/2026,Red Onion (Imp),Wholesale,Pettah,223
+31/03/2026,Red Onion (Imp),Retail,Pettah,380
+31/03/2026,Red Onion (Imp),Wholesale,Dambulla,255
+31/03/2026,Red Onion (Imp),Retail,Dambulla,275
+31/03/2026,Red Onion (Local),Wholesale,Pettah,233
+31/03/2026,Red Onion (Local),Retail,Pettah,350
+31/03/2026,Red Onion (Local),Wholesale,Dambulla,245
+31/03/2026,Red Onion (Local),Retail,Dambulla,265
+31/03/2026,Lime,Wholesale,Pettah,140
+31/03/2026,Lime,Retail,Pettah,200
+31/03/2026,Lime,Wholesale,Dambulla,115
+31/03/2026,Lime,Retail,Dambulla,145
+31/03/2026,Green Chilli,Wholesale,Pettah,300
+31/03/2026,Green Chilli,Retail,Pettah,350
+31/03/2026,Green Chilli,Wholesale,Dambulla,240
+31/03/2026,Green Chilli,Retail,Dambulla,270
+31/03/2026,Pumpkin,Wholesale,Pettah,140
+31/03/2026,Pumpkin,Retail,Pettah,200
+31/03/2026,Pumpkin,Wholesale,Dambulla,55
+31/03/2026,Pumpkin,Retail,Dambulla,85
+31/03/2026,Brinjal,Wholesale,Pettah,120
+31/03/2026,Brinjal,Retail,Pettah,170
+31/03/2026,Brinjal,Wholesale,Dambulla,80
+31/03/2026,Brinjal,Retail,Dambulla,110
+31/03/2026,Tomato,Wholesale,Pettah,80
+31/03/2026,Tomato,Retail,Pettah,120
+31/03/2026,Tomato,Wholesale,Dambulla,55
+31/03/2026,Tomato,Retail,Dambulla,85
+31/03/2026,Cabbage,Wholesale,Pettah,100
+31/03/2026,Cabbage,Retail,Pettah,150
+31/03/2026,Cabbage,Wholesale,Dambulla,85
+31/03/2026,Cabbage,Retail,Dambulla,115
+31/03/2026,Carrot,Wholesale,Pettah,300
+31/03/2026,Carrot,Retail,Pettah,350
+31/03/2026,Carrot,Wholesale,Dambulla,225
+31/03/2026,Carrot,Retail,Dambulla,255
+31/03/2026,Beans,Wholesale,Pettah,350
+31/03/2026,Beans,Retail,Pettah,400
+31/03/2026,Beans,Wholesale,Dambulla,325
+31/03/2026,Beans,Retail,Dambulla,355
+31/03/2026,Snake gourd,Wholesale,Pettah,130
+31/03/2026,Snake gourd,Retail,Pettah,200
+31/03/2026,Snake gourd,Wholesale,Dambulla,75
+31/03/2026,Snake gourd,Retail,Dambulla,105
+02/04/2026,Red Onion (Local),Wholesale,Pettah,233
+02/04/2026,Red Onion (Local),Retail,Pettah,350
+02/04/2026,Red Onion (Local),Wholesale,Dambulla,255
+02/04/2026,Red Onion (Local),Retail,Dambulla,275
+02/04/2026,Potato (Imp),Wholesale,Pettah,144
+02/04/2026,Potato (Imp),Retail,Pettah,175
+02/04/2026,Potato (Imp),Wholesale,Dambulla,145
+02/04/2026,Potato (Imp),Retail,Dambulla,165
+02/04/2026,Potato (Local),Wholesale,Pettah,303
+02/04/2026,Potato (Local),Retail,Pettah,350
+02/04/2026,Potato (Local),Wholesale,Dambulla,255
+02/04/2026,Potato (Local),Retail,Dambulla,275
+02/04/2026,Big Onion (Imp),Wholesale,Pettah,140
+02/04/2026,Big Onion (Imp),Retail,Pettah,188
+02/04/2026,Big Onion (Imp),Wholesale,Dambulla,135
+02/04/2026,Big Onion (Imp),Retail,Dambulla,155
+02/04/2026,Big Onion (Local),Wholesale,Pettah,NA
+02/04/2026,Big Onion (Local),Retail,Pettah,NA
+02/04/2026,Big Onion (Local),Wholesale,Dambulla,NA
+02/04/2026,Big Onion (Local),Retail,Dambulla,NA
+02/04/2026,Red Onion (Imp),Wholesale,Pettah,220
+02/04/2026,Red Onion (Imp),Retail,Pettah,380
+02/04/2026,Red Onion (Imp),Wholesale,Dambulla,NA
+02/04/2026,Red Onion (Imp),Retail,Dambulla,NA
+02/04/2026,Lime,Wholesale,Pettah,100
+02/04/2026,Lime,Retail,Pettah,150
+02/04/2026,Lime,Wholesale,Dambulla,155
+02/04/2026,Lime,Retail,Dambulla,185
+02/04/2026,Cabbage,Wholesale,Pettah,100
+02/04/2026,Cabbage,Retail,Pettah,150
+02/04/2026,Cabbage,Wholesale,Dambulla,110
+02/04/2026,Cabbage,Retail,Dambulla,140
+02/04/2026,Snake gourd,Wholesale,Pettah,150
+02/04/2026,Snake gourd,Retail,Pettah,200
+02/04/2026,Snake gourd,Wholesale,Dambulla,75
+02/04/2026,Snake gourd,Retail,Dambulla,105
+02/04/2026,Pumpkin,Wholesale,Pettah,140
+02/04/2026,Pumpkin,Retail,Pettah,200
+02/04/2026,Pumpkin,Wholesale,Dambulla,60
+02/04/2026,Pumpkin,Retail,Dambulla,90
+02/04/2026,Brinjal,Wholesale,Pettah,100
+02/04/2026,Brinjal,Retail,Pettah,150
+02/04/2026,Brinjal,Wholesale,Dambulla,105
+02/04/2026,Brinjal,Retail,Dambulla,135
+02/04/2026,Tomato,Wholesale,Pettah,80
+02/04/2026,Tomato,Retail,Pettah,130
+02/04/2026,Tomato,Wholesale,Dambulla,65
+02/04/2026,Tomato,Retail,Dambulla,95
+02/04/2026,Green Chilli,Wholesale,Pettah,230
+02/04/2026,Green Chilli,Retail,Pettah,280
+02/04/2026,Green Chilli,Wholesale,Dambulla,210
+02/04/2026,Green Chilli,Retail,Dambulla,240
+02/04/2026,Carrot,Wholesale,Pettah,250
+02/04/2026,Carrot,Retail,Pettah,300
+02/04/2026,Carrot,Wholesale,Dambulla,335
+02/04/2026,Carrot,Retail,Dambulla,365
+02/04/2026,Beans,Wholesale,Pettah,250
+02/04/2026,Beans,Retail,Pettah,300
+02/04/2026,Beans,Wholesale,Dambulla,255
+02/04/2026,Beans,Retail,Dambulla,285
+06/04/2026,Potato (Local),Wholesale,Pettah,317
+06/04/2026,Potato (Local),Retail,Pettah,350
+06/04/2026,Potato (Local),Wholesale,Dambulla,220
+06/04/2026,Potato (Local),Retail,Dambulla,240
+06/04/2026,Big Onion (Imp),Wholesale,Pettah,125
+06/04/2026,Big Onion (Imp),Retail,Pettah,180
+06/04/2026,Big Onion (Imp),Wholesale,Dambulla,123
+06/04/2026,Big Onion (Imp),Retail,Dambulla,143
+06/04/2026,Big Onion (Local),Wholesale,Pettah,NA
+06/04/2026,Big Onion (Local),Retail,Pettah,NA
+06/04/2026,Big Onion (Local),Wholesale,Dambulla,NA
+06/04/2026,Big Onion (Local),Retail,Dambulla,NA
+06/04/2026,Red Onion (Imp),Wholesale,Pettah,220
+06/04/2026,Red Onion (Imp),Retail,Pettah,NA
+06/04/2026,Red Onion (Imp),Wholesale,Dambulla,235
+06/04/2026,Red Onion (Imp),Retail,Dambulla,255
+06/04/2026,Red Onion (Local),Wholesale,Pettah,222
+06/04/2026,Red Onion (Local),Retail,Pettah,350
+06/04/2026,Red Onion (Local),Wholesale,Dambulla,225
+06/04/2026,Red Onion (Local),Retail,Dambulla,245
+06/04/2026,Lime,Wholesale,Pettah,110
+06/04/2026,Lime,Retail,Pettah,160
+06/04/2026,Lime,Wholesale,Dambulla,155
+06/04/2026,Lime,Retail,Dambulla,185
+06/04/2026,Green Chilli,Wholesale,Pettah,225
+06/04/2026,Green Chilli,Retail,Pettah,280
+06/04/2026,Green Chilli,Wholesale,Dambulla,250
+06/04/2026,Green Chilli,Retail,Dambulla,280
+06/04/2026,Potato (Imp),Wholesale,Pettah,164
+06/04/2026,Potato (Imp),Retail,Pettah,200
+06/04/2026,Potato (Imp),Wholesale,Dambulla,155
+06/04/2026,Potato (Imp),Retail,Dambulla,175
+06/04/2026,Pumpkin,Wholesale,Pettah,80
+06/04/2026,Pumpkin,Retail,Pettah,130
+06/04/2026,Pumpkin,Wholesale,Dambulla,50
+06/04/2026,Pumpkin,Retail,Dambulla,80
+06/04/2026,Brinjal,Wholesale,Pettah,50
+06/04/2026,Brinjal,Retail,Pettah,100
+06/04/2026,Brinjal,Wholesale,Dambulla,65
+06/04/2026,Brinjal,Retail,Dambulla,95
+06/04/2026,Tomato,Wholesale,Pettah,120
+06/04/2026,Tomato,Retail,Pettah,170
+06/04/2026,Tomato,Wholesale,Dambulla,58
+06/04/2026,Tomato,Retail,Dambulla,88
+06/04/2026,Cabbage,Wholesale,Pettah,100
+06/04/2026,Cabbage,Retail,Pettah,150
+06/04/2026,Cabbage,Wholesale,Dambulla,65
+06/04/2026,Cabbage,Retail,Dambulla,95
+06/04/2026,Carrot,Wholesale,Pettah,300
+06/04/2026,Carrot,Retail,Pettah,350
+06/04/2026,Carrot,Wholesale,Dambulla,240
+06/04/2026,Carrot,Retail,Dambulla,270
+06/04/2026,Beans,Wholesale,Pettah,200
+06/04/2026,Beans,Retail,Pettah,250
+06/04/2026,Beans,Wholesale,Dambulla,175
+06/04/2026,Beans,Retail,Dambulla,205
+06/04/2026,Snake gourd,Wholesale,Pettah,200
+06/04/2026,Snake gourd,Retail,Pettah,250
+06/04/2026,Snake gourd,Wholesale,Dambulla,110
+06/04/2026,Snake gourd,Retail,Dambulla,140
+07/04/2026,Potato (Imp),Wholesale,Pettah,151
+07/04/2026,Potato (Imp),Retail,Pettah,200
+07/04/2026,Potato (Imp),Wholesale,Dambulla,150
+07/04/2026,Potato (Imp),Retail,Dambulla,170
+07/04/2026,Potato (Local),Wholesale,Pettah,317
+07/04/2026,Potato (Local),Retail,Pettah,350
+07/04/2026,Potato (Local),Wholesale,Dambulla,215
+07/04/2026,Potato (Local),Retail,Dambulla,245
+07/04/2026,Big Onion (Imp),Wholesale,Pettah,121
+07/04/2026,Big Onion (Imp),Retail,Pettah,180
+07/04/2026,Big Onion (Imp),Wholesale,Dambulla,118
+07/04/2026,Big Onion (Imp),Retail,Dambulla,138
+07/04/2026,Big Onion (Local),Wholesale,Pettah,NA
+07/04/2026,Big Onion (Local),Retail,Pettah,NA
+07/04/2026,Big Onion (Local),Wholesale,Dambulla,NA
+07/04/2026,Big Onion (Local),Retail,Dambulla,NA
+07/04/2026,Red Onion (Imp),Wholesale,Pettah,227
+07/04/2026,Red Onion (Imp),Retail,Pettah,NA
+07/04/2026,Red Onion (Imp),Wholesale,Dambulla,225
+07/04/2026,Red Onion (Imp),Retail,Dambulla,245
+07/04/2026,Red Onion (Local),Wholesale,Pettah,220
+07/04/2026,Red Onion (Local),Retail,Pettah,350
+07/04/2026,Red Onion (Local),Wholesale,Dambulla,205
+07/04/2026,Red Onion (Local),Retail,Dambulla,225
+07/04/2026,Lime,Wholesale,Pettah,150
+07/04/2026,Lime,Retail,Pettah,200
+07/04/2026,Lime,Wholesale,Dambulla,125
+07/04/2026,Lime,Retail,Dambulla,155
+07/04/2026,Green Chilli,Wholesale,Pettah,225
+07/04/2026,Green Chilli,Retail,Pettah,280
+07/04/2026,Green Chilli,Wholesale,Dambulla,250
+07/04/2026,Green Chilli,Retail,Dambulla,280
+07/04/2026,Pumpkin,Wholesale,Pettah,80
+07/04/2026,Pumpkin,Retail,Pettah,130
+07/04/2026,Pumpkin,Wholesale,Dambulla,58
+07/04/2026,Pumpkin,Retail,Dambulla,88
+07/04/2026,Brinjal,Wholesale,Pettah,50
+07/04/2026,Brinjal,Retail,Pettah,100
+07/04/2026,Brinjal,Wholesale,Dambulla,90
+07/04/2026,Brinjal,Retail,Dambulla,120
+07/04/2026,Tomato,Wholesale,Pettah,120
+07/04/2026,Tomato,Retail,Pettah,170
+07/04/2026,Tomato,Wholesale,Dambulla,65
+07/04/2026,Tomato,Retail,Dambulla,95
+07/04/2026,Cabbage,Wholesale,Pettah,80
+07/04/2026,Cabbage,Retail,Pettah,130
+07/04/2026,Cabbage,Wholesale,Dambulla,70
+07/04/2026,Cabbage,Retail,Dambulla,100
+07/04/2026,Carrot,Wholesale,Pettah,300
+07/04/2026,Carrot,Retail,Pettah,350
+07/04/2026,Carrot,Wholesale,Dambulla,245
+07/04/2026,Carrot,Retail,Dambulla,275
+07/04/2026,Beans,Wholesale,Pettah,200
+07/04/2026,Beans,Retail,Pettah,250
+07/04/2026,Beans,Wholesale,Dambulla,165
+07/04/2026,Beans,Retail,Dambulla,195
+07/04/2026,Snake gourd,Wholesale,Pettah,250
+07/04/2026,Snake gourd,Retail,Pettah,300
+07/04/2026,Snake gourd,Wholesale,Dambulla,80
+07/04/2026,Snake gourd,Retail,Dambulla,110
+08/04/2026,Lime,Wholesale,Pettah,130
+08/04/2026,Lime,Retail,Pettah,180
+08/04/2026,Lime,Wholesale,Dambulla,135
+08/04/2026,Lime,Retail,Dambulla,165
+08/04/2026,Potato (Local),Wholesale,Pettah,310
+08/04/2026,Potato (Local),Retail,Pettah,350
+08/04/2026,Potato (Local),Wholesale,Dambulla,225
+08/04/2026,Potato (Local),Retail,Dambulla,245
+08/04/2026,Big Onion (Imp),Wholesale,Pettah,122
+08/04/2026,Big Onion (Imp),Retail,Pettah,160
+08/04/2026,Big Onion (Imp),Wholesale,Dambulla,118
+08/04/2026,Big Onion (Imp),Retail,Dambulla,138
+08/04/2026,Big Onion (Local),Wholesale,Pettah,NA
+08/04/2026,Big Onion (Local),Retail,Pettah,NA
+08/04/2026,Big Onion (Local),Wholesale,Dambulla,NA
+08/04/2026,Big Onion (Local),Retail,Dambulla,NA
+08/04/2026,Red Onion (Imp),Wholesale,Pettah,220
+08/04/2026,Red Onion (Imp),Retail,Pettah,320
+08/04/2026,Red Onion (Imp),Wholesale,Dambulla,235
+08/04/2026,Red Onion (Imp),Retail,Dambulla,255
+08/04/2026,Red Onion (Local),Wholesale,Pettah,214
+08/04/2026,Red Onion (Local),Retail,Pettah,300
+08/04/2026,Red Onion (Local),Wholesale,Dambulla,200
+08/04/2026,Red Onion (Local),Retail,Dambulla,220
+08/04/2026,Green Chilli,Wholesale,Pettah,200
+08/04/2026,Green Chilli,Retail,Pettah,250
+08/04/2026,Green Chilli,Wholesale,Dambulla,200
+08/04/2026,Green Chilli,Retail,Dambulla,230
+08/04/2026,Potato (Imp),Wholesale,Pettah,151
+08/04/2026,Potato (Imp),Retail,Pettah,190
+08/04/2026,Potato (Imp),Wholesale,Dambulla,148
+08/04/2026,Potato (Imp),Retail,Dambulla,168
+08/04/2026,Pumpkin,Wholesale,Pettah,80
+08/04/2026,Pumpkin,Retail,Pettah,130
+08/04/2026,Pumpkin,Wholesale,Dambulla,55
+08/04/2026,Pumpkin,Retail,Dambulla,85
+08/04/2026,Beans,Wholesale,Pettah,150
+08/04/2026,Beans,Retail,Pettah,200
+08/04/2026,Beans,Wholesale,Dambulla,205
+08/04/2026,Beans,Retail,Dambulla,235
+08/04/2026,Carrot,Wholesale,Pettah,200
+08/04/2026,Carrot,Retail,Pettah,250
+08/04/2026,Carrot,Wholesale,Dambulla,170
+08/04/2026,Carrot,Retail,Dambulla,200
+08/04/2026,Snake gourd,Wholesale,Pettah,250
+08/04/2026,Snake gourd,Retail,Pettah,300
+08/04/2026,Snake gourd,Wholesale,Dambulla,90
+08/04/2026,Snake gourd,Retail,Dambulla,120
+08/04/2026,Tomato,Wholesale,Pettah,120
+08/04/2026,Tomato,Retail,Pettah,170
+08/04/2026,Tomato,Wholesale,Dambulla,125
+08/04/2026,Tomato,Retail,Dambulla,155
+08/04/2026,Brinjal,Wholesale,Pettah,50
+08/04/2026,Brinjal,Retail,Pettah,100
+08/04/2026,Brinjal,Wholesale,Dambulla,125
+08/04/2026,Brinjal,Retail,Dambulla,155
+08/04/2026,Cabbage,Wholesale,Pettah,80
+08/04/2026,Cabbage,Retail,Pettah,130
+08/04/2026,Cabbage,Wholesale,Dambulla,50
+08/04/2026,Cabbage,Retail,Dambulla,80
+09/04/2026,Potato (Imp),Wholesale,Pettah,151
+09/04/2026,Potato (Imp),Retail,Pettah,185
+09/04/2026,Potato (Imp),Wholesale,Dambulla,150
+09/04/2026,Potato (Imp),Retail,Dambulla,170
+09/04/2026,Potato (Local),Wholesale,Pettah,300
+09/04/2026,Potato (Local),Retail,Pettah,350
+09/04/2026,Potato (Local),Wholesale,Dambulla,210
+09/04/2026,Potato (Local),Retail,Dambulla,230
+09/04/2026,Big Onion (Imp),Wholesale,Pettah,122
+09/04/2026,Big Onion (Imp),Retail,Pettah,155
+09/04/2026,Big Onion (Imp),Wholesale,Dambulla,105
+09/04/2026,Big Onion (Imp),Retail,Dambulla,125
+09/04/2026,Big Onion (Local),Wholesale,Pettah,NA
+09/04/2026,Big Onion (Local),Retail,Pettah,NA
+09/04/2026,Big Onion (Local),Wholesale,Dambulla,NA
+09/04/2026,Big Onion (Local),Retail,Dambulla,NA
+09/04/2026,Red Onion (Imp),Wholesale,Pettah,217
+09/04/2026,Red Onion (Imp),Retail,Pettah,300
+09/04/2026,Red Onion (Imp),Wholesale,Dambulla,205
+09/04/2026,Red Onion (Imp),Retail,Dambulla,225
+09/04/2026,Lime,Wholesale,Pettah,250
+09/04/2026,Lime,Retail,Pettah,180
+09/04/2026,Lime,Wholesale,Dambulla,145
+09/04/2026,Lime,Retail,Dambulla,175
+09/04/2026,Red Onion (Local),Wholesale,Pettah,235
+09/04/2026,Red Onion (Local),Retail,Pettah,300
+09/04/2026,Red Onion (Local),Wholesale,Dambulla,220
+09/04/2026,Red Onion (Local),Retail,Dambulla,240
+09/04/2026,Pumpkin,Wholesale,Pettah,80
+09/04/2026,Pumpkin,Retail,Pettah,130
+09/04/2026,Pumpkin,Wholesale,Dambulla,63
+09/04/2026,Pumpkin,Retail,Dambulla,93
+09/04/2026,Brinjal,Wholesale,Pettah,50
+09/04/2026,Brinjal,Retail,Pettah,100
+09/04/2026,Brinjal,Wholesale,Dambulla,160
+09/04/2026,Brinjal,Retail,Dambulla,190
+09/04/2026,Tomato,Wholesale,Pettah,120
+09/04/2026,Tomato,Retail,Pettah,170
+09/04/2026,Tomato,Wholesale,Dambulla,145
+09/04/2026,Tomato,Retail,Dambulla,175
+09/04/2026,Cabbage,Wholesale,Pettah,80
+09/04/2026,Cabbage,Retail,Pettah,130
+09/04/2026,Cabbage,Wholesale,Dambulla,60
+09/04/2026,Cabbage,Retail,Dambulla,90
+09/04/2026,Carrot,Wholesale,Pettah,300
+09/04/2026,Carrot,Retail,Pettah,350
+09/04/2026,Carrot,Wholesale,Dambulla,190
+09/04/2026,Carrot,Retail,Dambulla,220
+09/04/2026,Beans,Wholesale,Pettah,200
+09/04/2026,Beans,Retail,Pettah,250
+09/04/2026,Beans,Wholesale,Dambulla,210
+09/04/2026,Beans,Retail,Dambulla,240
+09/04/2026,Snake gourd,Wholesale,Pettah,250
+09/04/2026,Snake gourd,Retail,Pettah,300
+09/04/2026,Snake gourd,Wholesale,Dambulla,130
+09/04/2026,Snake gourd,Retail,Dambulla,160
+09/04/2026,Green Chilli,Wholesale,Pettah,250
+09/04/2026,Green Chilli,Retail,Pettah,300
+09/04/2026,Green Chilli,Wholesale,Dambulla,185
+09/04/2026,Green Chilli,Retail,Dambulla,215
+10/04/2026,Lime,Wholesale,Pettah,130
+10/04/2026,Lime,Retail,Pettah,180
+10/04/2026,Lime,Wholesale,Dambulla,195
+10/04/2026,Lime,Retail,Dambulla,225
+10/04/2026,Potato (Imp),Wholesale,Pettah,151
+10/04/2026,Potato (Imp),Retail,Pettah,185
+10/04/2026,Potato (Imp),Wholesale,Dambulla,155
+10/04/2026,Potato (Imp),Retail,Dambulla,175
+10/04/2026,Potato (Local),Wholesale,Pettah,307
+10/04/2026,Potato (Local),Retail,Pettah,350
+10/04/2026,Potato (Local),Wholesale,Dambulla,235
+10/04/2026,Potato (Local),Retail,Dambulla,255
+10/04/2026,Big Onion (Imp),Wholesale,Pettah,118
+10/04/2026,Big Onion (Imp),Retail,Pettah,155
+10/04/2026,Big Onion (Imp),Wholesale,Dambulla,113
+10/04/2026,Big Onion (Imp),Retail,Dambulla,133
+10/04/2026,Big Onion (Local),Wholesale,Pettah,NA
+10/04/2026,Big Onion (Local),Retail,Pettah,NA
+10/04/2026,Big Onion (Local),Wholesale,Dambulla,NA
+10/04/2026,Big Onion (Local),Retail,Dambulla,NA
+10/04/2026,Red Onion (Imp),Wholesale,Pettah,220
+10/04/2026,Red Onion (Imp),Retail,Pettah,240
+10/04/2026,Red Onion (Imp),Wholesale,Dambulla,NA
+10/04/2026,Red Onion (Imp),Retail,Dambulla,NA
+10/04/2026,Red Onion (Local),Wholesale,Pettah,250
+10/04/2026,Red Onion (Local),Retail,Pettah,300
+10/04/2026,Red Onion (Local),Wholesale,Dambulla,250
+10/04/2026,Red Onion (Local),Retail,Dambulla,270
+10/04/2026,Green Chilli,Wholesale,Pettah,200
+10/04/2026,Green Chilli,Retail,Pettah,250
+10/04/2026,Green Chilli,Wholesale,Dambulla,200
+10/04/2026,Green Chilli,Retail,Dambulla,230
+10/04/2026,Pumpkin,Wholesale,Pettah,80
+10/04/2026,Pumpkin,Retail,Pettah,130
+10/04/2026,Pumpkin,Wholesale,Dambulla,35
+10/04/2026,Pumpkin,Retail,Dambulla,65
+10/04/2026,Brinjal,Wholesale,Pettah,150
+10/04/2026,Brinjal,Retail,Pettah,200
+10/04/2026,Brinjal,Wholesale,Dambulla,175
+10/04/2026,Brinjal,Retail,Dambulla,205
+10/04/2026,Tomato,Wholesale,Pettah,150
+10/04/2026,Tomato,Retail,Pettah,200
+10/04/2026,Tomato,Wholesale,Dambulla,165
+10/04/2026,Tomato,Retail,Dambulla,195
+10/04/2026,Cabbage,Wholesale,Pettah,80
+10/04/2026,Cabbage,Retail,Pettah,130
+10/04/2026,Cabbage,Wholesale,Dambulla,60
+10/04/2026,Cabbage,Retail,Dambulla,90
+10/04/2026,Carrot,Wholesale,Pettah,200
+10/04/2026,Carrot,Retail,Pettah,250
+10/04/2026,Carrot,Wholesale,Dambulla,250
+10/04/2026,Carrot,Retail,Dambulla,280
+10/04/2026,Beans,Wholesale,Pettah,300
+10/04/2026,Beans,Retail,Pettah,350
+10/04/2026,Beans,Wholesale,Dambulla,375
+10/04/2026,Beans,Retail,Dambulla,400
+10/04/2026,Snake gourd,Wholesale,Pettah,250
+10/04/2026,Snake gourd,Retail,Pettah,300
+10/04/2026,Snake gourd,Wholesale,Dambulla,115
+10/04/2026,Snake gourd,Retail,Dambulla,145
+16/04/2026,Potato (Imp),Wholesale,Pettah,NA
+16/04/2026,Potato (Imp),Retail,Pettah,NA
+16/04/2026,Potato (Imp),Wholesale,Dambulla,145
+16/04/2026,Potato (Imp),Retail,Dambulla,165
+16/04/2026,Potato (Local),Wholesale,Pettah,NA
+16/04/2026,Potato (Local),Retail,Pettah,NA
+16/04/2026,Potato (Local),Wholesale,Dambulla,225
+16/04/2026,Potato (Local),Retail,Dambulla,165
+16/04/2026,Big Onion (Imp),Wholesale,Pettah,NA
+16/04/2026,Big Onion (Imp),Retail,Pettah,NA
+16/04/2026,Big Onion (Imp),Wholesale,Dambulla,125
+16/04/2026,Big Onion (Imp),Retail,Dambulla,145
+16/04/2026,Big Onion (Local),Wholesale,Pettah,NA
+16/04/2026,Big Onion (Local),Retail,Pettah,NA
+16/04/2026,Big Onion (Local),Wholesale,Dambulla,NA
+16/04/2026,Big Onion (Local),Retail,Dambulla,NA
+16/04/2026,Red Onion (Imp),Wholesale,Pettah,NA
+16/04/2026,Red Onion (Imp),Retail,Pettah,NA
+16/04/2026,Red Onion (Imp),Wholesale,Dambulla,NA
+16/04/2026,Red Onion (Imp),Retail,Dambulla,NA
+16/04/2026,Red Onion (Local),Wholesale,Pettah,NA
+16/04/2026,Red Onion (Local),Retail,Pettah,NA
+16/04/2026,Red Onion (Local),Wholesale,Dambulla,275
+16/04/2026,Red Onion (Local),Retail,Dambulla,295
+16/04/2026,Lime,Wholesale,Pettah,NA
+16/04/2026,Lime,Retail,Pettah,NA
+16/04/2026,Lime,Wholesale,Dambulla,325
+16/04/2026,Lime,Retail,Dambulla,355
+16/04/2026,Green Chilli,Wholesale,Pettah,NA
+16/04/2026,Green Chilli,Retail,Pettah,NA
+16/04/2026,Green Chilli,Wholesale,Dambulla,190
+16/04/2026,Green Chilli,Retail,Dambulla,220
+16/04/2026,Pumpkin,Wholesale,Pettah,NA
+16/04/2026,Pumpkin,Retail,Pettah,NA
+16/04/2026,Pumpkin,Wholesale,Dambulla,45
+16/04/2026,Pumpkin,Retail,Dambulla,75
+16/04/2026,Brinjal,Wholesale,Pettah,NA
+16/04/2026,Brinjal,Retail,Pettah,NA
+16/04/2026,Brinjal,Wholesale,Dambulla,145
+16/04/2026,Brinjal,Retail,Dambulla,175
+16/04/2026,Tomato,Wholesale,Pettah,NA
+16/04/2026,Tomato,Retail,Pettah,NA
+16/04/2026,Tomato,Wholesale,Dambulla,125
+16/04/2026,Tomato,Retail,Dambulla,155
+16/04/2026,Cabbage,Wholesale,Pettah,NA
+16/04/2026,Cabbage,Retail,Pettah,NA
+16/04/2026,Cabbage,Wholesale,Dambulla,105
+16/04/2026,Cabbage,Retail,Dambulla,135
+16/04/2026,Carrot,Wholesale,Pettah,NA
+16/04/2026,Carrot,Retail,Pettah,NA
+16/04/2026,Carrot,Wholesale,Dambulla,275
+16/04/2026,Carrot,Retail,Dambulla,305
+16/04/2026,Beans,Wholesale,Pettah,NA
+16/04/2026,Beans,Retail,Pettah,NA
+16/04/2026,Beans,Wholesale,Dambulla,275
+16/04/2026,Beans,Retail,Dambulla,305
+16/04/2026,Snake gourd,Wholesale,Pettah,NA
+16/04/2026,Snake gourd,Retail,Pettah,NA
+16/04/2026,Snake gourd,Wholesale,Dambulla,NA
+16/04/2026,Snake gourd,Retail,Dambulla,NA
+17/04/2026,Lime,Wholesale,Pettah,NA
+17/04/2026,Lime,Retail,Pettah,NA
+17/04/2026,Lime,Wholesale,Dambulla,225
+17/04/2026,Lime,Retail,Dambulla,255
+17/04/2026,Potato (Local),Wholesale,Pettah,NA
+17/04/2026,Potato (Local),Retail,Pettah,NA
+17/04/2026,Potato (Local),Wholesale,Dambulla,210
+17/04/2026,Potato (Local),Retail,Dambulla,230
+17/04/2026,Big Onion (Imp),Wholesale,Pettah,NA
+17/04/2026,Big Onion (Imp),Retail,Pettah,NA
+17/04/2026,Big Onion (Imp),Wholesale,Dambulla,143
+17/04/2026,Big Onion (Imp),Retail,Dambulla,163
+17/04/2026,Big Onion (Local),Wholesale,Pettah,NA
+17/04/2026,Big Onion (Local),Retail,Pettah,NA
+17/04/2026,Big Onion (Local),Wholesale,Dambulla,NA
+17/04/2026,Big Onion (Local),Retail,Dambulla,NA
+17/04/2026,Red Onion (Imp),Wholesale,Pettah,NA
+17/04/2026,Red Onion (Imp),Retail,Pettah,NA
+17/04/2026,Red Onion (Imp),Wholesale,Dambulla,NA
+17/04/2026,Red Onion (Imp),Retail,Dambulla,NA
+17/04/2026,Red Onion (Local),Wholesale,Pettah,NA
+17/04/2026,Red Onion (Local),Retail,Pettah,NA
+17/04/2026,Red Onion (Local),Wholesale,Dambulla,200
+17/04/2026,Red Onion (Local),Retail,Dambulla,220
+17/04/2026,Green Chilli,Wholesale,Pettah,NA
+17/04/2026,Green Chilli,Retail,Pettah,NA
+17/04/2026,Green Chilli,Wholesale,Dambulla,175
+17/04/2026,Green Chilli,Retail,Dambulla,205
+17/04/2026,Potato (Imp),Wholesale,Pettah,NA
+17/04/2026,Potato (Imp),Retail,Pettah,NA
+17/04/2026,Potato (Imp),Wholesale,Dambulla,138
+17/04/2026,Potato (Imp),Retail,Dambulla,158
+17/04/2026,Pumpkin,Wholesale,Pettah,NA
+17/04/2026,Pumpkin,Retail,Pettah,NA
+17/04/2026,Pumpkin,Wholesale,Dambulla,58
+17/04/2026,Pumpkin,Retail,Dambulla,88
+17/04/2026,Beans,Wholesale,Pettah,NA
+17/04/2026,Beans,Retail,Pettah,NA
+17/04/2026,Beans,Wholesale,Dambulla,135
+17/04/2026,Beans,Retail,Dambulla,165
+17/04/2026,Carrot,Wholesale,Pettah,NA
+17/04/2026,Carrot,Retail,Pettah,NA
+17/04/2026,Carrot,Wholesale,Dambulla,275
+17/04/2026,Carrot,Retail,Dambulla,305
+17/04/2026,Snake gourd,Wholesale,Pettah,NA
+17/04/2026,Snake gourd,Retail,Pettah,NA
+17/04/2026,Snake gourd,Wholesale,Dambulla,110
+17/04/2026,Snake gourd,Retail,Dambulla,140
+17/04/2026,Tomato,Wholesale,Pettah,NA
+17/04/2026,Tomato,Retail,Pettah,NA
+17/04/2026,Tomato,Wholesale,Dambulla,70
+17/04/2026,Tomato,Retail,Dambulla,100
+17/04/2026,Brinjal,Wholesale,Pettah,NA
+17/04/2026,Brinjal,Retail,Pettah,NA
+17/04/2026,Brinjal,Wholesale,Dambulla,145
+17/04/2026,Brinjal,Retail,Dambulla,175
+17/04/2026,Cabbage,Wholesale,Pettah,NA
+17/04/2026,Cabbage,Retail,Pettah,NA
+17/04/2026,Cabbage,Wholesale,Dambulla,85
+17/04/2026,Cabbage,Retail,Dambulla,115
+20/04/2026,Potato (Imp),Wholesale,Pettah,143
+20/04/2026,Potato (Imp),Retail,Pettah,185
+20/04/2026,Potato (Imp),Wholesale,Dambulla,138
+20/04/2026,Potato (Imp),Retail,Dambulla,158
+20/04/2026,Potato (Local),Wholesale,Pettah,310
+20/04/2026,Potato (Local),Retail,Pettah,350
+20/04/2026,Potato (Local),Wholesale,Dambulla,235
+20/04/2026,Potato (Local),Retail,Dambulla,255
+20/04/2026,Big Onion (Imp),Wholesale,Pettah,129
+20/04/2026,Big Onion (Imp),Retail,Pettah,170
+20/04/2026,Big Onion (Imp),Wholesale,Dambulla,135
+20/04/2026,Big Onion (Imp),Retail,Dambulla,155
+20/04/2026,Big Onion (Local),Wholesale,Pettah,NA
+20/04/2026,Big Onion (Local),Retail,Pettah,NA
+20/04/2026,Big Onion (Local),Wholesale,Dambulla,NA
+20/04/2026,Big Onion (Local),Retail,Dambulla,NA
+20/04/2026,Red Onion (Imp),Wholesale,Pettah,240
+20/04/2026,Red Onion (Imp),Retail,Pettah,NA
+20/04/2026,Red Onion (Imp),Wholesale,Dambulla,255
+20/04/2026,Red Onion (Imp),Retail,Dambulla,275
+20/04/2026,Red Onion (Local),Wholesale,Pettah,258
+20/04/2026,Red Onion (Local),Retail,Pettah,350
+20/04/2026,Red Onion (Local),Wholesale,Dambulla,250
+20/04/2026,Red Onion (Local),Retail,Dambulla,270
+20/04/2026,Green Chilli,Wholesale,Pettah,200
+20/04/2026,Green Chilli,Retail,Pettah,250
+20/04/2026,Green Chilli,Wholesale,Dambulla,115
+20/04/2026,Green Chilli,Retail,Dambulla,145
+20/04/2026,Lime,Wholesale,Pettah,200
+20/04/2026,Lime,Retail,Pettah,250
+20/04/2026,Lime,Wholesale,Dambulla,250
+20/04/2026,Lime,Retail,Dambulla,280
+20/04/2026,Pumpkin,Wholesale,Pettah,50
+20/04/2026,Pumpkin,Retail,Pettah,100
+20/04/2026,Pumpkin,Wholesale,Dambulla,63
+20/04/2026,Pumpkin,Retail,Dambulla,93
+20/04/2026,Brinjal,Wholesale,Pettah,150
+20/04/2026,Brinjal,Retail,Pettah,200
+20/04/2026,Brinjal,Wholesale,Dambulla,110
+20/04/2026,Brinjal,Retail,Dambulla,140
+20/04/2026,Tomato,Wholesale,Pettah,150
+20/04/2026,Tomato,Retail,Pettah,200
+20/04/2026,Tomato,Wholesale,Dambulla,55
+20/04/2026,Tomato,Retail,Dambulla,85
+20/04/2026,Cabbage,Wholesale,Pettah,100
+20/04/2026,Cabbage,Retail,Pettah,150
+20/04/2026,Cabbage,Wholesale,Dambulla,75
+20/04/2026,Cabbage,Retail,Dambulla,105
+20/04/2026,Carrot,Wholesale,Pettah,250
+20/04/2026,Carrot,Retail,Pettah,300
+20/04/2026,Carrot,Wholesale,Dambulla,195
+20/04/2026,Carrot,Retail,Dambulla,225
+20/04/2026,Beans,Wholesale,Pettah,350
+20/04/2026,Beans,Retail,Pettah,400
+20/04/2026,Beans,Wholesale,Dambulla,275
+20/04/2026,Beans,Retail,Dambulla,305
+20/04/2026,Snake gourd,Wholesale,Pettah,200
+20/04/2026,Snake gourd,Retail,Pettah,250
+20/04/2026,Snake gourd,Wholesale,Dambulla,105
+20/04/2026,Snake gourd,Retail,Dambulla,135
+21/04/2026,Potato (Imp),Wholesale,Pettah,138
+21/04/2026,Potato (Imp),Retail,Pettah,185
+21/04/2026,Potato (Imp),Wholesale,Dambulla,135
+21/04/2026,Potato (Imp),Retail,Dambulla,155
+21/04/2026,Potato (Local),Wholesale,Pettah,310
+21/04/2026,Potato (Local),Retail,Pettah,350
+21/04/2026,Potato (Local),Wholesale,Dambulla,230
+21/04/2026,Potato (Local),Retail,Dambulla,250
+21/04/2026,Big Onion (Imp),Wholesale,Pettah,132
+21/04/2026,Big Onion (Imp),Retail,Pettah,170
+21/04/2026,Big Onion (Imp),Wholesale,Dambulla,138
+21/04/2026,Big Onion (Imp),Retail,Dambulla,158
+21/04/2026,Big Onion (Local),Wholesale,Pettah,NA
+21/04/2026,Big Onion (Local),Retail,Pettah,NA
+21/04/2026,Big Onion (Local),Wholesale,Dambulla,NA
+21/04/2026,Big Onion (Local),Retail,Dambulla,NA
+21/04/2026,Red Onion (Imp),Wholesale,Pettah,240
+21/04/2026,Red Onion (Imp),Retail,Pettah,NA
+21/04/2026,Red Onion (Imp),Wholesale,Dambulla,225
+21/04/2026,Red Onion (Imp),Retail,Dambulla,245
+21/04/2026,Lime,Wholesale,Pettah,200
+21/04/2026,Lime,Retail,Pettah,250
+21/04/2026,Lime,Wholesale,Dambulla,275
+21/04/2026,Lime,Retail,Dambulla,305
+21/04/2026,Red Onion (Local),Wholesale,Pettah,260
+21/04/2026,Red Onion (Local),Retail,Pettah,300
+21/04/2026,Red Onion (Local),Wholesale,Dambulla,200
+21/04/2026,Red Onion (Local),Retail,Dambulla,220
+21/04/2026,Green Chilli,Wholesale,Pettah,250
+21/04/2026,Green Chilli,Retail,Pettah,300
+21/04/2026,Green Chilli,Wholesale,Dambulla,165
+21/04/2026,Green Chilli,Retail,Dambulla,195
+21/04/2026,Pumpkin,Wholesale,Pettah,50
+21/04/2026,Pumpkin,Retail,Pettah,100
+21/04/2026,Pumpkin,Wholesale,Dambulla,43
+21/04/2026,Pumpkin,Retail,Dambulla,73
+21/04/2026,Brinjal,Wholesale,Pettah,150
+21/04/2026,Brinjal,Retail,Pettah,200
+21/04/2026,Brinjal,Wholesale,Dambulla,113
+21/04/2026,Brinjal,Retail,Dambulla,143
+21/04/2026,Tomato,Wholesale,Pettah,100
+21/04/2026,Tomato,Retail,Pettah,150
+21/04/2026,Tomato,Wholesale,Dambulla,48
+21/04/2026,Tomato,Retail,Dambulla,78
+21/04/2026,Cabbage,Wholesale,Pettah,100
+21/04/2026,Cabbage,Retail,Pettah,150
+21/04/2026,Cabbage,Wholesale,Dambulla,55
+21/04/2026,Cabbage,Retail,Dambulla,85
+21/04/2026,Carrot,Wholesale,Pettah,300
+21/04/2026,Carrot,Retail,Pettah,350
+21/04/2026,Carrot,Wholesale,Dambulla,200
+21/04/2026,Carrot,Retail,Dambulla,230
+21/04/2026,Beans,Wholesale,Pettah,350
+21/04/2026,Beans,Retail,Pettah,400
+21/04/2026,Beans,Wholesale,Dambulla,365
+21/04/2026,Beans,Retail,Dambulla,395
+21/04/2026,Snake gourd,Wholesale,Pettah,200
+21/04/2026,Snake gourd,Retail,Pettah,250
+21/04/2026,Snake gourd,Wholesale,Dambulla,115
+21/04/2026,Snake gourd,Retail,Dambulla,145
+22/04/2026,Potato (Imp),Wholesale,Pettah,138
+22/04/2026,Potato (Imp),Retail,Pettah,180
+22/04/2026,Potato (Imp),Wholesale,Dambulla,125
+22/04/2026,Potato (Imp),Retail,Dambulla,145
+22/04/2026,Potato (Local),Wholesale,Pettah,293
+22/04/2026,Potato (Local),Retail,Pettah,350
+22/04/2026,Potato (Local),Wholesale,Dambulla,260
+22/04/2026,Potato (Local),Retail,Dambulla,280
+22/04/2026,Big Onion (Imp),Wholesale,Pettah,130
+22/04/2026,Big Onion (Imp),Retail,Pettah,170
+22/04/2026,Big Onion (Imp),Wholesale,Dambulla,128
+22/04/2026,Big Onion (Imp),Retail,Dambulla,148
+22/04/2026,Big Onion (Local),Wholesale,Pettah,NA
+22/04/2026,Big Onion (Local),Retail,Pettah,NA
+22/04/2026,Big Onion (Local),Wholesale,Dambulla,NA
+22/04/2026,Big Onion (Local),Retail,Dambulla,NA
+22/04/2026,Red Onion (Imp),Wholesale,Pettah,240
+22/04/2026,Red Onion (Imp),Retail,Pettah,NA
+22/04/2026,Red Onion (Imp),Wholesale,Dambulla,225
+22/04/2026,Red Onion (Imp),Retail,Dambulla,245
+22/04/2026,Red Onion (Local),Wholesale,Pettah,278
+22/04/2026,Red Onion (Local),Retail,Pettah,320
+22/04/2026,Red Onion (Local),Wholesale,Dambulla,175
+22/04/2026,Red Onion (Local),Retail,Dambulla,195
+22/04/2026,Lime,Wholesale,Pettah,200
+22/04/2026,Lime,Retail,Pettah,250
+22/04/2026,Lime,Wholesale,Dambulla,210
+22/04/2026,Lime,Retail,Dambulla,240
+22/04/2026,Snake gourd,Wholesale,Pettah,200
+22/04/2026,Snake gourd,Retail,Pettah,250
+22/04/2026,Snake gourd,Wholesale,Dambulla,115
+22/04/2026,Snake gourd,Retail,Dambulla,145
+22/04/2026,Pumpkin,Wholesale,Pettah,50
+22/04/2026,Pumpkin,Retail,Pettah,100
+22/04/2026,Pumpkin,Wholesale,Dambulla,40
+22/04/2026,Pumpkin,Retail,Dambulla,70
+22/04/2026,Brinjal,Wholesale,Pettah,150
+22/04/2026,Brinjal,Retail,Pettah,200
+22/04/2026,Brinjal,Wholesale,Dambulla,100
+22/04/2026,Brinjal,Retail,Dambulla,130
+22/04/2026,Tomato,Wholesale,Pettah,120
+22/04/2026,Tomato,Retail,Pettah,170
+22/04/2026,Tomato,Wholesale,Dambulla,55
+22/04/2026,Tomato,Retail,Dambulla,85
+22/04/2026,Cabbage,Wholesale,Pettah,120
+22/04/2026,Cabbage,Retail,Pettah,170
+22/04/2026,Cabbage,Wholesale,Dambulla,75
+22/04/2026,Cabbage,Retail,Dambulla,105
+22/04/2026,Carrot,Wholesale,Pettah,300
+22/04/2026,Carrot,Retail,Pettah,350
+22/04/2026,Carrot,Wholesale,Dambulla,265
+22/04/2026,Carrot,Retail,Dambulla,295
+22/04/2026,Beans,Wholesale,Pettah,400
+22/04/2026,Beans,Retail,Pettah,450
+22/04/2026,Beans,Wholesale,Dambulla,310
+22/04/2026,Beans,Retail,Dambulla,340
+22/04/2026,Green Chilli,Wholesale,Pettah,250
+22/04/2026,Green Chilli,Retail,Pettah,300
+22/04/2026,Green Chilli,Wholesale,Dambulla,130
+22/04/2026,Green Chilli,Retail,Dambulla,160
+23/04/2026,Potato (Imp),Wholesale,Pettah,130
+23/04/2026,Potato (Imp),Retail,Pettah,175
+23/04/2026,Potato (Imp),Wholesale,Dambulla,125
+23/04/2026,Potato (Imp),Retail,Dambulla,145
+23/04/2026,Potato (Local),Wholesale,Pettah,290
+23/04/2026,Potato (Local),Retail,Pettah,350
+23/04/2026,Potato (Local),Wholesale,Dambulla,240
+23/04/2026,Potato (Local),Retail,Dambulla,260
+23/04/2026,Big Onion (Imp),Wholesale,Pettah,130
+23/04/2026,Big Onion (Imp),Retail,Pettah,170
+23/04/2026,Big Onion (Imp),Wholesale,Dambulla,133
+23/04/2026,Big Onion (Imp),Retail,Dambulla,153
+23/04/2026,Big Onion (Local),Wholesale,Pettah,NA
+23/04/2026,Big Onion (Local),Retail,Pettah,NA
+23/04/2026,Big Onion (Local),Wholesale,Dambulla,NA
+23/04/2026,Big Onion (Local),Retail,Dambulla,NA
+23/04/2026,Red Onion (Imp),Wholesale,Pettah,270
+23/04/2026,Red Onion (Imp),Retail,Pettah,350
+23/04/2026,Red Onion (Imp),Wholesale,Dambulla,275
+23/04/2026,Red Onion (Imp),Retail,Dambulla,295
+23/04/2026,Red Onion (Local),Wholesale,Pettah,277
+23/04/2026,Red Onion (Local),Retail,Pettah,360
+23/04/2026,Red Onion (Local),Wholesale,Dambulla,195
+23/04/2026,Red Onion (Local),Retail,Dambulla,210
+23/04/2026,Lime,Wholesale,Pettah,200
+23/04/2026,Lime,Retail,Pettah,250
+23/04/2026,Lime,Wholesale,Dambulla,240
+23/04/2026,Lime,Retail,Dambulla,270
+23/04/2026,Snake gourd,Wholesale,Pettah,200
+23/04/2026,Snake gourd,Retail,Pettah,250
+23/04/2026,Snake gourd,Wholesale,Dambulla,115
+23/04/2026,Snake gourd,Retail,Dambulla,145
+23/04/2026,Pumpkin,Wholesale,Pettah,50
+23/04/2026,Pumpkin,Retail,Pettah,100
+23/04/2026,Pumpkin,Wholesale,Dambulla,53
+23/04/2026,Pumpkin,Retail,Dambulla,83
+23/04/2026,Beans,Wholesale,Pettah,350
+23/04/2026,Beans,Retail,Pettah,400
+23/04/2026,Beans,Wholesale,Dambulla,275
+23/04/2026,Beans,Retail,Dambulla,305
+23/04/2026,Carrot,Wholesale,Pettah,250
+23/04/2026,Carrot,Retail,Pettah,300
+23/04/2026,Carrot,Wholesale,Dambulla,250
+23/04/2026,Carrot,Retail,Dambulla,280
+23/04/2026,Green Chilli,Wholesale,Pettah,150
+23/04/2026,Green Chilli,Retail,Pettah,200
+23/04/2026,Green Chilli,Wholesale,Dambulla,95
+23/04/2026,Green Chilli,Retail,Dambulla,125
+23/04/2026,Tomato,Wholesale,Pettah,100
+23/04/2026,Tomato,Retail,Pettah,150
+23/04/2026,Tomato,Wholesale,Dambulla,55
+23/04/2026,Tomato,Retail,Dambulla,85
+23/04/2026,Brinjal,Wholesale,Pettah,100
+23/04/2026,Brinjal,Retail,Pettah,150
+23/04/2026,Brinjal,Wholesale,Dambulla,115
+23/04/2026,Brinjal,Retail,Dambulla,145
+23/04/2026,Cabbage,Wholesale,Pettah,120
+23/04/2026,Cabbage,Retail,Pettah,170
+23/04/2026,Cabbage,Wholesale,Dambulla,80
+23/04/2026,Cabbage,Retail,Dambulla,110
+24/04/2026,Potato (Imp),Wholesale,Pettah,128
+24/04/2026,Potato (Imp),Retail,Pettah,175
+24/04/2026,Potato (Imp),Wholesale,Dambulla,125
+24/04/2026,Potato (Imp),Retail,Dambulla,145
+24/04/2026,Potato (Local),Wholesale,Pettah,283
+24/04/2026,Potato (Local),Retail,Pettah,350
+24/04/2026,Potato (Local),Wholesale,Dambulla,180
+24/04/2026,Potato (Local),Retail,Dambulla,200
+24/04/2026,Big Onion (Imp),Wholesale,Pettah,130
+24/04/2026,Big Onion (Imp),Retail,Pettah,170
+24/04/2026,Big Onion (Imp),Wholesale,Dambulla,128
+24/04/2026,Big Onion (Imp),Retail,Dambulla,148
+24/04/2026,Big Onion (Local),Wholesale,Pettah,NA
+24/04/2026,Big Onion (Local),Retail,Pettah,NA
+24/04/2026,Big Onion (Local),Wholesale,Dambulla,NA
+24/04/2026,Big Onion (Local),Retail,Dambulla,NA
+24/04/2026,Red Onion (Imp),Wholesale,Pettah,270
+24/04/2026,Red Onion (Imp),Retail,Pettah,350
+24/04/2026,Red Onion (Imp),Wholesale,Dambulla,255
+24/04/2026,Red Onion (Imp),Retail,Dambulla,275
+24/04/2026,Lime,Wholesale,Pettah,200
+24/04/2026,Lime,Retail,Pettah,250
+24/04/2026,Lime,Wholesale,Dambulla,255
+24/04/2026,Lime,Retail,Dambulla,285
+24/04/2026,Red Onion (Local),Wholesale,Pettah,277
+24/04/2026,Red Onion (Local),Retail,Pettah,340
+24/04/2026,Red Onion (Local),Wholesale,Dambulla,225
+24/04/2026,Red Onion (Local),Retail,Dambulla,245
+24/04/2026,Pumpkin,Wholesale,Pettah,50
+24/04/2026,Pumpkin,Retail,Pettah,100
+24/04/2026,Pumpkin,Wholesale,Dambulla,53
+24/04/2026,Pumpkin,Retail,Dambulla,83
+24/04/2026,Brinjal,Wholesale,Pettah,150
+24/04/2026,Brinjal,Retail,Pettah,200
+24/04/2026,Brinjal,Wholesale,Dambulla,110
+24/04/2026,Brinjal,Retail,Dambulla,140
+24/04/2026,Tomato,Wholesale,Pettah,150
+24/04/2026,Tomato,Retail,Pettah,200
+24/04/2026,Tomato,Wholesale,Dambulla,65
+24/04/2026,Tomato,Retail,Dambulla,95
+24/04/2026,Cabbage,Wholesale,Pettah,100
+24/04/2026,Cabbage,Retail,Pettah,150
+24/04/2026,Cabbage,Wholesale,Dambulla,55
+24/04/2026,Cabbage,Retail,Dambulla,85
+24/04/2026,Carrot,Wholesale,Pettah,250
+24/04/2026,Carrot,Retail,Pettah,300
+24/04/2026,Carrot,Wholesale,Dambulla,225
+24/04/2026,Carrot,Retail,Dambulla,255
+24/04/2026,Beans,Wholesale,Pettah,400
+24/04/2026,Beans,Retail,Pettah,450
+24/04/2026,Beans,Wholesale,Dambulla,300
+24/04/2026,Beans,Retail,Dambulla,330
+24/04/2026,Snake gourd,Wholesale,Pettah,250
+24/04/2026,Snake gourd,Retail,Pettah,300
+24/04/2026,Snake gourd,Wholesale,Dambulla,155
+24/04/2026,Snake gourd,Retail,Dambulla,185
+24/04/2026,Green Chilli,Wholesale,Pettah,100
+24/04/2026,Green Chilli,Retail,Pettah,150
+24/04/2026,Green Chilli,Wholesale,Dambulla,115
+24/04/2026,Green Chilli,Retail,Dambulla,145
+27/04/2026,Lime,Wholesale,Pettah,200
+27/04/2026,Lime,Retail,Pettah,250
+27/04/2026,Lime,Wholesale,Dambulla,265
+27/04/2026,Lime,Retail,Dambulla,295
+27/04/2026,Potato (Imp),Wholesale,Pettah,128
+27/04/2026,Potato (Imp),Retail,Pettah,170
+27/04/2026,Potato (Imp),Wholesale,Dambulla,125
+27/04/2026,Potato (Imp),Retail,Dambulla,145
+27/04/2026,Potato (Local),Wholesale,Pettah,280
+27/04/2026,Potato (Local),Retail,Pettah,350
+27/04/2026,Potato (Local),Wholesale,Dambulla,220
+27/04/2026,Potato (Local),Retail,Dambulla,240
+27/04/2026,Big Onion (Imp),Wholesale,Pettah,129
+27/04/2026,Big Onion (Imp),Retail,Pettah,170
+27/04/2026,Big Onion (Imp),Wholesale,Dambulla,125
+27/04/2026,Big Onion (Imp),Retail,Dambulla,145
+27/04/2026,Big Onion (Local),Wholesale,Pettah,NA
+27/04/2026,Big Onion (Local),Retail,Pettah,NA
+27/04/2026,Big Onion (Local),Wholesale,Dambulla,NA
+27/04/2026,Big Onion (Local),Retail,Dambulla,NA
+27/04/2026,Red Onion (Imp),Wholesale,Pettah,270
+27/04/2026,Red Onion (Imp),Retail,Pettah,350
+27/04/2026,Red Onion (Imp),Wholesale,Dambulla,260
+27/04/2026,Red Onion (Imp),Retail,Dambulla,280
+27/04/2026,Red Onion (Local),Wholesale,Pettah,267
+27/04/2026,Red Onion (Local),Retail,Pettah,340
+27/04/2026,Red Onion (Local),Wholesale,Dambulla,200
+27/04/2026,Red Onion (Local),Retail,Dambulla,220
+27/04/2026,Snake gourd,Wholesale,Pettah,250
+27/04/2026,Snake gourd,Retail,Pettah,300
+27/04/2026,Snake gourd,Wholesale,Dambulla,235
+27/04/2026,Snake gourd,Retail,Dambulla,265
+27/04/2026,Pumpkin,Wholesale,Pettah,50
+27/04/2026,Pumpkin,Retail,Pettah,100
+27/04/2026,Pumpkin,Wholesale,Dambulla,65
+27/04/2026,Pumpkin,Retail,Dambulla,95
+27/04/2026,Brinjal,Wholesale,Pettah,250
+27/04/2026,Brinjal,Retail,Pettah,300
+27/04/2026,Brinjal,Wholesale,Dambulla,130
+27/04/2026,Brinjal,Retail,Dambulla,160
+27/04/2026,Tomato,Wholesale,Pettah,150
+27/04/2026,Tomato,Retail,Pettah,200
+27/04/2026,Tomato,Wholesale,Dambulla,110
+27/04/2026,Tomato,Retail,Dambulla,140
+27/04/2026,Cabbage,Wholesale,Pettah,80
+27/04/2026,Cabbage,Retail,Pettah,130
+27/04/2026,Cabbage,Wholesale,Dambulla,60
+27/04/2026,Cabbage,Retail,Dambulla,90
+27/04/2026,Carrot,Wholesale,Pettah,200
+27/04/2026,Carrot,Retail,Pettah,250
+27/04/2026,Carrot,Wholesale,Dambulla,200
+27/04/2026,Carrot,Retail,Dambulla,230
+27/04/2026,Beans,Wholesale,Pettah,450
+27/04/2026,Beans,Retail,Pettah,500
+27/04/2026,Beans,Wholesale,Dambulla,375
+27/04/2026,Beans,Retail,Dambulla,405
+27/04/2026,Green Chilli,Wholesale,Pettah,200
+27/04/2026,Green Chilli,Retail,Pettah,250
+27/04/2026,Green Chilli,Wholesale,Dambulla,115
+27/04/2026,Green Chilli,Retail,Dambulla,145
+28/04/2026,Potato (Imp),Wholesale,Pettah,126
+28/04/2026,Potato (Imp),Retail,Pettah,170
+28/04/2026,Potato (Imp),Wholesale,Dambulla,125
+28/04/2026,Potato (Imp),Retail,Dambulla,145
+28/04/2026,Potato (Local),Wholesale,Pettah,273
+28/04/2026,Potato (Local),Retail,Pettah,350
+28/04/2026,Potato (Local),Wholesale,Dambulla,215
+28/04/2026,Potato (Local),Retail,Dambulla,235
+28/04/2026,Big Onion (Imp),Wholesale,Pettah,133
+28/04/2026,Big Onion (Imp),Retail,Pettah,170
+28/04/2026,Big Onion (Imp),Wholesale,Dambulla,125
+28/04/2026,Big Onion (Imp),Retail,Dambulla,145
+28/04/2026,Big Onion (Local),Wholesale,Pettah,NA
+28/04/2026,Big Onion (Local),Retail,Pettah,NA
+28/04/2026,Big Onion (Local),Wholesale,Dambulla,NA
+28/04/2026,Big Onion (Local),Retail,Dambulla,NA
+28/04/2026,Red Onion (Local),Wholesale,Pettah,267
+28/04/2026,Red Onion (Local),Retail,Pettah,340
+28/04/2026,Red Onion (Local),Wholesale,Dambulla,180
+28/04/2026,Red Onion (Local),Retail,Dambulla,195
+28/04/2026,Lime,Wholesale,Pettah,150
+28/04/2026,Lime,Retail,Pettah,200
+28/04/2026,Lime,Wholesale,Dambulla,245
+28/04/2026,Lime,Retail,Dambulla,275
+28/04/2026,Green Chilli,Wholesale,Pettah,200
+28/04/2026,Green Chilli,Retail,Pettah,250
+28/04/2026,Green Chilli,Wholesale,Dambulla,110
+28/04/2026,Green Chilli,Retail,Dambulla,140
+28/04/2026,Snake gourd,Wholesale,Pettah,250
+28/04/2026,Snake gourd,Retail,Pettah,300
+28/04/2026,Snake gourd,Wholesale,Dambulla,230
+28/04/2026,Snake gourd,Retail,Dambulla,260
+28/04/2026,Brinjal,Wholesale,Pettah,250
+28/04/2026,Brinjal,Retail,Pettah,300
+28/04/2026,Brinjal,Wholesale,Dambulla,185
+28/04/2026,Brinjal,Retail,Dambulla,215
+28/04/2026,Tomato,Wholesale,Pettah,150
+28/04/2026,Tomato,Retail,Pettah,200
+28/04/2026,Tomato,Wholesale,Dambulla,125
+28/04/2026,Tomato,Retail,Dambulla,155
+28/04/2026,Cabbage,Wholesale,Pettah,100
+28/04/2026,Cabbage,Retail,Pettah,150
+28/04/2026,Cabbage,Wholesale,Dambulla,70
+28/04/2026,Cabbage,Retail,Dambulla,100
+28/04/2026,Carrot,Wholesale,Pettah,250
+28/04/2026,Carrot,Retail,Pettah,300
+28/04/2026,Carrot,Wholesale,Dambulla,200
+28/04/2026,Carrot,Retail,Dambulla,230
+28/04/2026,Beans,Wholesale,Pettah,500
+28/04/2026,Beans,Retail,Pettah,550
+28/04/2026,Beans,Wholesale,Dambulla,475
+28/04/2026,Beans,Retail,Dambulla,505
+28/04/2026,Pumpkin,Wholesale,Pettah,50
+28/04/2026,Pumpkin,Retail,Pettah,100
+28/04/2026,Pumpkin,Wholesale,Dambulla,53
+28/04/2026,Pumpkin,Retail,Dambulla,83
+29/04/2026,Red Onion (Local),Wholesale,Pettah,250
+29/04/2026,Red Onion (Local),Retail,Pettah,295
+29/04/2026,Red Onion (Local),Wholesale,Dambulla,200
+29/04/2026,Red Onion (Local),Retail,Dambulla,220
+29/04/2026,Potato (Imp),Wholesale,Pettah,126
+29/04/2026,Potato (Imp),Retail,Pettah,165
+29/04/2026,Potato (Imp),Wholesale,Dambulla,128
+29/04/2026,Potato (Imp),Retail,Dambulla,148
+29/04/2026,Potato (Local),Wholesale,Pettah,263
+29/04/2026,Potato (Local),Retail,Pettah,350
+29/04/2026,Potato (Local),Wholesale,Dambulla,210
+29/04/2026,Potato (Local),Retail,Dambulla,230
+29/04/2026,Big Onion (Imp),Wholesale,Pettah,135
+29/04/2026,Big Onion (Imp),Retail,Pettah,170
+29/04/2026,Big Onion (Imp),Wholesale,Dambulla,133
+29/04/2026,Big Onion (Imp),Retail,Dambulla,153
+29/04/2026,Big Onion (Local),Wholesale,Pettah,NA
+29/04/2026,Big Onion (Local),Retail,Pettah,NA
+29/04/2026,Big Onion (Local),Wholesale,Dambulla,NA
+29/04/2026,Big Onion (Local),Retail,Dambulla,NA
+29/04/2026,Red Onion (Imp),Wholesale,Pettah,254
+29/04/2026,Red Onion (Imp),Retail,Pettah,350
+29/04/2026,Red Onion (Imp),Wholesale,Dambulla,245
+29/04/2026,Red Onion (Imp),Retail,Dambulla,265
+29/04/2026,Lime,Wholesale,Pettah,150
+29/04/2026,Lime,Retail,Pettah,200
+29/04/2026,Lime,Wholesale,Dambulla,225
+29/04/2026,Lime,Retail,Dambulla,255
+29/04/2026,Green Chilli,Wholesale,Pettah,150
+29/04/2026,Green Chilli,Retail,Pettah,200
+29/04/2026,Green Chilli,Wholesale,Dambulla,100
+29/04/2026,Green Chilli,Retail,Dambulla,130
+29/04/2026,Snake gourd,Wholesale,Pettah,320
+29/04/2026,Snake gourd,Retail,Pettah,370
+29/04/2026,Snake gourd,Wholesale,Dambulla,245
+29/04/2026,Snake gourd,Retail,Dambulla,275
+29/04/2026,Pumpkin,Wholesale,Pettah,50
+29/04/2026,Pumpkin,Retail,Pettah,100
+29/04/2026,Pumpkin,Wholesale,Dambulla,48
+29/04/2026,Pumpkin,Retail,Dambulla,78
+29/04/2026,Brinjal,Wholesale,Pettah,280
+29/04/2026,Brinjal,Retail,Pettah,330
+29/04/2026,Brinjal,Wholesale,Dambulla,230
+29/04/2026,Brinjal,Retail,Dambulla,260
+29/04/2026,Tomato,Wholesale,Pettah,150
+29/04/2026,Tomato,Retail,Pettah,200
+29/04/2026,Tomato,Wholesale,Dambulla,95
+29/04/2026,Tomato,Retail,Dambulla,125
+29/04/2026,Cabbage,Wholesale,Pettah,60
+29/04/2026,Cabbage,Retail,Pettah,120
+29/04/2026,Cabbage,Wholesale,Dambulla,75
+29/04/2026,Cabbage,Retail,Dambulla,105
+29/04/2026,Carrot,Wholesale,Pettah,200
+29/04/2026,Carrot,Retail,Pettah,250
+29/04/2026,Carrot,Wholesale,Dambulla,175
+29/04/2026,Carrot,Retail,Dambulla,205
+29/04/2026,Beans,Wholesale,Pettah,550
+29/04/2026,Beans,Retail,Pettah,600
+29/04/2026,Beans,Wholesale,Dambulla,525
+29/04/2026,Beans,Retail,Dambulla,555
+30/04/2026,Potato (Local),Wholesale,Pettah,300
+30/04/2026,Potato (Local),Retail,Pettah,350
+30/04/2026,Potato (Local),Wholesale,Dambulla,215
+30/04/2026,Potato (Local),Retail,Dambulla,235
+30/04/2026,Big Onion (Imp),Wholesale,Pettah,140
+30/04/2026,Big Onion (Imp),Retail,Pettah,170
+30/04/2026,Big Onion (Imp),Wholesale,Dambulla,135
+30/04/2026,Big Onion (Imp),Retail,Dambulla,155
+30/04/2026,Big Onion (Local),Wholesale,Pettah,NA
+30/04/2026,Big Onion (Local),Retail,Pettah,NA
+30/04/2026,Big Onion (Local),Wholesale,Dambulla,NA
+30/04/2026,Big Onion (Local),Retail,Dambulla,NA
+30/04/2026,Red Onion (Imp),Wholesale,Pettah,275
+30/04/2026,Red Onion (Imp),Retail,Pettah,350
+30/04/2026,Red Onion (Imp),Wholesale,Dambulla,NA
+30/04/2026,Red Onion (Imp),Retail,Dambulla,NA
+30/04/2026,Red Onion (Local),Wholesale,Pettah,275
+30/04/2026,Red Onion (Local),Retail,Pettah,295
+30/04/2026,Red Onion (Local),Wholesale,Dambulla,180
+30/04/2026,Red Onion (Local),Retail,Dambulla,200
+30/04/2026,Lime,Wholesale,Pettah,150
+30/04/2026,Lime,Retail,Pettah,200
+30/04/2026,Lime,Wholesale,Dambulla,240
+30/04/2026,Lime,Retail,Dambulla,270
+30/04/2026,Green Chilli,Wholesale,Pettah,150
+30/04/2026,Green Chilli,Retail,Pettah,200
+30/04/2026,Green Chilli,Wholesale,Dambulla,105
+30/04/2026,Green Chilli,Retail,Dambulla,135
+30/04/2026,Potato (Imp),Wholesale,Pettah,130
+30/04/2026,Potato (Imp),Retail,Pettah,165
+30/04/2026,Potato (Imp),Wholesale,Dambulla,125
+30/04/2026,Potato (Imp),Retail,Dambulla,145
+30/04/2026,Pumpkin,Wholesale,Pettah,50
+30/04/2026,Pumpkin,Retail,Pettah,100
+30/04/2026,Pumpkin,Wholesale,Dambulla,50
+30/04/2026,Pumpkin,Retail,Dambulla,80
+30/04/2026,Brinjal,Wholesale,Pettah,300
+30/04/2026,Brinjal,Retail,Pettah,350
+30/04/2026,Brinjal,Wholesale,Dambulla,155
+30/04/2026,Brinjal,Retail,Dambulla,185
+30/04/2026,Tomato,Wholesale,Pettah,150
+30/04/2026,Tomato,Retail,Pettah,200
+30/04/2026,Tomato,Wholesale,Dambulla,115
+30/04/2026,Tomato,Retail,Dambulla,145
+30/04/2026,Cabbage,Wholesale,Pettah,60
+30/04/2026,Cabbage,Retail,Pettah,120
+30/04/2026,Cabbage,Wholesale,Dambulla,80
+30/04/2026,Cabbage,Retail,Dambulla,110
+30/04/2026,Carrot,Wholesale,Pettah,200
+30/04/2026,Carrot,Retail,Pettah,250
+30/04/2026,Carrot,Wholesale,Dambulla,190
+30/04/2026,Carrot,Retail,Dambulla,220
+30/04/2026,Beans,Wholesale,Pettah,400
+30/04/2026,Beans,Retail,Pettah,450
+30/04/2026,Beans,Wholesale,Dambulla,545
+30/04/2026,Beans,Retail,Dambulla,575
+30/04/2026,Snake gourd,Wholesale,Pettah,350
+30/04/2026,Snake gourd,Retail,Pettah,400
+30/04/2026,Snake gourd,Wholesale,Dambulla,195
+30/04/2026,Snake gourd,Retail,Dambulla,225
+04/05/2026,Potato (Imp),Wholesale,Pettah,136
+04/05/2026,Potato (Imp),Retail,Pettah,170
+04/05/2026,Potato (Imp),Wholesale,Dambulla,135
+04/05/2026,Potato (Imp),Retail,Dambulla,155
+04/05/2026,Potato (Local),Wholesale,Pettah,270
+04/05/2026,Potato (Local),Retail,Pettah,330
+04/05/2026,Potato (Local),Wholesale,Dambulla,225
+04/05/2026,Potato (Local),Retail,Dambulla,245
+04/05/2026,Big Onion (Imp),Wholesale,Pettah,141
+04/05/2026,Big Onion (Imp),Retail,Pettah,175
+04/05/2026,Big Onion (Imp),Wholesale,Dambulla,135
+04/05/2026,Big Onion (Imp),Retail,Dambulla,155
+04/05/2026,Big Onion (Local),Wholesale,Pettah,NA
+04/05/2026,Big Onion (Local),Retail,Pettah,NA
+04/05/2026,Big Onion (Local),Wholesale,Dambulla,NA
+04/05/2026,Big Onion (Local),Retail,Dambulla,NA
+04/05/2026,Red Onion (Imp),Wholesale,Pettah,250
+04/05/2026,Red Onion (Imp),Retail,Pettah,350
+04/05/2026,Red Onion (Imp),Wholesale,Dambulla,205
+04/05/2026,Red Onion (Imp),Retail,Dambulla,225
+04/05/2026,Red Onion (Local),Wholesale,Pettah,250
+04/05/2026,Red Onion (Local),Retail,Pettah,295
+04/05/2026,Red Onion (Local),Wholesale,Dambulla,205
+04/05/2026,Red Onion (Local),Retail,Dambulla,225
+04/05/2026,Lime,Wholesale,Pettah,150
+04/05/2026,Lime,Retail,Pettah,200
+04/05/2026,Lime,Wholesale,Dambulla,375
+04/05/2026,Lime,Retail,Dambulla,405
+04/05/2026,Green Chilli,Wholesale,Pettah,150
+04/05/2026,Green Chilli,Retail,Pettah,200
+04/05/2026,Green Chilli,Wholesale,Dambulla,100
+04/05/2026,Green Chilli,Retail,Dambulla,130
+04/05/2026,Pumpkin,Wholesale,Pettah,50
+04/05/2026,Pumpkin,Retail,Pettah,100
+04/05/2026,Pumpkin,Wholesale,Dambulla,55
+04/05/2026,Pumpkin,Retail,Dambulla,85
+04/05/2026,Brinjal,Wholesale,Pettah,250
+04/05/2026,Brinjal,Retail,Pettah,300
+04/05/2026,Brinjal,Wholesale,Dambulla,195
+04/05/2026,Brinjal,Retail,Dambulla,225
+04/05/2026,Tomato,Wholesale,Pettah,200
+04/05/2026,Tomato,Retail,Pettah,250
+04/05/2026,Tomato,Wholesale,Dambulla,155
+04/05/2026,Tomato,Retail,Dambulla,185
+04/05/2026,Cabbage,Wholesale,Pettah,60
+04/05/2026,Cabbage,Retail,Pettah,120
+04/05/2026,Cabbage,Wholesale,Dambulla,95
+04/05/2026,Cabbage,Retail,Dambulla,125
+04/05/2026,Carrot,Wholesale,Pettah,200
+04/05/2026,Carrot,Retail,Pettah,250
+04/05/2026,Carrot,Wholesale,Dambulla,220
+04/05/2026,Carrot,Retail,Dambulla,250
+04/05/2026,Beans,Wholesale,Pettah,550
+04/05/2026,Beans,Retail,Pettah,600
+04/05/2026,Beans,Wholesale,Dambulla,425
+04/05/2026,Beans,Retail,Dambulla,455
+04/05/2026,Snake gourd,Wholesale,Pettah,350
+04/05/2026,Snake gourd,Retail,Pettah,400
+04/05/2026,Snake gourd,Wholesale,Dambulla,275
+04/05/2026,Snake gourd,Retail,Dambulla,305
+05/05/2026,Lime,Wholesale,Pettah,250
+05/05/2026,Lime,Retail,Pettah,300
+05/05/2026,Lime,Wholesale,Dambulla,340
+05/05/2026,Lime,Retail,Dambulla,370
+05/05/2026,Potato (Local),Wholesale,Pettah,277
+05/05/2026,Potato (Local),Retail,Pettah,350
+05/05/2026,Potato (Local),Wholesale,Dambulla,225
+05/05/2026,Potato (Local),Retail,Dambulla,245
+05/05/2026,Big Onion (Imp),Wholesale,Pettah,148
+05/05/2026,Big Onion (Imp),Retail,Pettah,180
+05/05/2026,Big Onion (Imp),Wholesale,Dambulla,145
+05/05/2026,Big Onion (Imp),Retail,Dambulla,165
+05/05/2026,Big Onion (Local),Wholesale,Pettah,NA
+05/05/2026,Big Onion (Local),Retail,Pettah,NA
+05/05/2026,Big Onion (Local),Wholesale,Dambulla,NA
+05/05/2026,Big Onion (Local),Retail,Dambulla,NA
+05/05/2026,Red Onion (Imp),Wholesale,Pettah,260
+05/05/2026,Red Onion (Imp),Retail,Pettah,350
+05/05/2026,Red Onion (Imp),Wholesale,Dambulla,210
+05/05/2026,Red Onion (Imp),Retail,Dambulla,230
+05/05/2026,Red Onion (Local),Wholesale,Pettah,255
+05/05/2026,Red Onion (Local),Retail,Pettah,250
+05/05/2026,Red Onion (Local),Wholesale,Dambulla,255
+05/05/2026,Red Onion (Local),Retail,Dambulla,275
+05/05/2026,Green Chilli,Wholesale,Pettah,150
+05/05/2026,Green Chilli,Retail,Pettah,200
+05/05/2026,Green Chilli,Wholesale,Dambulla,90
+05/05/2026,Green Chilli,Retail,Dambulla,120
+05/05/2026,Potato (Imp),Wholesale,Pettah,173
+05/05/2026,Potato (Imp),Retail,Pettah,180
+05/05/2026,Potato (Imp),Wholesale,Dambulla,140
+05/05/2026,Potato (Imp),Retail,Dambulla,160
+05/05/2026,Pumpkin,Wholesale,Pettah,50
+05/05/2026,Pumpkin,Retail,Pettah,100
+05/05/2026,Pumpkin,Wholesale,Dambulla,68
+05/05/2026,Pumpkin,Retail,Dambulla,98
+05/05/2026,Beans,Wholesale,Pettah,550
+05/05/2026,Beans,Retail,Pettah,600
+05/05/2026,Beans,Wholesale,Dambulla,450
+05/05/2026,Beans,Retail,Dambulla,480
+05/05/2026,Carrot,Wholesale,Pettah,200
+05/05/2026,Carrot,Retail,Pettah,250
+05/05/2026,Carrot,Wholesale,Dambulla,180
+05/05/2026,Carrot,Retail,Dambulla,210
+05/05/2026,Snake gourd,Wholesale,Pettah,350
+05/05/2026,Snake gourd,Retail,Pettah,400
+05/05/2026,Snake gourd,Wholesale,Dambulla,230
+05/05/2026,Snake gourd,Retail,Dambulla,260
+05/05/2026,Tomato,Wholesale,Pettah,200
+05/05/2026,Tomato,Retail,Pettah,250
+05/05/2026,Tomato,Wholesale,Dambulla,150
+05/05/2026,Tomato,Retail,Dambulla,180
+05/05/2026,Brinjal,Wholesale,Pettah,300
+05/05/2026,Brinjal,Retail,Pettah,350
+05/05/2026,Brinjal,Wholesale,Dambulla,255
+05/05/2026,Brinjal,Retail,Dambulla,285
+05/05/2026,Cabbage,Wholesale,Pettah,60
+05/05/2026,Cabbage,Retail,Pettah,120
+05/05/2026,Cabbage,Wholesale,Dambulla,60
+05/05/2026,Cabbage,Retail,Dambulla,90
+06/05/2026,Potato (Imp),Wholesale,Pettah,145
+06/05/2026,Potato (Imp),Retail,Pettah,175
+06/05/2026,Potato (Imp),Wholesale,Dambulla,145
+06/05/2026,Potato (Imp),Retail,Dambulla,165
+06/05/2026,Potato (Local),Wholesale,Pettah,257
+06/05/2026,Potato (Local),Retail,Pettah,300
+06/05/2026,Potato (Local),Wholesale,Dambulla,205
+06/05/2026,Potato (Local),Retail,Dambulla,225
+06/05/2026,Big Onion (Imp),Wholesale,Pettah,156
+06/05/2026,Big Onion (Imp),Retail,Pettah,178
+06/05/2026,Big Onion (Imp),Wholesale,Dambulla,145
+06/05/2026,Big Onion (Imp),Retail,Dambulla,165
+06/05/2026,Big Onion (Local),Wholesale,Pettah,NA
+06/05/2026,Big Onion (Local),Retail,Pettah,NA
+06/05/2026,Big Onion (Local),Wholesale,Dambulla,NA
+06/05/2026,Big Onion (Local),Retail,Dambulla,NA
+06/05/2026,Red Onion (Imp),Wholesale,Pettah,258
+06/05/2026,Red Onion (Imp),Retail,Pettah,350
+06/05/2026,Red Onion (Imp),Wholesale,Dambulla,275
+06/05/2026,Red Onion (Imp),Retail,Dambulla,295
+06/05/2026,Lime,Wholesale,Pettah,250
+06/05/2026,Lime,Retail,Pettah,300
+06/05/2026,Lime,Wholesale,Dambulla,345
+06/05/2026,Lime,Retail,Dambulla,375
+06/05/2026,Red Onion (Local),Wholesale,Pettah,250
+06/05/2026,Red Onion (Local),Retail,Pettah,255
+06/05/2026,Red Onion (Local),Wholesale,Dambulla,275
+06/05/2026,Red Onion (Local),Retail,Dambulla,295
+06/05/2026,Pumpkin,Wholesale,Pettah,50
+06/05/2026,Pumpkin,Retail,Pettah,100
+06/05/2026,Pumpkin,Wholesale,Dambulla,53
+06/05/2026,Pumpkin,Retail,Dambulla,83
+06/05/2026,Brinjal,Wholesale,Pettah,350
+06/05/2026,Brinjal,Retail,Pettah,400
+06/05/2026,Brinjal,Wholesale,Dambulla,195
+06/05/2026,Brinjal,Retail,Dambulla,225
+06/05/2026,Tomato,Wholesale,Pettah,200
+06/05/2026,Tomato,Retail,Pettah,250
+06/05/2026,Tomato,Wholesale,Dambulla,170
+06/05/2026,Tomato,Retail,Dambulla,200
+06/05/2026,Cabbage,Wholesale,Pettah,80
+06/05/2026,Cabbage,Retail,Pettah,140
+06/05/2026,Cabbage,Wholesale,Dambulla,65
+06/05/2026,Cabbage,Retail,Dambulla,95
+06/05/2026,Carrot,Wholesale,Pettah,200
+06/05/2026,Carrot,Retail,Pettah,250
+06/05/2026,Carrot,Wholesale,Dambulla,210
+06/05/2026,Carrot,Retail,Dambulla,240
+06/05/2026,Beans,Wholesale,Pettah,550
+06/05/2026,Beans,Retail,Pettah,600
+06/05/2026,Beans,Wholesale,Dambulla,445
+06/05/2026,Beans,Retail,Dambulla,475
+06/05/2026,Snake gourd,Wholesale,Pettah,380
+06/05/2026,Snake gourd,Retail,Pettah,430
+06/05/2026,Snake gourd,Wholesale,Dambulla,295
+06/05/2026,Snake gourd,Retail,Dambulla,325
+06/05/2026,Green Chilli,Wholesale,Pettah,150
+06/05/2026,Green Chilli,Retail,Pettah,200
+06/05/2026,Green Chilli,Wholesale,Dambulla,115
+06/05/2026,Green Chilli,Retail,Dambulla,145
+07/05/2026,Lime,Wholesale,Pettah,300
+07/05/2026,Lime,Retail,Pettah,350
+07/05/2026,Lime,Wholesale,Dambulla,340
+07/05/2026,Lime,Retail,Dambulla,370
+07/05/2026,Potato (Imp),Wholesale,Pettah,145
+07/05/2026,Potato (Imp),Retail,Pettah,175
+07/05/2026,Potato (Imp),Wholesale,Dambulla,140
+07/05/2026,Potato (Imp),Retail,Dambulla,160
+07/05/2026,Potato (Local),Wholesale,Pettah,257
+07/05/2026,Potato (Local),Retail,Pettah,300
+07/05/2026,Potato (Local),Wholesale,Dambulla,205
+07/05/2026,Potato (Local),Retail,Dambulla,225
+07/05/2026,Big Onion (Imp),Wholesale,Pettah,176
+07/05/2026,Big Onion (Imp),Retail,Pettah,210
+07/05/2026,Big Onion (Imp),Wholesale,Dambulla,190
+07/05/2026,Big Onion (Imp),Retail,Dambulla,210
+07/05/2026,Big Onion (Local),Wholesale,Pettah,NA
+07/05/2026,Big Onion (Local),Retail,Pettah,NA
+07/05/2026,Big Onion (Local),Wholesale,Dambulla,NA
+07/05/2026,Big Onion (Local),Retail,Dambulla,NA
+07/05/2026,Red Onion (Imp),Wholesale,Pettah,259
+07/05/2026,Red Onion (Imp),Retail,Pettah,350
+07/05/2026,Red Onion (Imp),Wholesale,Dambulla,240
+07/05/2026,Red Onion (Imp),Retail,Dambulla,260
+07/05/2026,Red Onion (Local),Wholesale,Pettah,250
+07/05/2026,Red Onion (Local),Retail,Pettah,255
+07/05/2026,Red Onion (Local),Wholesale,Dambulla,220
+07/05/2026,Red Onion (Local),Retail,Dambulla,240
+07/05/2026,Green Chilli,Wholesale,Pettah,150
+07/05/2026,Green Chilli,Retail,Pettah,200
+07/05/2026,Green Chilli,Wholesale,Dambulla,75
+07/05/2026,Green Chilli,Retail,Dambulla,105
+07/05/2026,Pumpkin,Wholesale,Pettah,50
+07/05/2026,Pumpkin,Retail,Pettah,100
+07/05/2026,Pumpkin,Wholesale,Dambulla,70
+07/05/2026,Pumpkin,Retail,Dambulla,100
+07/05/2026,Brinjal,Wholesale,Pettah,300
+07/05/2026,Brinjal,Retail,Pettah,350
+07/05/2026,Brinjal,Wholesale,Dambulla,365
+07/05/2026,Brinjal,Retail,Dambulla,395
+07/05/2026,Tomato,Wholesale,Pettah,250
+07/05/2026,Tomato,Retail,Pettah,300
+07/05/2026,Tomato,Wholesale,Dambulla,190
+07/05/2026,Tomato,Retail,Dambulla,220
+07/05/2026,Cabbage,Wholesale,Pettah,50
+07/05/2026,Cabbage,Retail,Pettah,100
+07/05/2026,Cabbage,Wholesale,Dambulla,65
+07/05/2026,Cabbage,Retail,Dambulla,95
+07/05/2026,Carrot,Wholesale,Pettah,200
+07/05/2026,Carrot,Retail,Pettah,250
+07/05/2026,Carrot,Wholesale,Dambulla,175
+07/05/2026,Carrot,Retail,Dambulla,205
+07/05/2026,Beans,Wholesale,Pettah,500
+07/05/2026,Beans,Retail,Pettah,550
+07/05/2026,Beans,Wholesale,Dambulla,525
+07/05/2026,Beans,Retail,Dambulla,555
+07/05/2026,Snake gourd,Wholesale,Pettah,400
+07/05/2026,Snake gourd,Retail,Pettah,450
+07/05/2026,Snake gourd,Wholesale,Dambulla,255
+07/05/2026,Snake gourd,Retail,Dambulla,285
+08/05/2026,Potato (Imp),Wholesale,Pettah,145
+08/05/2026,Potato (Imp),Retail,Pettah,180
+08/05/2026,Potato (Imp),Wholesale,Dambulla,145
+08/05/2026,Potato (Imp),Retail,Dambulla,165
+08/05/2026,Potato (Local),Wholesale,Pettah,248
+08/05/2026,Potato (Local),Retail,Pettah,300
+08/05/2026,Potato (Local),Wholesale,Dambulla,195
+08/05/2026,Potato (Local),Retail,Dambulla,215
+08/05/2026,Big Onion (Imp),Wholesale,Pettah,198
+08/05/2026,Big Onion (Imp),Retail,Pettah,240
+08/05/2026,Big Onion (Imp),Wholesale,Dambulla,225
+08/05/2026,Big Onion (Imp),Retail,Dambulla,245
+08/05/2026,Big Onion (Local),Wholesale,Pettah,NA
+08/05/2026,Big Onion (Local),Retail,Pettah,NA
+08/05/2026,Big Onion (Local),Wholesale,Dambulla,NA
+08/05/2026,Big Onion (Local),Retail,Dambulla,NA
+08/05/2026,Red Onion (Imp),Wholesale,Pettah,275
+08/05/2026,Red Onion (Imp),Retail,Pettah,350
+08/05/2026,Red Onion (Imp),Wholesale,Dambulla,225
+08/05/2026,Red Onion (Imp),Retail,Dambulla,245
+08/05/2026,Red Onion (Local),Wholesale,Pettah,258
+08/05/2026,Red Onion (Local),Retail,Pettah,250
+08/05/2026,Red Onion (Local),Wholesale,Dambulla,275
+08/05/2026,Red Onion (Local),Retail,Dambulla,295
+08/05/2026,Lime,Wholesale,Pettah,300
+08/05/2026,Lime,Retail,Pettah,350
+08/05/2026,Lime,Wholesale,Dambulla,345
+08/05/2026,Lime,Retail,Dambulla,375
+08/05/2026,Green Chilli,Wholesale,Pettah,150
+08/05/2026,Green Chilli,Retail,Pettah,200
+08/05/2026,Green Chilli,Wholesale,Dambulla,150
+08/05/2026,Green Chilli,Retail,Dambulla,180
+08/05/2026,Pumpkin,Wholesale,Pettah,80
+08/05/2026,Pumpkin,Retail,Pettah,130
+08/05/2026,Pumpkin,Wholesale,Dambulla,65
+08/05/2026,Pumpkin,Retail,Dambulla,95
+08/05/2026,Brinjal,Wholesale,Pettah,300
+08/05/2026,Brinjal,Retail,Pettah,350
+08/05/2026,Brinjal,Wholesale,Dambulla,275
+08/05/2026,Brinjal,Retail,Dambulla,305
+08/05/2026,Tomato,Wholesale,Pettah,250
+08/05/2026,Tomato,Retail,Pettah,300
+08/05/2026,Tomato,Wholesale,Dambulla,190
+08/05/2026,Tomato,Retail,Dambulla,220
+08/05/2026,Cabbage,Wholesale,Pettah,50
+08/05/2026,Cabbage,Retail,Pettah,100
+08/05/2026,Cabbage,Wholesale,Dambulla,75
+08/05/2026,Cabbage,Retail,Dambulla,105
+08/05/2026,Carrot,Wholesale,Pettah,200
+08/05/2026,Carrot,Retail,Pettah,250
+08/05/2026,Carrot,Wholesale,Dambulla,180
+08/05/2026,Carrot,Retail,Dambulla,210
+08/05/2026,Beans,Wholesale,Pettah,500
+08/05/2026,Beans,Retail,Pettah,550
+08/05/2026,Beans,Wholesale,Dambulla,500
+08/05/2026,Beans,Retail,Dambulla,530
+08/05/2026,Snake gourd,Wholesale,Pettah,400
+08/05/2026,Snake gourd,Retail,Pettah,450
+08/05/2026,Snake gourd,Wholesale,Dambulla,255
+08/05/2026,Snake gourd,Retail,Dambulla,285
+11/05/2026,Lime,Wholesale,Pettah,350
+11/05/2026,Lime,Retail,Pettah,400
+11/05/2026,Lime,Wholesale,Dambulla,405
+11/05/2026,Lime,Retail,Dambulla,435
+11/05/2026,Potato (Local),Wholesale,Pettah,244
+11/05/2026,Potato (Local),Retail,Pettah,300
+11/05/2026,Potato (Local),Wholesale,Dambulla,225
+11/05/2026,Potato (Local),Retail,Dambulla,245
+11/05/2026,Big Onion (Imp),Wholesale,Pettah,243
+11/05/2026,Big Onion (Imp),Retail,Pettah,275
+11/05/2026,Big Onion (Imp),Wholesale,Dambulla,230
+11/05/2026,Big Onion (Imp),Retail,Dambulla,250
+11/05/2026,Big Onion (Local),Wholesale,Pettah,NA
+11/05/2026,Big Onion (Local),Retail,Pettah,NA
+11/05/2026,Big Onion (Local),Wholesale,Dambulla,NA
+11/05/2026,Big Onion (Local),Retail,Dambulla,NA
+11/05/2026,Red Onion (Imp),Wholesale,Pettah,275
+11/05/2026,Red Onion (Imp),Retail,Pettah,350
+11/05/2026,Red Onion (Imp),Wholesale,Dambulla,255
+11/05/2026,Red Onion (Imp),Retail,Dambulla,275
+11/05/2026,Red Onion (Local),Wholesale,Pettah,310
+11/05/2026,Red Onion (Local),Retail,Pettah,NA
+11/05/2026,Red Onion (Local),Wholesale,Dambulla,283
+11/05/2026,Red Onion (Local),Retail,Dambulla,303
+11/05/2026,Green Chilli,Wholesale,Pettah,200
+11/05/2026,Green Chilli,Retail,Pettah,250
+11/05/2026,Green Chilli,Wholesale,Dambulla,205
+11/05/2026,Green Chilli,Retail,Dambulla,235
+11/05/2026,Potato (Imp),Wholesale,Pettah,140
+11/05/2026,Potato (Imp),Retail,Pettah,173
+11/05/2026,Potato (Imp),Wholesale,Dambulla,145
+11/05/2026,Potato (Imp),Retail,Dambulla,165
+11/05/2026,Pumpkin,Wholesale,Pettah,80
+11/05/2026,Pumpkin,Retail,Pettah,130
+11/05/2026,Pumpkin,Wholesale,Dambulla,135
+11/05/2026,Pumpkin,Retail,Dambulla,165
+11/05/2026,Beans,Wholesale,Pettah,400
+11/05/2026,Beans,Retail,Pettah,450
+11/05/2026,Beans,Wholesale,Dambulla,500
+11/05/2026,Beans,Retail,Dambulla,530
+11/05/2026,Carrot,Wholesale,Pettah,200
+11/05/2026,Carrot,Retail,Pettah,250
+11/05/2026,Carrot,Wholesale,Dambulla,175
+11/05/2026,Carrot,Retail,Dambulla,205
+11/05/2026,Snake gourd,Wholesale,Pettah,400
+11/05/2026,Snake gourd,Retail,Pettah,450
+11/05/2026,Snake gourd,Wholesale,Dambulla,285
+11/05/2026,Snake gourd,Retail,Dambulla,315
+11/05/2026,Tomato,Wholesale,Pettah,400
+11/05/2026,Tomato,Retail,Pettah,450
+11/05/2026,Tomato,Wholesale,Dambulla,305
+11/05/2026,Tomato,Retail,Dambulla,335
+11/05/2026,Brinjal,Wholesale,Pettah,350
+11/05/2026,Brinjal,Retail,Pettah,400
+11/05/2026,Brinjal,Wholesale,Dambulla,355
+11/05/2026,Brinjal,Retail,Dambulla,385
+11/05/2026,Cabbage,Wholesale,Pettah,70
+11/05/2026,Cabbage,Retail,Pettah,120
+11/05/2026,Cabbage,Wholesale,Dambulla,85
+11/05/2026,Cabbage,Retail,Dambulla,115
+12/05/2026,Potato (Imp),Wholesale,Pettah,139
+12/05/2026,Potato (Imp),Retail,Pettah,180
+12/05/2026,Potato (Imp),Wholesale,Dambulla,140
+12/05/2026,Potato (Imp),Retail,Dambulla,160
+12/05/2026,Potato (Local),Wholesale,Pettah,248
+12/05/2026,Potato (Local),Retail,Pettah,300
+12/05/2026,Potato (Local),Wholesale,Dambulla,220
+12/05/2026,Potato (Local),Retail,Dambulla,240
+12/05/2026,Big Onion (Imp),Wholesale,Pettah,224
+12/05/2026,Big Onion (Imp),Retail,Pettah,250
+12/05/2026,Big Onion (Imp),Wholesale,Dambulla,195
+12/05/2026,Big Onion (Imp),Retail,Dambulla,215
+12/05/2026,Big Onion (Local),Wholesale,Pettah,NA
+12/05/2026,Big Onion (Local),Retail,Pettah,NA
+12/05/2026,Big Onion (Local),Wholesale,Dambulla,NA
+12/05/2026,Big Onion (Local),Retail,Dambulla,NA
+12/05/2026,Red Onion (Imp),Wholesale,Pettah,275
+12/05/2026,Red Onion (Imp),Retail,Pettah,350
+12/05/2026,Red Onion (Imp),Wholesale,Dambulla,225
+12/05/2026,Red Onion (Imp),Retail,Dambulla,245
+12/05/2026,Red Onion (Local),Wholesale,Pettah,310
+12/05/2026,Red Onion (Local),Retail,Pettah,NA
+12/05/2026,Red Onion (Local),Wholesale,Dambulla,310
+12/05/2026,Red Onion (Local),Retail,Dambulla,330
+12/05/2026,Green Chilli,Wholesale,Pettah,250
+12/05/2026,Green Chilli,Retail,Pettah,300
+12/05/2026,Green Chilli,Wholesale,Dambulla,125
+12/05/2026,Green Chilli,Retail,Dambulla,155
+12/05/2026,Lime,Wholesale,Pettah,400
+12/05/2026,Lime,Retail,Pettah,450
+12/05/2026,Lime,Wholesale,Dambulla,390
+12/05/2026,Lime,Retail,Dambulla,420
+12/05/2026,Pumpkin,Wholesale,Pettah,100
+12/05/2026,Pumpkin,Retail,Pettah,150
+12/05/2026,Pumpkin,Wholesale,Dambulla,95
+12/05/2026,Pumpkin,Retail,Dambulla,125
+12/05/2026,Brinjal,Wholesale,Pettah,350
+12/05/2026,Brinjal,Retail,Pettah,400
+12/05/2026,Brinjal,Wholesale,Dambulla,360
+12/05/2026,Brinjal,Retail,Dambulla,390
+12/05/2026,Tomato,Wholesale,Pettah,450
+12/05/2026,Tomato,Retail,Pettah,500
+12/05/2026,Tomato,Wholesale,Dambulla,375
+12/05/2026,Tomato,Retail,Dambulla,405
+12/05/2026,Cabbage,Wholesale,Pettah,70
+12/05/2026,Cabbage,Retail,Pettah,120
+12/05/2026,Cabbage,Wholesale,Dambulla,85
+12/05/2026,Cabbage,Retail,Dambulla,115
+12/05/2026,Carrot,Wholesale,Pettah,200
+12/05/2026,Carrot,Retail,Pettah,250
+12/05/2026,Carrot,Wholesale,Dambulla,190
+12/05/2026,Carrot,Retail,Dambulla,220
+12/05/2026,Beans,Wholesale,Pettah,400
+12/05/2026,Beans,Retail,Pettah,450
+12/05/2026,Beans,Wholesale,Dambulla,450
+12/05/2026,Beans,Retail,Dambulla,480
+12/05/2026,Snake gourd,Wholesale,Pettah,400
+12/05/2026,Snake gourd,Retail,Pettah,450
+12/05/2026,Snake gourd,Wholesale,Dambulla,265
+12/05/2026,Snake gourd,Retail,Dambulla,295
+13/05/2026,Potato (Imp),Wholesale,Pettah,135
+13/05/2026,Potato (Imp),Retail,Pettah,170
+13/05/2026,Potato (Imp),Wholesale,Dambulla,143
+13/05/2026,Potato (Imp),Retail,Dambulla,163
+13/05/2026,Potato (Local),Wholesale,Pettah,246
+13/05/2026,Potato (Local),Retail,Pettah,300
+13/05/2026,Potato (Local),Wholesale,Dambulla,185
+13/05/2026,Potato (Local),Retail,Dambulla,205
+13/05/2026,Big Onion (Imp),Wholesale,Pettah,188
+13/05/2026,Big Onion (Imp),Retail,Pettah,270
+13/05/2026,Big Onion (Imp),Wholesale,Dambulla,175
+13/05/2026,Big Onion (Imp),Retail,Dambulla,195
+13/05/2026,Big Onion (Local),Wholesale,Pettah,NA
+13/05/2026,Big Onion (Local),Retail,Pettah,NA
+13/05/2026,Big Onion (Local),Wholesale,Dambulla,NA
+13/05/2026,Big Onion (Local),Retail,Dambulla,NA
+13/05/2026,Red Onion (Imp),Wholesale,Pettah,288
+13/05/2026,Red Onion (Imp),Retail,Pettah,350
+13/05/2026,Red Onion (Imp),Wholesale,Dambulla,225
+13/05/2026,Red Onion (Imp),Retail,Dambulla,245
+13/05/2026,Lime,Wholesale,Pettah,400
+13/05/2026,Lime,Retail,Pettah,450
+13/05/2026,Lime,Wholesale,Dambulla,390
+13/05/2026,Lime,Retail,Dambulla,420
+13/05/2026,Red Onion (Local),Wholesale,Pettah,300
+13/05/2026,Red Onion (Local),Retail,Pettah,NA
+13/05/2026,Red Onion (Local),Wholesale,Dambulla,250
+13/05/2026,Red Onion (Local),Retail,Dambulla,270
+13/05/2026,Green Chilli,Wholesale,Pettah,150
+13/05/2026,Green Chilli,Retail,Pettah,200
+13/05/2026,Green Chilli,Wholesale,Dambulla,175
+13/05/2026,Green Chilli,Retail,Dambulla,205
+13/05/2026,Pumpkin,Wholesale,Pettah,100
+13/05/2026,Pumpkin,Retail,Pettah,150
+13/05/2026,Pumpkin,Wholesale,Dambulla,100
+13/05/2026,Pumpkin,Retail,Dambulla,130
+13/05/2026,Brinjal,Wholesale,Pettah,350
+13/05/2026,Brinjal,Retail,Pettah,400
+13/05/2026,Brinjal,Wholesale,Dambulla,300
+13/05/2026,Brinjal,Retail,Dambulla,330
+13/05/2026,Tomato,Wholesale,Pettah,400
+13/05/2026,Tomato,Retail,Pettah,450
+13/05/2026,Tomato,Wholesale,Dambulla,325
+13/05/2026,Tomato,Retail,Dambulla,355
+13/05/2026,Cabbage,Wholesale,Pettah,100
+13/05/2026,Cabbage,Retail,Pettah,150
+13/05/2026,Cabbage,Wholesale,Dambulla,75
+13/05/2026,Cabbage,Retail,Dambulla,105
+13/05/2026,Carrot,Wholesale,Pettah,200
+13/05/2026,Carrot,Retail,Pettah,250
+13/05/2026,Carrot,Wholesale,Dambulla,190
+13/05/2026,Carrot,Retail,Dambulla,220
+13/05/2026,Beans,Wholesale,Pettah,450
+13/05/2026,Beans,Retail,Pettah,500
+13/05/2026,Beans,Wholesale,Dambulla,350
+13/05/2026,Beans,Retail,Dambulla,380
+13/05/2026,Snake gourd,Wholesale,Pettah,400
+13/05/2026,Snake gourd,Retail,Pettah,450
+13/05/2026,Snake gourd,Wholesale,Dambulla,210
+13/05/2026,Snake gourd,Retail,Dambulla,240
+14/05/2026,Potato (Imp),Wholesale,Pettah,136
+14/05/2026,Potato (Imp),Retail,Pettah,170
+14/05/2026,Potato (Imp),Wholesale,Dambulla,138
+14/05/2026,Potato (Imp),Retail,Dambulla,158
+14/05/2026,Potato (Local),Wholesale,Pettah,248
+14/05/2026,Potato (Local),Retail,Pettah,320
+14/05/2026,Potato (Local),Wholesale,Dambulla,195
+14/05/2026,Potato (Local),Retail,Dambulla,215
+14/05/2026,Big Onion (Imp),Wholesale,Pettah,180
+14/05/2026,Big Onion (Imp),Retail,Pettah,270
+14/05/2026,Big Onion (Imp),Wholesale,Dambulla,175
+14/05/2026,Big Onion (Imp),Retail,Dambulla,195
+14/05/2026,Big Onion (Local),Wholesale,Pettah,NA
+14/05/2026,Big Onion (Local),Retail,Pettah,NA
+14/05/2026,Big Onion (Local),Wholesale,Dambulla,NA
+14/05/2026,Big Onion (Local),Retail,Dambulla,NA
+14/05/2026,Red Onion (Imp),Wholesale,Pettah,290
+14/05/2026,Red Onion (Imp),Retail,Pettah,350
+14/05/2026,Red Onion (Imp),Wholesale,Dambulla,255
+14/05/2026,Red Onion (Imp),Retail,Dambulla,275
+14/05/2026,Red Onion (Local),Wholesale,Pettah,350
+14/05/2026,Red Onion (Local),Retail,Pettah,NA
+14/05/2026,Red Onion (Local),Wholesale,Dambulla,200
+14/05/2026,Red Onion (Local),Retail,Dambulla,220
+14/05/2026,Lime,Wholesale,Pettah,400
+14/05/2026,Lime,Retail,Pettah,450
+14/05/2026,Lime,Wholesale,Dambulla,425
+14/05/2026,Lime,Retail,Dambulla,455
+14/05/2026,Snake gourd,Wholesale,Pettah,450
+14/05/2026,Snake gourd,Retail,Pettah,500
+14/05/2026,Snake gourd,Wholesale,Dambulla,245
+14/05/2026,Snake gourd,Retail,Dambulla,275
+14/05/2026,Pumpkin,Wholesale,Pettah,100
+14/05/2026,Pumpkin,Retail,Pettah,150
+14/05/2026,Pumpkin,Wholesale,Dambulla,115
+14/05/2026,Pumpkin,Retail,Dambulla,145
+14/05/2026,Brinjal,Wholesale,Pettah,350
+14/05/2026,Brinjal,Retail,Pettah,400
+14/05/2026,Brinjal,Wholesale,Dambulla,325
+14/05/2026,Brinjal,Retail,Dambulla,355
+14/05/2026,Tomato,Wholesale,Pettah,500
+14/05/2026,Tomato,Retail,Pettah,550
+14/05/2026,Tomato,Wholesale,Dambulla,345
+14/05/2026,Tomato,Retail,Dambulla,375
+14/05/2026,Cabbage,Wholesale,Pettah,100
+14/05/2026,Cabbage,Retail,Pettah,150
+14/05/2026,Cabbage,Wholesale,Dambulla,95
+14/05/2026,Cabbage,Retail,Dambulla,125
+14/05/2026,Carrot,Wholesale,Pettah,220
+14/05/2026,Carrot,Retail,Pettah,270
+14/05/2026,Carrot,Wholesale,Dambulla,200
+14/05/2026,Carrot,Retail,Dambulla,230
+14/05/2026,Beans,Wholesale,Pettah,450
+14/05/2026,Beans,Retail,Pettah,500
+14/05/2026,Beans,Wholesale,Dambulla,400
+14/05/2026,Beans,Retail,Dambulla,430
+14/05/2026,Green Chilli,Wholesale,Pettah,200
+14/05/2026,Green Chilli,Retail,Pettah,250
+14/05/2026,Green Chilli,Wholesale,Dambulla,175
+14/05/2026,Green Chilli,Retail,Dambulla,205
+15/05/2026,Potato (Imp),Wholesale,Pettah,138
+15/05/2026,Potato (Imp),Retail,Pettah,170
+15/05/2026,Potato (Imp),Wholesale,Dambulla,145
+15/05/2026,Potato (Imp),Retail,Dambulla,165
+15/05/2026,Potato (Local),Wholesale,Pettah,263
+15/05/2026,Potato (Local),Retail,Pettah,320
+15/05/2026,Potato (Local),Wholesale,Dambulla,215
+15/05/2026,Potato (Local),Retail,Dambulla,235
+15/05/2026,Big Onion (Imp),Wholesale,Pettah,153
+15/05/2026,Big Onion (Imp),Retail,Pettah,185
+15/05/2026,Big Onion (Imp),Wholesale,Dambulla,165
+15/05/2026,Big Onion (Imp),Retail,Dambulla,185
+15/05/2026,Big Onion (Local),Wholesale,Pettah,NA
+15/05/2026,Big Onion (Local),Retail,Pettah,NA
+15/05/2026,Big Onion (Local),Wholesale,Dambulla,NA
+15/05/2026,Big Onion (Local),Retail,Dambulla,NA
+15/05/2026,Red Onion (Imp),Wholesale,Pettah,288
+15/05/2026,Red Onion (Imp),Retail,Pettah,350
+15/05/2026,Red Onion (Imp),Wholesale,Dambulla,295
+15/05/2026,Red Onion (Imp),Retail,Dambulla,315
+15/05/2026,Red Onion (Local),Wholesale,Pettah,293
+15/05/2026,Red Onion (Local),Retail,Pettah,NA
+15/05/2026,Red Onion (Local),Wholesale,Dambulla,275
+15/05/2026,Red Onion (Local),Retail,Dambulla,295
+15/05/2026,Lime,Wholesale,Pettah,450
+15/05/2026,Lime,Retail,Pettah,450
+15/05/2026,Lime,Wholesale,Dambulla,375
+15/05/2026,Lime,Retail,Dambulla,405
+15/05/2026,Green Chilli,Wholesale,Pettah,250
+15/05/2026,Green Chilli,Retail,Pettah,300
+15/05/2026,Green Chilli,Wholesale,Dambulla,250
+15/05/2026,Green Chilli,Retail,Dambulla,280
+15/05/2026,Pumpkin,Wholesale,Pettah,100
+15/05/2026,Pumpkin,Retail,Pettah,150
+15/05/2026,Pumpkin,Wholesale,Dambulla,110
+15/05/2026,Pumpkin,Retail,Dambulla,140
+15/05/2026,Beans,Wholesale,Pettah,450
+15/05/2026,Beans,Retail,Pettah,500
+15/05/2026,Beans,Wholesale,Dambulla,525
+15/05/2026,Beans,Retail,Dambulla,555
+15/05/2026,Carrot,Wholesale,Pettah,200
+15/05/2026,Carrot,Retail,Pettah,250
+15/05/2026,Carrot,Wholesale,Dambulla,210
+15/05/2026,Carrot,Retail,Dambulla,240
+15/05/2026,Snake gourd,Wholesale,Pettah,450
+15/05/2026,Snake gourd,Retail,Pettah,500
+15/05/2026,Snake gourd,Wholesale,Dambulla,290
+15/05/2026,Snake gourd,Retail,Dambulla,320
+15/05/2026,Tomato,Wholesale,Pettah,500
+15/05/2026,Tomato,Retail,Pettah,550
+15/05/2026,Tomato,Wholesale,Dambulla,400
+15/05/2026,Tomato,Retail,Dambulla,430
+15/05/2026,Brinjal,Wholesale,Pettah,350
+15/05/2026,Brinjal,Retail,Pettah,400
+15/05/2026,Brinjal,Wholesale,Dambulla,365
+15/05/2026,Brinjal,Retail,Dambulla,395
+15/05/2026,Cabbage,Wholesale,Pettah,100
+15/05/2026,Cabbage,Retail,Pettah,150
+15/05/2026,Cabbage,Wholesale,Dambulla,110
+15/05/2026,Cabbage,Retail,Dambulla,140
+18/05/2026,Potato (Imp),Wholesale,Pettah,143
+18/05/2026,Potato (Imp),Retail,Pettah,167
+18/05/2026,Potato (Imp),Wholesale,Dambulla,138
+18/05/2026,Potato (Imp),Retail,Dambulla,158
+18/05/2026,Potato (Local),Wholesale,Pettah,268
+18/05/2026,Potato (Local),Retail,Pettah,325
+18/05/2026,Potato (Local),Wholesale,Dambulla,195
+18/05/2026,Potato (Local),Retail,Dambulla,215
+18/05/2026,Big Onion (Imp),Wholesale,Pettah,144
+18/05/2026,Big Onion (Imp),Retail,Pettah,167
+18/05/2026,Big Onion (Imp),Wholesale,Dambulla,153
+18/05/2026,Big Onion (Imp),Retail,Dambulla,173
+18/05/2026,Big Onion (Local),Wholesale,Pettah,NA
+18/05/2026,Big Onion (Local),Retail,Pettah,NA
+18/05/2026,Big Onion (Local),Wholesale,Dambulla,NA
+18/05/2026,Big Onion (Local),Retail,Dambulla,NA
+18/05/2026,Red Onion (Imp),Wholesale,Pettah,263
+18/05/2026,Red Onion (Imp),Retail,Pettah,287
+18/05/2026,Red Onion (Imp),Wholesale,Dambulla,305
+18/05/2026,Red Onion (Imp),Retail,Dambulla,325
+18/05/2026,Lime,Wholesale,Pettah,400
+18/05/2026,Lime,Retail,Pettah,450
+18/05/2026,Lime,Wholesale,Dambulla,325
+18/05/2026,Lime,Retail,Dambulla,355
+18/05/2026,Red Onion (Local),Wholesale,Pettah,300
+18/05/2026,Red Onion (Local),Retail,Pettah,NA
+18/05/2026,Red Onion (Local),Wholesale,Dambulla,265
+18/05/2026,Red Onion (Local),Retail,Dambulla,285
+18/05/2026,Pumpkin,Wholesale,Pettah,120
+18/05/2026,Pumpkin,Retail,Pettah,180
+18/05/2026,Pumpkin,Wholesale,Dambulla,115
+18/05/2026,Pumpkin,Retail,Dambulla,145
+18/05/2026,Brinjal,Wholesale,Pettah,450
+18/05/2026,Brinjal,Retail,Pettah,500
+18/05/2026,Brinjal,Wholesale,Dambulla,425
+18/05/2026,Brinjal,Retail,Dambulla,455
+18/05/2026,Tomato,Wholesale,Pettah,320
+18/05/2026,Tomato,Retail,Pettah,380
+18/05/2026,Tomato,Wholesale,Dambulla,255
+18/05/2026,Tomato,Retail,Dambulla,285
+18/05/2026,Cabbage,Wholesale,Pettah,100
+18/05/2026,Cabbage,Retail,Pettah,150
+18/05/2026,Cabbage,Wholesale,Dambulla,120
+18/05/2026,Cabbage,Retail,Dambulla,150
+18/05/2026,Carrot,Wholesale,Pettah,200
+18/05/2026,Carrot,Retail,Pettah,250
+18/05/2026,Carrot,Wholesale,Dambulla,190
+18/05/2026,Carrot,Retail,Dambulla,220
+18/05/2026,Beans,Wholesale,Pettah,650
+18/05/2026,Beans,Retail,Pettah,700
+18/05/2026,Beans,Wholesale,Dambulla,500
+18/05/2026,Beans,Retail,Dambulla,530
+18/05/2026,Snake gourd,Wholesale,Pettah,450
+18/05/2026,Snake gourd,Retail,Pettah,500
+18/05/2026,Snake gourd,Wholesale,Dambulla,255
+18/05/2026,Snake gourd,Retail,Dambulla,285
+18/05/2026,Green Chilli,Wholesale,Pettah,200
+18/05/2026,Green Chilli,Retail,Pettah,250
+18/05/2026,Green Chilli,Wholesale,Dambulla,150
+18/05/2026,Green Chilli,Retail,Dambulla,180
+19/05/2026,Lime,Wholesale,Pettah,400
+19/05/2026,Lime,Retail,Pettah,450
+19/05/2026,Lime,Wholesale,Dambulla,325
+19/05/2026,Lime,Retail,Dambulla,355
+19/05/2026,Potato (Imp),Wholesale,Pettah,141
+19/05/2026,Potato (Imp),Retail,Pettah,168
+19/05/2026,Potato (Imp),Wholesale,Dambulla,145
+19/05/2026,Potato (Imp),Retail,Dambulla,165
+19/05/2026,Potato (Local),Wholesale,Pettah,266
+19/05/2026,Potato (Local),Retail,Pettah,335
+19/05/2026,Potato (Local),Wholesale,Dambulla,205
+19/05/2026,Potato (Local),Retail,Dambulla,225
+19/05/2026,Big Onion (Imp),Wholesale,Pettah,143
+19/05/2026,Big Onion (Imp),Retail,Pettah,163
+19/05/2026,Big Onion (Imp),Wholesale,Dambulla,158
+19/05/2026,Big Onion (Imp),Retail,Dambulla,178
+19/05/2026,Big Onion (Local),Wholesale,Pettah,NA
+19/05/2026,Big Onion (Local),Retail,Pettah,NA
+19/05/2026,Big Onion (Local),Wholesale,Dambulla,NA
+19/05/2026,Big Onion (Local),Retail,Dambulla,NA
+19/05/2026,Red Onion (Imp),Wholesale,Pettah,257
+19/05/2026,Red Onion (Imp),Retail,Pettah,287
+19/05/2026,Red Onion (Imp),Wholesale,Dambulla,305
+19/05/2026,Red Onion (Imp),Retail,Dambulla,325
+19/05/2026,Red Onion (Local),Wholesale,Pettah,277
+19/05/2026,Red Onion (Local),Retail,Pettah,NA
+19/05/2026,Red Onion (Local),Wholesale,Dambulla,265
+19/05/2026,Red Onion (Local),Retail,Dambulla,285
+19/05/2026,Green Chilli,Wholesale,Pettah,200
+19/05/2026,Green Chilli,Retail,Pettah,250
+19/05/2026,Green Chilli,Wholesale,Dambulla,115
+19/05/2026,Green Chilli,Retail,Dambulla,145
+19/05/2026,Pumpkin,Wholesale,Pettah,120
+19/05/2026,Pumpkin,Retail,Pettah,180
+19/05/2026,Pumpkin,Wholesale,Dambulla,120
+19/05/2026,Pumpkin,Retail,Dambulla,150
+19/05/2026,Brinjal,Wholesale,Pettah,350
+19/05/2026,Brinjal,Retail,Pettah,400
+19/05/2026,Brinjal,Wholesale,Dambulla,340
+19/05/2026,Brinjal,Retail,Dambulla,370
+19/05/2026,Tomato,Wholesale,Pettah,320
+19/05/2026,Tomato,Retail,Pettah,380
+19/05/2026,Tomato,Wholesale,Dambulla,255
+19/05/2026,Tomato,Retail,Dambulla,285
+19/05/2026,Cabbage,Wholesale,Pettah,100
+19/05/2026,Cabbage,Retail,Pettah,150
+19/05/2026,Cabbage,Wholesale,Dambulla,90
+19/05/2026,Cabbage,Retail,Dambulla,120
+19/05/2026,Carrot,Wholesale,Pettah,200
+19/05/2026,Carrot,Retail,Pettah,250
+19/05/2026,Carrot,Wholesale,Dambulla,210
+19/05/2026,Carrot,Retail,Dambulla,240
+19/05/2026,Beans,Wholesale,Pettah,600
+19/05/2026,Beans,Retail,Pettah,650
+19/05/2026,Beans,Wholesale,Dambulla,550
+19/05/2026,Beans,Retail,Dambulla,580
+19/05/2026,Snake gourd,Wholesale,Pettah,450
+19/05/2026,Snake gourd,Retail,Pettah,500
+19/05/2026,Snake gourd,Wholesale,Dambulla,325
+19/05/2026,Snake gourd,Retail,Dambulla,355
+20/05/2026,Potato (Imp),Wholesale,Pettah,146
+20/05/2026,Potato (Imp),Retail,Pettah,173
+20/05/2026,Potato (Imp),Wholesale,Dambulla,158
+20/05/2026,Potato (Imp),Retail,Dambulla,178
+20/05/2026,Potato (Local),Wholesale,Pettah,266
+20/05/2026,Potato (Local),Retail,Pettah,340
+20/05/2026,Potato (Local),Wholesale,Dambulla,195
+20/05/2026,Potato (Local),Retail,Dambulla,215
+20/05/2026,Big Onion (Imp),Wholesale,Pettah,145
+20/05/2026,Big Onion (Imp),Retail,Pettah,175
+20/05/2026,Big Onion (Imp),Wholesale,Dambulla,153
+20/05/2026,Big Onion (Imp),Retail,Dambulla,173
+20/05/2026,Big Onion (Local),Wholesale,Pettah,NA
+20/05/2026,Big Onion (Local),Retail,Pettah,NA
+20/05/2026,Big Onion (Local),Wholesale,Dambulla,NA
+20/05/2026,Big Onion (Local),Retail,Dambulla,NA
+20/05/2026,Red Onion (Imp),Wholesale,Pettah,272
+20/05/2026,Red Onion (Imp),Retail,Pettah,300
+20/05/2026,Red Onion (Imp),Wholesale,Dambulla,325
+20/05/2026,Red Onion (Imp),Retail,Dambulla,345
+20/05/2026,Red Onion (Local),Wholesale,Pettah,277
+20/05/2026,Red Onion (Local),Retail,Pettah,NA
+20/05/2026,Red Onion (Local),Wholesale,Dambulla,250
+20/05/2026,Red Onion (Local),Retail,Dambulla,270
+20/05/2026,Lime,Wholesale,Pettah,300
+20/05/2026,Lime,Retail,Pettah,350
+20/05/2026,Lime,Wholesale,Dambulla,305
+20/05/2026,Lime,Retail,Dambulla,335
+20/05/2026,Green Chilli,Wholesale,Pettah,350
+20/05/2026,Green Chilli,Retail,Pettah,400
+20/05/2026,Green Chilli,Wholesale,Dambulla,200
+20/05/2026,Green Chilli,Retail,Dambulla,230
+20/05/2026,Pumpkin,Wholesale,Pettah,120
+20/05/2026,Pumpkin,Retail,Pettah,180
+20/05/2026,Pumpkin,Wholesale,Dambulla,105
+20/05/2026,Pumpkin,Retail,Dambulla,135
+20/05/2026,Brinjal,Wholesale,Pettah,350
+20/05/2026,Brinjal,Retail,Pettah,400
+20/05/2026,Brinjal,Wholesale,Dambulla,375
+20/05/2026,Brinjal,Retail,Dambulla,405
+20/05/2026,Tomato,Wholesale,Pettah,320
+20/05/2026,Tomato,Retail,Pettah,380
+20/05/2026,Tomato,Wholesale,Dambulla,255
+20/05/2026,Tomato,Retail,Dambulla,285
+20/05/2026,Cabbage,Wholesale,Pettah,100
+20/05/2026,Cabbage,Retail,Pettah,150
+20/05/2026,Cabbage,Wholesale,Dambulla,100
+20/05/2026,Cabbage,Retail,Dambulla,130
+20/05/2026,Carrot,Wholesale,Pettah,220
+20/05/2026,Carrot,Retail,Pettah,270
+20/05/2026,Carrot,Wholesale,Dambulla,200
+20/05/2026,Carrot,Retail,Dambulla,230
+20/05/2026,Beans,Wholesale,Pettah,450
+20/05/2026,Beans,Retail,Pettah,500
+20/05/2026,Beans,Wholesale,Dambulla,435
+20/05/2026,Beans,Retail,Dambulla,465
+20/05/2026,Snake gourd,Wholesale,Pettah,350
+20/05/2026,Snake gourd,Retail,Pettah,400
+20/05/2026,Snake gourd,Wholesale,Dambulla,250
+20/05/2026,Snake gourd,Retail,Dambulla,280
+21/05/2026,Lime,Wholesale,Pettah,300
+21/05/2026,Lime,Retail,Pettah,350
+21/05/2026,Lime,Wholesale,Dambulla,340
+21/05/2026,Lime,Retail,Dambulla,370
+21/05/2026,Potato (Imp),Wholesale,Pettah,153
+21/05/2026,Potato (Imp),Retail,Pettah,183
+21/05/2026,Potato (Imp),Wholesale,Dambulla,163
+21/05/2026,Potato (Imp),Retail,Dambulla,183
+21/05/2026,Potato (Local),Wholesale,Pettah,266
+21/05/2026,Potato (Local),Retail,Pettah,335
+21/05/2026,Potato (Local),Wholesale,Dambulla,225
+21/05/2026,Potato (Local),Retail,Dambulla,245
+21/05/2026,Big Onion (Imp),Wholesale,Pettah,172
+21/05/2026,Big Onion (Imp),Retail,Pettah,193
+21/05/2026,Big Onion (Imp),Wholesale,Dambulla,175
+21/05/2026,Big Onion (Imp),Retail,Dambulla,195
+21/05/2026,Red Onion (Imp),Wholesale,Pettah,290
+21/05/2026,Red Onion (Imp),Retail,Pettah,335
+21/05/2026,Red Onion (Imp),Wholesale,Dambulla,300
+21/05/2026,Red Onion (Imp),Retail,Dambulla,320
+21/05/2026,Red Onion (Local),Wholesale,Pettah,250
+21/05/2026,Red Onion (Local),Retail,Pettah,NA
+21/05/2026,Red Onion (Local),Wholesale,Dambulla,225
+21/05/2026,Red Onion (Local),Retail,Dambulla,245
+21/05/2026,Green Chilli,Wholesale,Pettah,350
+21/05/2026,Green Chilli,Retail,Pettah,400
+21/05/2026,Green Chilli,Wholesale,Dambulla,215
+21/05/2026,Green Chilli,Retail,Dambulla,245
+21/05/2026,Big Onion (Local),Wholesale,Pettah,NA
+21/05/2026,Big Onion (Local),Retail,Pettah,NA
+21/05/2026,Big Onion (Local),Wholesale,Dambulla,NA
+21/05/2026,Big Onion (Local),Retail,Dambulla,NA
+21/05/2026,Pumpkin,Wholesale,Pettah,120
+21/05/2026,Pumpkin,Retail,Pettah,180
+21/05/2026,Pumpkin,Wholesale,Dambulla,95
+21/05/2026,Pumpkin,Retail,Dambulla,125
+21/05/2026,Brinjal,Wholesale,Pettah,400
+21/05/2026,Brinjal,Retail,Pettah,450
+21/05/2026,Brinjal,Wholesale,Dambulla,400
+21/05/2026,Brinjal,Retail,Dambulla,430
+21/05/2026,Tomato,Wholesale,Pettah,320
+21/05/2026,Tomato,Retail,Pettah,380
+21/05/2026,Tomato,Wholesale,Dambulla,255
+21/05/2026,Tomato,Retail,Dambulla,285
+21/05/2026,Snake gourd,Wholesale,Pettah,300
+21/05/2026,Snake gourd,Retail,Pettah,350
+21/05/2026,Snake gourd,Wholesale,Dambulla,290
+21/05/2026,Snake gourd,Retail,Dambulla,320
+21/05/2026,Cabbage,Wholesale,Pettah,80
+21/05/2026,Cabbage,Retail,Pettah,130
+21/05/2026,Cabbage,Wholesale,Dambulla,125
+21/05/2026,Cabbage,Retail,Dambulla,155
+21/05/2026,Carrot,Wholesale,Pettah,220
+21/05/2026,Carrot,Retail,Pettah,270
+21/05/2026,Carrot,Wholesale,Dambulla,295
+21/05/2026,Carrot,Retail,Dambulla,325
+21/05/2026,Beans,Wholesale,Pettah,550
+21/05/2026,Beans,Retail,Pettah,600
+21/05/2026,Beans,Wholesale,Dambulla,575
+21/05/2026,Beans,Retail,Dambulla,605
+22/05/2026,Potato (Imp),Wholesale,Pettah,163
+22/05/2026,Potato (Imp),Retail,Pettah,193
+22/05/2026,Potato (Imp),Wholesale,Dambulla,168
+22/05/2026,Potato (Imp),Retail,Dambulla,188
+22/05/2026,Potato (Local),Wholesale,Pettah,286
+22/05/2026,Potato (Local),Retail,Pettah,345
+22/05/2026,Potato (Local),Wholesale,Dambulla,215
+22/05/2026,Potato (Local),Retail,Dambulla,235
+22/05/2026,Big Onion (Imp),Wholesale,Pettah,180
+22/05/2026,Big Onion (Imp),Retail,Pettah,210
+22/05/2026,Big Onion (Imp),Wholesale,Dambulla,205
+22/05/2026,Big Onion (Imp),Retail,Dambulla,225
+22/05/2026,Big Onion (Local),Wholesale,Pettah,NA
+22/05/2026,Big Onion (Local),Retail,Pettah,NA
+22/05/2026,Big Onion (Local),Wholesale,Dambulla,NA
+22/05/2026,Big Onion (Local),Retail,Dambulla,NA
+22/05/2026,Red Onion (Imp),Wholesale,Pettah,304
+22/05/2026,Red Onion (Imp),Retail,Pettah,360
+22/05/2026,Red Onion (Imp),Wholesale,Dambulla,315
+22/05/2026,Red Onion (Imp),Retail,Dambulla,335
+22/05/2026,Red Onion (Local),Wholesale,Pettah,240
+22/05/2026,Red Onion (Local),Retail,Pettah,NA
+22/05/2026,Red Onion (Local),Wholesale,Dambulla,250
+22/05/2026,Red Onion (Local),Retail,Dambulla,270
+22/05/2026,Lime,Wholesale,Pettah,350
+22/05/2026,Lime,Retail,Pettah,400
+22/05/2026,Lime,Wholesale,Dambulla,325
+22/05/2026,Lime,Retail,Dambulla,355
+22/05/2026,Green Chilli,Wholesale,Pettah,350
+22/05/2026,Green Chilli,Retail,Pettah,400
+22/05/2026,Green Chilli,Wholesale,Dambulla,250
+22/05/2026,Green Chilli,Retail,Dambulla,280
+22/05/2026,Snake gourd,Wholesale,Pettah,300
+22/05/2026,Snake gourd,Retail,Pettah,350
+22/05/2026,Snake gourd,Wholesale,Dambulla,265
+22/05/2026,Snake gourd,Retail,Dambulla,295
+22/05/2026,Pumpkin,Wholesale,Pettah,120
+22/05/2026,Pumpkin,Retail,Pettah,180
+22/05/2026,Pumpkin,Wholesale,Dambulla,90
+22/05/2026,Pumpkin,Retail,Dambulla,120
+22/05/2026,Brinjal,Wholesale,Pettah,400
+22/05/2026,Brinjal,Retail,Pettah,450
+22/05/2026,Brinjal,Wholesale,Dambulla,425
+22/05/2026,Brinjal,Retail,Dambulla,455
+22/05/2026,Tomato,Wholesale,Pettah,320
+22/05/2026,Tomato,Retail,Pettah,380
+22/05/2026,Tomato,Wholesale,Dambulla,275
+22/05/2026,Tomato,Retail,Dambulla,305
+22/05/2026,Cabbage,Wholesale,Pettah,100
+22/05/2026,Cabbage,Retail,Pettah,150
+22/05/2026,Cabbage,Wholesale,Dambulla,115
+22/05/2026,Cabbage,Retail,Dambulla,145
+22/05/2026,Carrot,Wholesale,Pettah,250
+22/05/2026,Carrot,Retail,Pettah,300
+22/05/2026,Carrot,Wholesale,Dambulla,275
+22/05/2026,Carrot,Retail,Dambulla,305
+22/05/2026,Beans,Wholesale,Pettah,500
+22/05/2026,Beans,Retail,Pettah,550
+22/05/2026,Beans,Wholesale,Dambulla,575
+22/05/2026,Beans,Retail,Dambulla,580
+25/05/2026,Potato (Imp),Wholesale,Pettah,171
+25/05/2026,Potato (Imp),Retail,Pettah,210
+25/05/2026,Potato (Imp),Wholesale,Dambulla,143
+25/05/2026,Potato (Imp),Retail,Dambulla,163
+25/05/2026,Potato (Local),Wholesale,Pettah,276
+25/05/2026,Potato (Local),Retail,Pettah,325
+25/05/2026,Potato (Local),Wholesale,Dambulla,215
+25/05/2026,Potato (Local),Retail,Dambulla,235
+25/05/2026,Big Onion (Imp),Wholesale,Pettah,203
+25/05/2026,Big Onion (Imp),Retail,Pettah,237
+25/05/2026,Big Onion (Imp),Wholesale,Dambulla,185
+25/05/2026,Big Onion (Imp),Retail,Dambulla,205
+25/05/2026,Big Onion (Local),Wholesale,Pettah,NA
+25/05/2026,Big Onion (Local),Retail,Pettah,NA
+25/05/2026,Big Onion (Local),Wholesale,Dambulla,NA
+25/05/2026,Big Onion (Local),Retail,Dambulla,NA
+25/05/2026,Red Onion (Imp),Wholesale,Pettah,318
+25/05/2026,Red Onion (Imp),Retail,Pettah,393
+25/05/2026,Red Onion (Imp),Wholesale,Dambulla,325
+25/05/2026,Red Onion (Imp),Retail,Dambulla,345
+25/05/2026,Red Onion (Local),Wholesale,Pettah,250
+25/05/2026,Red Onion (Local),Retail,Pettah,NA
+25/05/2026,Red Onion (Local),Wholesale,Dambulla,215
+25/05/2026,Red Onion (Local),Retail,Dambulla,235
+25/05/2026,Lime,Wholesale,Pettah,450
+25/05/2026,Lime,Retail,Pettah,500
+25/05/2026,Lime,Wholesale,Dambulla,375
+25/05/2026,Lime,Retail,Dambulla,405
+25/05/2026,Green Chilli,Wholesale,Pettah,300
+25/05/2026,Green Chilli,Retail,Pettah,350
+25/05/2026,Green Chilli,Wholesale,Dambulla,200
+25/05/2026,Green Chilli,Retail,Dambulla,230
+25/05/2026,Snake gourd,Wholesale,Pettah,350
+25/05/2026,Snake gourd,Retail,Pettah,400
+25/05/2026,Snake gourd,Wholesale,Dambulla,225
+25/05/2026,Snake gourd,Retail,Dambulla,255
+25/05/2026,Pumpkin,Wholesale,Pettah,120
+25/05/2026,Pumpkin,Retail,Pettah,170
+25/05/2026,Pumpkin,Wholesale,Dambulla,95
+25/05/2026,Pumpkin,Retail,Dambulla,125
+25/05/2026,Brinjal,Wholesale,Pettah,400
+25/05/2026,Brinjal,Retail,Pettah,450
+25/05/2026,Brinjal,Wholesale,Dambulla,455
+25/05/2026,Brinjal,Retail,Dambulla,485
+25/05/2026,Tomato,Wholesale,Pettah,350
+25/05/2026,Tomato,Retail,Pettah,400
+25/05/2026,Tomato,Wholesale,Dambulla,290
+25/05/2026,Tomato,Retail,Dambulla,320
+25/05/2026,Cabbage,Wholesale,Pettah,100
+25/05/2026,Cabbage,Retail,Pettah,150
+25/05/2026,Cabbage,Wholesale,Dambulla,125
+25/05/2026,Cabbage,Retail,Dambulla,155
+25/05/2026,Carrot,Wholesale,Pettah,250
+25/05/2026,Carrot,Retail,Pettah,300
+25/05/2026,Carrot,Wholesale,Dambulla,250
+25/05/2026,Carrot,Retail,Dambulla,280
+25/05/2026,Beans,Wholesale,Pettah,550
+25/05/2026,Beans,Retail,Pettah,600
+25/05/2026,Beans,Wholesale,Dambulla,500
+25/05/2026,Beans,Retail,Dambulla,530
+26/05/2026,Potato (Imp),Wholesale,Pettah,171
+26/05/2026,Potato (Imp),Retail,Pettah,210
+26/05/2026,Potato (Imp),Wholesale,Dambulla,165
+26/05/2026,Potato (Imp),Retail,Dambulla,185
+26/05/2026,Potato (Local),Wholesale,Pettah,280
+26/05/2026,Potato (Local),Retail,Pettah,325
+26/05/2026,Potato (Local),Wholesale,Dambulla,235
+26/05/2026,Potato (Local),Retail,Dambulla,255
+26/05/2026,Big Onion (Imp),Wholesale,Pettah,202
+26/05/2026,Big Onion (Imp),Retail,Pettah,240
+26/05/2026,Big Onion (Imp),Wholesale,Dambulla,185
+26/05/2026,Big Onion (Imp),Retail,Dambulla,205
+26/05/2026,Big Onion (Local),Wholesale,Pettah,NA
+26/05/2026,Big Onion (Local),Retail,Pettah,NA
+26/05/2026,Big Onion (Local),Wholesale,Dambulla,NA
+26/05/2026,Big Onion (Local),Retail,Dambulla,NA
+26/05/2026,Red Onion (Imp),Wholesale,Pettah,328
+26/05/2026,Red Onion (Imp),Retail,Pettah,393
+26/05/2026,Red Onion (Imp),Wholesale,Dambulla,300
+26/05/2026,Red Onion (Imp),Retail,Dambulla,320
+26/05/2026,Red Onion (Local),Wholesale,Pettah,250
+26/05/2026,Red Onion (Local),Retail,Pettah,NA
+26/05/2026,Red Onion (Local),Wholesale,Dambulla,290
+26/05/2026,Red Onion (Local),Retail,Dambulla,310
+26/05/2026,Lime,Wholesale,Pettah,500
+26/05/2026,Lime,Retail,Pettah,550
+26/05/2026,Lime,Wholesale,Dambulla,405
+26/05/2026,Lime,Retail,Dambulla,435
+26/05/2026,Green Chilli,Wholesale,Pettah,300
+26/05/2026,Green Chilli,Retail,Pettah,350
+26/05/2026,Green Chilli,Wholesale,Dambulla,195
+26/05/2026,Green Chilli,Retail,Dambulla,225
+26/05/2026,Snake gourd,Wholesale,Pettah,350
+26/05/2026,Snake gourd,Retail,Pettah,400
+26/05/2026,Snake gourd,Wholesale,Dambulla,275
+26/05/2026,Snake gourd,Retail,Dambulla,305
+26/05/2026,Pumpkin,Wholesale,Pettah,120
+26/05/2026,Pumpkin,Retail,Pettah,170
+26/05/2026,Pumpkin,Wholesale,Dambulla,100
+26/05/2026,Pumpkin,Retail,Dambulla,130
+26/05/2026,Brinjal,Wholesale,Pettah,400
+26/05/2026,Brinjal,Retail,Pettah,450
+26/05/2026,Brinjal,Wholesale,Dambulla,425
+26/05/2026,Brinjal,Retail,Dambulla,455
+26/05/2026,Tomato,Wholesale,Pettah,350
+26/05/2026,Tomato,Retail,Pettah,400
+26/05/2026,Tomato,Wholesale,Dambulla,325
+26/05/2026,Tomato,Retail,Dambulla,345
+26/05/2026,Cabbage,Wholesale,Pettah,100
+26/05/2026,Cabbage,Retail,Pettah,150
+26/05/2026,Cabbage,Wholesale,Dambulla,140
+26/05/2026,Cabbage,Retail,Dambulla,170
+26/05/2026,Carrot,Wholesale,Pettah,250
+26/05/2026,Carrot,Retail,Pettah,300
+26/05/2026,Carrot,Wholesale,Dambulla,315
+26/05/2026,Carrot,Retail,Dambulla,345
+26/05/2026,Beans,Wholesale,Pettah,600
+26/05/2026,Beans,Retail,Pettah,650
+26/05/2026,Beans,Wholesale,Dambulla,550
+26/05/2026,Beans,Retail,Dambulla,580
+27/05/2026,Potato (Imp),Wholesale,Pettah,166
+27/05/2026,Potato (Imp),Retail,Pettah,215
+27/05/2026,Potato (Imp),Wholesale,Dambulla,155
+27/05/2026,Potato (Imp),Retail,Dambulla,175
+27/05/2026,Potato (Local),Wholesale,Pettah,280
+27/05/2026,Potato (Local),Retail,Pettah,325
+27/05/2026,Potato (Local),Wholesale,Dambulla,215
+27/05/2026,Potato (Local),Retail,Dambulla,235
+27/05/2026,Big Onion (Imp),Wholesale,Pettah,193
+27/05/2026,Big Onion (Imp),Retail,Pettah,250
+27/05/2026,Big Onion (Imp),Wholesale,Dambulla,195
+27/05/2026,Big Onion (Imp),Retail,Dambulla,215
+27/05/2026,Big Onion (Local),Wholesale,Pettah,NA
+27/05/2026,Big Onion (Local),Retail,Pettah,NA
+27/05/2026,Big Onion (Local),Wholesale,Dambulla,NA
+27/05/2026,Big Onion (Local),Retail,Dambulla,NA
+27/05/2026,Red Onion (Imp),Wholesale,Pettah,322
+27/05/2026,Red Onion (Imp),Retail,Pettah,400
+27/05/2026,Red Onion (Imp),Wholesale,Dambulla,315
+27/05/2026,Red Onion (Imp),Retail,Dambulla,335
+27/05/2026,Red Onion (Local),Wholesale,Pettah,240
+27/05/2026,Red Onion (Local),Retail,Pettah,NA
+27/05/2026,Red Onion (Local),Wholesale,Dambulla,225
+27/05/2026,Red Onion (Local),Retail,Dambulla,245
+27/05/2026,Lime,Wholesale,Pettah,500
+27/05/2026,Lime,Retail,Pettah,550
+27/05/2026,Lime,Wholesale,Dambulla,380
+27/05/2026,Lime,Retail,Dambulla,410
+27/05/2026,Green Chilli,Wholesale,Pettah,300
+27/05/2026,Green Chilli,Retail,Pettah,350
+27/05/2026,Green Chilli,Wholesale,Dambulla,250
+27/05/2026,Green Chilli,Retail,Dambulla,280
+27/05/2026,Snake gourd,Wholesale,Pettah,300
+27/05/2026,Snake gourd,Retail,Pettah,350
+27/05/2026,Snake gourd,Wholesale,Dambulla,250
+27/05/2026,Snake gourd,Retail,Dambulla,280
+27/05/2026,Pumpkin,Wholesale,Pettah,120
+27/05/2026,Pumpkin,Retail,Pettah,170
+27/05/2026,Pumpkin,Wholesale,Dambulla,80
+27/05/2026,Pumpkin,Retail,Dambulla,110
+27/05/2026,Brinjal,Wholesale,Pettah,400
+27/05/2026,Brinjal,Retail,Pettah,450
+27/05/2026,Brinjal,Wholesale,Dambulla,385
+27/05/2026,Brinjal,Retail,Dambulla,415
+27/05/2026,Tomato,Wholesale,Pettah,400
+27/05/2026,Tomato,Retail,Pettah,450
+27/05/2026,Tomato,Wholesale,Dambulla,295
+27/05/2026,Tomato,Retail,Dambulla,325
+27/05/2026,Cabbage,Wholesale,Pettah,100
+27/05/2026,Cabbage,Retail,Pettah,150
+27/05/2026,Cabbage,Wholesale,Dambulla,120
+27/05/2026,Cabbage,Retail,Dambulla,150
+27/05/2026,Carrot,Wholesale,Pettah,250
+27/05/2026,Carrot,Retail,Pettah,300
+27/05/2026,Carrot,Wholesale,Dambulla,260
+27/05/2026,Carrot,Retail,Dambulla,290
+27/05/2026,Beans,Wholesale,Pettah,600
+27/05/2026,Beans,Retail,Pettah,650
+27/05/2026,Beans,Wholesale,Dambulla,550
+27/05/2026,Beans,Retail,Dambulla,580
+29/05/2026,Potato (Imp),Wholesale,Pettah,165
+29/05/2026,Potato (Imp),Retail,Pettah,207
+29/05/2026,Potato (Imp),Wholesale,Dambulla,150
+29/05/2026,Potato (Imp),Retail,Dambulla,170
+29/05/2026,Potato (Local),Wholesale,Pettah,280
+29/05/2026,Potato (Local),Retail,Pettah,300
+29/05/2026,Potato (Local),Wholesale,Dambulla,215
+29/05/2026,Potato (Local),Retail,Dambulla,235
+29/05/2026,Big Onion (Imp),Wholesale,Pettah,194
+29/05/2026,Big Onion (Imp),Retail,Pettah,233
+29/05/2026,Big Onion (Imp),Wholesale,Dambulla,190
+29/05/2026,Big Onion (Imp),Retail,Dambulla,210
+29/05/2026,Big Onion (Local),Wholesale,Pettah,NA
+29/05/2026,Big Onion (Local),Retail,Pettah,NA
+29/05/2026,Big Onion (Local),Wholesale,Dambulla,NA
+29/05/2026,Big Onion (Local),Retail,Dambulla,NA
+29/05/2026,Red Onion (Imp),Wholesale,Pettah,328
+29/05/2026,Red Onion (Imp),Retail,Pettah,383
+29/05/2026,Red Onion (Imp),Wholesale,Dambulla,310
+29/05/2026,Red Onion (Imp),Retail,Dambulla,330
+29/05/2026,Red Onion (Local),Wholesale,Pettah,NA
+29/05/2026,Red Onion (Local),Retail,Pettah,NA
+29/05/2026,Red Onion (Local),Wholesale,Dambulla,225
+29/05/2026,Red Onion (Local),Retail,Dambulla,245
+29/05/2026,Lime,Wholesale,Pettah,500
+29/05/2026,Lime,Retail,Pettah,550
+29/05/2026,Lime,Wholesale,Dambulla,375
+29/05/2026,Lime,Retail,Dambulla,405
+29/05/2026,Green Chilli,Wholesale,Pettah,400
+29/05/2026,Green Chilli,Retail,Pettah,450
+29/05/2026,Green Chilli,Wholesale,Dambulla,200
+29/05/2026,Green Chilli,Retail,Dambulla,230
+29/05/2026,Snake gourd,Wholesale,Pettah,300
+29/05/2026,Snake gourd,Retail,Pettah,350
+29/05/2026,Snake gourd,Wholesale,Dambulla,265
+29/05/2026,Snake gourd,Retail,Dambulla,295
+29/05/2026,Pumpkin,Wholesale,Pettah,100
+29/05/2026,Pumpkin,Retail,Pettah,150
+29/05/2026,Pumpkin,Wholesale,Dambulla,90
+29/05/2026,Pumpkin,Retail,Dambulla,120
+29/05/2026,Brinjal,Wholesale,Pettah,400
+29/05/2026,Brinjal,Retail,Pettah,450
+29/05/2026,Brinjal,Wholesale,Dambulla,315
+29/05/2026,Brinjal,Retail,Dambulla,345
+29/05/2026,Tomato,Wholesale,Pettah,400
+29/05/2026,Tomato,Retail,Pettah,450
+29/05/2026,Tomato,Wholesale,Dambulla,275
+29/05/2026,Tomato,Retail,Dambulla,305
+29/05/2026,Cabbage,Wholesale,Pettah,80
+29/05/2026,Cabbage,Retail,Pettah,130
+29/05/2026,Cabbage,Wholesale,Dambulla,105
+29/05/2026,Cabbage,Retail,Dambulla,135
+29/05/2026,Carrot,Wholesale,Pettah,250
+29/05/2026,Carrot,Retail,Pettah,300
+29/05/2026,Carrot,Wholesale,Dambulla,305
+29/05/2026,Carrot,Retail,Dambulla,335
+29/05/2026,Beans,Wholesale,Pettah,300
+29/05/2026,Beans,Retail,Pettah,350
+29/05/2026,Beans,Wholesale,Dambulla,445
+29/05/2026,Beans,Retail,Dambulla,475
+01/06/2026,Potato (Imp),Wholesale,Pettah,163
+01/06/2026,Potato (Imp),Retail,Pettah,197
+01/06/2026,Potato (Imp),Wholesale,Dambulla,168
+01/06/2026,Potato (Imp),Retail,Dambulla,188
+01/06/2026,Potato (Local),Wholesale,Pettah,290
+01/06/2026,Potato (Local),Retail,Pettah,347
+01/06/2026,Potato (Local),Wholesale,Dambulla,225
+01/06/2026,Potato (Local),Retail,Dambulla,245
+01/06/2026,Big Onion (Imp),Wholesale,Pettah,184
+01/06/2026,Big Onion (Imp),Retail,Pettah,223
+01/06/2026,Big Onion (Imp),Wholesale,Dambulla,175
+01/06/2026,Big Onion (Imp),Retail,Dambulla,195
+01/06/2026,Big Onion (Local),Wholesale,Pettah,NA
+01/06/2026,Big Onion (Local),Retail,Pettah,NA
+01/06/2026,Big Onion (Local),Wholesale,Dambulla,NA
+01/06/2026,Big Onion (Local),Retail,Dambulla,NA
+01/06/2026,Red Onion (Imp),Wholesale,Pettah,324
+01/06/2026,Red Onion (Imp),Retail,Pettah,383
+01/06/2026,Red Onion (Imp),Wholesale,Dambulla,305
+01/06/2026,Red Onion (Imp),Retail,Dambulla,325
+01/06/2026,Red Onion (Local),Wholesale,Pettah,NA
+01/06/2026,Red Onion (Local),Retail,Pettah,NA
+01/06/2026,Red Onion (Local),Wholesale,Dambulla,255
+01/06/2026,Red Onion (Local),Retail,Dambulla,275
+01/06/2026,Lime,Wholesale,Pettah,500
+01/06/2026,Lime,Retail,Pettah,550
+01/06/2026,Lime,Wholesale,Dambulla,425
+01/06/2026,Lime,Retail,Dambulla,455
+01/06/2026,Green Chilli,Wholesale,Pettah,300
+01/06/2026,Green Chilli,Retail,Pettah,350
+01/06/2026,Green Chilli,Wholesale,Dambulla,400
+01/06/2026,Green Chilli,Retail,Dambulla,430
+01/06/2026,Snake gourd,Wholesale,Pettah,300
+01/06/2026,Snake gourd,Retail,Pettah,350
+01/06/2026,Snake gourd,Wholesale,Dambulla,305
+01/06/2026,Snake gourd,Retail,Dambulla,335
+01/06/2026,Pumpkin,Wholesale,Pettah,120
+01/06/2026,Pumpkin,Retail,Pettah,170
+01/06/2026,Pumpkin,Wholesale,Dambulla,95
+01/06/2026,Pumpkin,Retail,Dambulla,125
+01/06/2026,Brinjal,Wholesale,Pettah,400
+01/06/2026,Brinjal,Retail,Pettah,450
+01/06/2026,Brinjal,Wholesale,Dambulla,355
+01/06/2026,Brinjal,Retail,Dambulla,385
+01/06/2026,Tomato,Wholesale,Pettah,400
+01/06/2026,Tomato,Retail,Pettah,450
+01/06/2026,Tomato,Wholesale,Dambulla,340
+01/06/2026,Tomato,Retail,Dambulla,370
+01/06/2026,Cabbage,Wholesale,Pettah,100
+01/06/2026,Cabbage,Retail,Pettah,150
+01/06/2026,Cabbage,Wholesale,Dambulla,200
+01/06/2026,Cabbage,Retail,Dambulla,230
+01/06/2026,Carrot,Wholesale,Pettah,250
+01/06/2026,Carrot,Retail,Pettah,300
+01/06/2026,Carrot,Wholesale,Dambulla,375
+01/06/2026,Carrot,Retail,Dambulla,405
+01/06/2026,Beans,Wholesale,Pettah,550
+01/06/2026,Beans,Retail,Pettah,600
+01/06/2026,Beans,Wholesale,Dambulla,335
+01/06/2026,Beans,Retail,Dambulla,365
+02/06/2026,Potato (Imp),Wholesale,Pettah,163
+02/06/2026,Potato (Imp),Retail,Pettah,197
+02/06/2026,Potato (Imp),Wholesale,Dambulla,165
+02/06/2026,Potato (Imp),Retail,Dambulla,185
+02/06/2026,Potato (Local),Wholesale,Pettah,286
+02/06/2026,Potato (Local),Retail,Pettah,347
+02/06/2026,Potato (Local),Wholesale,Dambulla,230
+02/06/2026,Potato (Local),Retail,Dambulla,250
+02/06/2026,Big Onion (Imp),Wholesale,Pettah,180
+02/06/2026,Big Onion (Imp),Retail,Pettah,210
+02/06/2026,Big Onion (Imp),Wholesale,Dambulla,175
+02/06/2026,Big Onion (Imp),Retail,Dambulla,195
+02/06/2026,Big Onion (Local),Wholesale,Pettah,NA
+02/06/2026,Big Onion (Local),Retail,Pettah,NA
+02/06/2026,Big Onion (Local),Wholesale,Dambulla,NA
+02/06/2026,Big Onion (Local),Retail,Dambulla,NA
+02/06/2026,Red Onion (Imp),Wholesale,Pettah,324
+02/06/2026,Red Onion (Imp),Retail,Pettah,400
+02/06/2026,Red Onion (Imp),Wholesale,Dambulla,295
+02/06/2026,Red Onion (Imp),Retail,Dambulla,315
+02/06/2026,Red Onion (Local),Wholesale,Pettah,NA
+02/06/2026,Red Onion (Local),Retail,Pettah,NA
+02/06/2026,Red Onion (Local),Wholesale,Dambulla,255
+02/06/2026,Red Onion (Local),Retail,Dambulla,275
+02/06/2026,Lime,Wholesale,Pettah,550
+02/06/2026,Lime,Retail,Pettah,600
+02/06/2026,Lime,Wholesale,Dambulla,405
+02/06/2026,Lime,Retail,Dambulla,435
+02/06/2026,Green Chilli,Wholesale,Pettah,550
+02/06/2026,Green Chilli,Retail,Pettah,600
+02/06/2026,Green Chilli,Wholesale,Dambulla,525
+02/06/2026,Green Chilli,Retail,Dambulla,555
+02/06/2026,Snake gourd,Wholesale,Pettah,300
+02/06/2026,Snake gourd,Retail,Pettah,350
+02/06/2026,Snake gourd,Wholesale,Dambulla,285
+02/06/2026,Snake gourd,Retail,Dambulla,315
+02/06/2026,Pumpkin,Wholesale,Pettah,120
+02/06/2026,Pumpkin,Retail,Pettah,170
+02/06/2026,Pumpkin,Wholesale,Dambulla,95
+02/06/2026,Pumpkin,Retail,Dambulla,125
+02/06/2026,Brinjal,Wholesale,Pettah,450
+02/06/2026,Brinjal,Retail,Pettah,500
+02/06/2026,Brinjal,Wholesale,Dambulla,405
+02/06/2026,Brinjal,Retail,Dambulla,435
+02/06/2026,Tomato,Wholesale,Pettah,400
+02/06/2026,Tomato,Retail,Pettah,450
+02/06/2026,Tomato,Wholesale,Dambulla,390
+02/06/2026,Tomato,Retail,Dambulla,420
+02/06/2026,Cabbage,Wholesale,Pettah,100
+02/06/2026,Cabbage,Retail,Pettah,150
+02/06/2026,Cabbage,Wholesale,Dambulla,205
+02/06/2026,Cabbage,Retail,Dambulla,235
+02/06/2026,Carrot,Wholesale,Pettah,300
+02/06/2026,Carrot,Retail,Pettah,350
+02/06/2026,Carrot,Wholesale,Dambulla,355
+02/06/2026,Carrot,Retail,Dambulla,385
+02/06/2026,Beans,Wholesale,Pettah,550
+02/06/2026,Beans,Retail,Pettah,600
+02/06/2026,Beans,Wholesale,Dambulla,385
+02/06/2026,Beans,Retail,Dambulla,415
+03/06/2026,Potato (Local),Wholesale,Pettah,288
+03/06/2026,Potato (Local),Retail,Pettah,340
+03/06/2026,Potato (Local),Wholesale,Dambulla,255
+03/06/2026,Potato (Local),Retail,Dambulla,275
+03/06/2026,Big Onion (Imp),Wholesale,Pettah,183
+03/06/2026,Big Onion (Imp),Retail,Pettah,227
+03/06/2026,Big Onion (Imp),Wholesale,Dambulla,195
+03/06/2026,Big Onion (Imp),Retail,Dambulla,215
+03/06/2026,Big Onion (Local),Wholesale,Pettah,NA
+03/06/2026,Big Onion (Local),Retail,Pettah,NA
+03/06/2026,Big Onion (Local),Wholesale,Dambulla,NA
+03/06/2026,Big Onion (Local),Retail,Dambulla,NA
+03/06/2026,Potato (Imp),Wholesale,Pettah,170
+03/06/2026,Potato (Imp),Retail,Pettah,203
+03/06/2026,Potato (Imp),Wholesale,Dambulla,153
+03/06/2026,Potato (Imp),Retail,Dambulla,173
+03/06/2026,Red Onion (Imp),Wholesale,Pettah,322
+03/06/2026,Red Onion (Imp),Retail,Pettah,400
+03/06/2026,Red Onion (Imp),Wholesale,Dambulla,355
+03/06/2026,Red Onion (Imp),Retail,Dambulla,375
+03/06/2026,Red Onion (Local),Wholesale,Pettah,NA
+03/06/2026,Red Onion (Local),Retail,Pettah,NA
+03/06/2026,Red Onion (Local),Wholesale,Dambulla,315
+03/06/2026,Red Onion (Local),Retail,Dambulla,335
+03/06/2026,Lime,Wholesale,Pettah,600
+03/06/2026,Lime,Retail,Pettah,650
+03/06/2026,Lime,Wholesale,Dambulla,475
+03/06/2026,Lime,Retail,Dambulla,505
+03/06/2026,Tomato,Wholesale,Pettah,450
+03/06/2026,Tomato,Retail,Pettah,500
+03/06/2026,Tomato,Wholesale,Dambulla,400
+03/06/2026,Tomato,Retail,Dambulla,430
+03/06/2026,Snake gourd,Wholesale,Pettah,300
+03/06/2026,Snake gourd,Retail,Pettah,350
+03/06/2026,Snake gourd,Wholesale,Dambulla,235
+03/06/2026,Snake gourd,Retail,Dambulla,265
+03/06/2026,Pumpkin,Wholesale,Pettah,120
+03/06/2026,Pumpkin,Retail,Pettah,170
+03/06/2026,Pumpkin,Wholesale,Dambulla,95
+03/06/2026,Pumpkin,Retail,Dambulla,125
+03/06/2026,Brinjal,Wholesale,Pettah,350
+03/06/2026,Brinjal,Retail,Pettah,400
+03/06/2026,Brinjal,Wholesale,Dambulla,425
+03/06/2026,Brinjal,Retail,Dambulla,455
+03/06/2026,Cabbage,Wholesale,Pettah,100
+03/06/2026,Cabbage,Retail,Pettah,150
+03/06/2026,Cabbage,Wholesale,Dambulla,190
+03/06/2026,Cabbage,Retail,Dambulla,220
+03/06/2026,Carrot,Wholesale,Pettah,350
+03/06/2026,Carrot,Retail,Pettah,400
+03/06/2026,Carrot,Wholesale,Dambulla,350
+03/06/2026,Carrot,Retail,Dambulla,380
+03/06/2026,Beans,Wholesale,Pettah,500
+03/06/2026,Beans,Retail,Pettah,550
+03/06/2026,Beans,Wholesale,Dambulla,375
+03/06/2026,Beans,Retail,Dambulla,405
+03/06/2026,Green Chilli,Wholesale,Pettah,650
+03/06/2026,Green Chilli,Retail,Pettah,700
+03/06/2026,Green Chilli,Wholesale,Dambulla,525
+03/06/2026,Green Chilli,Retail,Dambulla,555
+04/06/2026,Potato (Imp),Wholesale,Pettah,176
+04/06/2026,Potato (Imp),Retail,Pettah,203
+04/06/2026,Potato (Imp),Wholesale,Dambulla,158
+04/06/2026,Potato (Imp),Retail,Dambulla,178
+04/06/2026,Potato (Local),Wholesale,Pettah,288
+04/06/2026,Potato (Local),Retail,Pettah,340
+04/06/2026,Potato (Local),Wholesale,Dambulla,265
+04/06/2026,Potato (Local),Retail,Dambulla,285
+04/06/2026,Big Onion (Imp),Wholesale,Pettah,189
+04/06/2026,Big Onion (Imp),Retail,Pettah,227
+04/06/2026,Big Onion (Imp),Wholesale,Dambulla,195
+04/06/2026,Big Onion (Imp),Retail,Dambulla,215
+04/06/2026,Big Onion (Local),Wholesale,Pettah,NA
+04/06/2026,Big Onion (Local),Retail,Pettah,NA
+04/06/2026,Big Onion (Local),Wholesale,Dambulla,NA
+04/06/2026,Big Onion (Local),Retail,Dambulla,NA
+04/06/2026,Red Onion (Imp),Wholesale,Pettah,322
+04/06/2026,Red Onion (Imp),Retail,Pettah,400
+04/06/2026,Red Onion (Imp),Wholesale,Dambulla,325
+04/06/2026,Red Onion (Imp),Retail,Dambulla,345
+04/06/2026,Red Onion (Local),Wholesale,Pettah,NA
+04/06/2026,Red Onion (Local),Retail,Pettah,NA
+04/06/2026,Red Onion (Local),Wholesale,Dambulla,200
+04/06/2026,Red Onion (Local),Retail,Dambulla,220
+04/06/2026,Lime,Wholesale,Pettah,600
+04/06/2026,Lime,Retail,Pettah,650
+04/06/2026,Lime,Wholesale,Dambulla,505
+04/06/2026,Lime,Retail,Dambulla,535
+04/06/2026,Green Chilli,Wholesale,Pettah,650
+04/06/2026,Green Chilli,Retail,Pettah,700
+04/06/2026,Green Chilli,Wholesale,Dambulla,455
+04/06/2026,Green Chilli,Retail,Dambulla,485
+04/06/2026,Snake gourd,Wholesale,Pettah,300
+04/06/2026,Snake gourd,Retail,Pettah,350
+04/06/2026,Snake gourd,Wholesale,Dambulla,285
+04/06/2026,Snake gourd,Retail,Dambulla,315
+04/06/2026,Pumpkin,Wholesale,Pettah,120
+04/06/2026,Pumpkin,Retail,Pettah,170
+04/06/2026,Pumpkin,Wholesale,Dambulla,85
+04/06/2026,Pumpkin,Retail,Dambulla,115
+04/06/2026,Brinjal,Wholesale,Pettah,300
+04/06/2026,Brinjal,Retail,Pettah,350
+04/06/2026,Brinjal,Wholesale,Dambulla,350
+04/06/2026,Brinjal,Retail,Dambulla,380
+04/06/2026,Tomato,Wholesale,Pettah,600
+04/06/2026,Tomato,Retail,Pettah,650
+04/06/2026,Tomato,Wholesale,Dambulla,575
+04/06/2026,Tomato,Retail,Dambulla,605
+04/06/2026,Cabbage,Wholesale,Pettah,120
+04/06/2026,Cabbage,Retail,Pettah,170
+04/06/2026,Cabbage,Wholesale,Dambulla,170
+04/06/2026,Cabbage,Retail,Dambulla,200
+04/06/2026,Carrot,Wholesale,Pettah,350
+04/06/2026,Carrot,Retail,Pettah,400
+04/06/2026,Carrot,Wholesale,Dambulla,355
+04/06/2026,Carrot,Retail,Dambulla,385
+04/06/2026,Beans,Wholesale,Pettah,400
+04/06/2026,Beans,Retail,Pettah,450
+04/06/2026,Beans,Wholesale,Dambulla,355
+04/06/2026,Beans,Retail,Dambulla,385
+05/06/2026,Potato (Imp),Wholesale,Pettah,178
+05/06/2026,Potato (Imp),Retail,Pettah,217
+05/06/2026,Potato (Imp),Wholesale,Dambulla,168
+05/06/2026,Potato (Imp),Retail,Dambulla,188
+05/06/2026,Potato (Local),Wholesale,Pettah,298
+05/06/2026,Potato (Local),Retail,Pettah,345
+05/06/2026,Potato (Local),Wholesale,Dambulla,235
+05/06/2026,Potato (Local),Retail,Dambulla,255
+05/06/2026,Big Onion (Imp),Wholesale,Pettah,205
+05/06/2026,Big Onion (Imp),Retail,Pettah,250
+05/06/2026,Big Onion (Imp),Wholesale,Dambulla,208
+05/06/2026,Big Onion (Imp),Retail,Dambulla,228
+05/06/2026,Big Onion (Local),Wholesale,Pettah,NA
+05/06/2026,Big Onion (Local),Retail,Pettah,NA
+05/06/2026,Big Onion (Local),Wholesale,Dambulla,NA
+05/06/2026,Big Onion (Local),Retail,Dambulla,NA
+05/06/2026,Red Onion (Imp),Wholesale,Pettah,330
+05/06/2026,Red Onion (Imp),Retail,Pettah,400
+05/06/2026,Red Onion (Imp),Wholesale,Dambulla,355
+05/06/2026,Red Onion (Imp),Retail,Dambulla,375
+05/06/2026,Red Onion (Local),Wholesale,Pettah,NA
+05/06/2026,Red Onion (Local),Retail,Pettah,NA
+05/06/2026,Red Onion (Local),Wholesale,Dambulla,300
+05/06/2026,Red Onion (Local),Retail,Dambulla,320
+05/06/2026,Lime,Wholesale,Pettah,500
+05/06/2026,Lime,Retail,Pettah,600
+05/06/2026,Lime,Wholesale,Dambulla,425
+05/06/2026,Lime,Retail,Dambulla,455
+05/06/2026,Green Chilli,Wholesale,Pettah,450
+05/06/2026,Green Chilli,Retail,Pettah,500
+05/06/2026,Green Chilli,Wholesale,Dambulla,400
+05/06/2026,Green Chilli,Retail,Dambulla,430
+05/06/2026,Snake gourd,Wholesale,Pettah,300
+05/06/2026,Snake gourd,Retail,Pettah,350
+05/06/2026,Snake gourd,Wholesale,Dambulla,240
+05/06/2026,Snake gourd,Retail,Dambulla,270
+05/06/2026,Pumpkin,Wholesale,Pettah,100
+05/06/2026,Pumpkin,Retail,Pettah,150
+05/06/2026,Pumpkin,Wholesale,Dambulla,93
+05/06/2026,Pumpkin,Retail,Dambulla,123
+05/06/2026,Brinjal,Wholesale,Pettah,300
+05/06/2026,Brinjal,Retail,Pettah,350
+05/06/2026,Brinjal,Wholesale,Dambulla,375
+05/06/2026,Brinjal,Retail,Dambulla,405
+05/06/2026,Tomato,Wholesale,Pettah,700
+05/06/2026,Tomato,Retail,Pettah,750
+05/06/2026,Tomato,Wholesale,Dambulla,675
+05/06/2026,Tomato,Retail,Dambulla,705
+05/06/2026,Cabbage,Wholesale,Pettah,120
+05/06/2026,Cabbage,Retail,Pettah,170
+05/06/2026,Cabbage,Wholesale,Dambulla,160
+05/06/2026,Cabbage,Retail,Dambulla,190
+05/06/2026,Carrot,Wholesale,Pettah,250
+05/06/2026,Carrot,Retail,Pettah,300
+05/06/2026,Carrot,Wholesale,Dambulla,385
+05/06/2026,Carrot,Retail,Dambulla,415
+05/06/2026,Beans,Wholesale,Pettah,350
+05/06/2026,Beans,Retail,Pettah,400
+05/06/2026,Beans,Wholesale,Dambulla,350
+05/06/2026,Beans,Retail,Dambulla,380
+08/06/2026,Potato (Imp),Wholesale,Pettah,178
+08/06/2026,Potato (Imp),Retail,Pettah,210
+08/06/2026,Potato (Imp),Wholesale,Dambulla,165
+08/06/2026,Potato (Imp),Retail,Dambulla,185
+08/06/2026,Potato (Local),Wholesale,Pettah,287
+08/06/2026,Potato (Local),Retail,Pettah,325
+08/06/2026,Potato (Local),Wholesale,Dambulla,250
+08/06/2026,Potato (Local),Retail,Dambulla,270
+08/06/2026,Big Onion (Imp),Wholesale,Pettah,194
+08/06/2026,Big Onion (Imp),Retail,Pettah,233
+08/06/2026,Big Onion (Imp),Wholesale,Dambulla,168
+08/06/2026,Big Onion (Imp),Retail,Dambulla,188
+08/06/2026,Big Onion (Local),Wholesale,Pettah,NA
+08/06/2026,Big Onion (Local),Retail,Pettah,NA
+08/06/2026,Big Onion (Local),Wholesale,Dambulla,NA
+08/06/2026,Big Onion (Local),Retail,Dambulla,NA
+08/06/2026,Red Onion (Imp),Wholesale,Pettah,350
+08/06/2026,Red Onion (Imp),Retail,Pettah,383
+08/06/2026,Red Onion (Imp),Wholesale,Dambulla,360
+08/06/2026,Red Onion (Imp),Retail,Dambulla,380
+08/06/2026,Red Onion (Local),Wholesale,Pettah,NA
+08/06/2026,Red Onion (Local),Retail,Pettah,NA
+08/06/2026,Red Onion (Local),Wholesale,Dambulla,275
+08/06/2026,Red Onion (Local),Retail,Dambulla,295
+08/06/2026,Lime,Wholesale,Pettah,500
+08/06/2026,Lime,Retail,Pettah,550
+08/06/2026,Lime,Wholesale,Dambulla,325
+08/06/2026,Lime,Retail,Dambulla,355
+08/06/2026,Green Chilli,Wholesale,Pettah,500
+08/06/2026,Green Chilli,Retail,Pettah,550
+08/06/2026,Green Chilli,Wholesale,Dambulla,400
+08/06/2026,Green Chilli,Retail,Dambulla,430
+08/06/2026,Snake gourd,Wholesale,Pettah,300
+08/06/2026,Snake gourd,Retail,Pettah,350
+08/06/2026,Snake gourd,Wholesale,Dambulla,255
+08/06/2026,Snake gourd,Retail,Dambulla,285
+08/06/2026,Pumpkin,Wholesale,Pettah,80
+08/06/2026,Pumpkin,Retail,Pettah,130
+08/06/2026,Pumpkin,Wholesale,Dambulla,85
+08/06/2026,Pumpkin,Retail,Dambulla,115
+08/06/2026,Brinjal,Wholesale,Pettah,300
+08/06/2026,Brinjal,Retail,Pettah,350
+08/06/2026,Brinjal,Wholesale,Dambulla,405
+08/06/2026,Brinjal,Retail,Dambulla,435
+08/06/2026,Tomato,Wholesale,Pettah,500
+08/06/2026,Tomato,Retail,Pettah,550
+08/06/2026,Tomato,Wholesale,Dambulla,500
+08/06/2026,Tomato,Retail,Dambulla,530
+08/06/2026,Cabbage,Wholesale,Pettah,80
+08/06/2026,Cabbage,Retail,Pettah,130
+08/06/2026,Cabbage,Wholesale,Dambulla,130
+08/06/2026,Cabbage,Retail,Dambulla,160
+08/06/2026,Carrot,Wholesale,Pettah,300
+08/06/2026,Carrot,Retail,Pettah,350
+08/06/2026,Carrot,Wholesale,Dambulla,350
+08/06/2026,Carrot,Retail,Dambulla,380
+08/06/2026,Beans,Wholesale,Pettah,350
+08/06/2026,Beans,Retail,Pettah,400
+08/06/2026,Beans,Wholesale,Dambulla,375
+08/06/2026,Beans,Retail,Dambulla,405
+09/06/2026,Potato (Local),Wholesale,Pettah,283
+09/06/2026,Potato (Local),Retail,Pettah,325
+09/06/2026,Potato (Local),Wholesale,Dambulla,255
+09/06/2026,Potato (Local),Retail,Dambulla,275
+09/06/2026,Big Onion (Imp),Wholesale,Pettah,195
+09/06/2026,Big Onion (Imp),Retail,Pettah,233
+09/06/2026,Big Onion (Imp),Wholesale,Dambulla,165
+09/06/2026,Big Onion (Imp),Retail,Dambulla,185
+09/06/2026,Big Onion (Local),Wholesale,Pettah,NA
+09/06/2026,Big Onion (Local),Retail,Pettah,NA
+09/06/2026,Big Onion (Local),Wholesale,Dambulla,NA
+09/06/2026,Big Onion (Local),Retail,Dambulla,NA
+09/06/2026,Potato (Imp),Wholesale,Pettah,178
+09/06/2026,Potato (Imp),Retail,Pettah,210
+09/06/2026,Potato (Imp),Wholesale,Dambulla,160
+09/06/2026,Potato (Imp),Retail,Dambulla,180
+09/06/2026,Red Onion (Imp),Wholesale,Pettah,340
+09/06/2026,Red Onion (Imp),Retail,Pettah,383
+09/06/2026,Red Onion (Imp),Wholesale,Dambulla,295
+09/06/2026,Red Onion (Imp),Retail,Dambulla,315
+09/06/2026,Red Onion (Local),Wholesale,Pettah,NA
+09/06/2026,Red Onion (Local),Retail,Pettah,NA
+09/06/2026,Red Onion (Local),Wholesale,Dambulla,275
+09/06/2026,Red Onion (Local),Retail,Dambulla,295
+09/06/2026,Lime,Wholesale,Pettah,500
+09/06/2026,Lime,Retail,Pettah,550
+09/06/2026,Lime,Wholesale,Dambulla,275
+09/06/2026,Lime,Retail,Dambulla,305
+09/06/2026,Tomato,Wholesale,Pettah,500
+09/06/2026,Tomato,Retail,Pettah,550
+09/06/2026,Tomato,Wholesale,Dambulla,535
+09/06/2026,Tomato,Retail,Dambulla,565
+09/06/2026,Snake gourd,Wholesale,Pettah,300
+09/06/2026,Snake gourd,Retail,Pettah,350
+09/06/2026,Snake gourd,Wholesale,Dambulla,210
+09/06/2026,Snake gourd,Retail,Dambulla,240
+09/06/2026,Pumpkin,Wholesale,Pettah,80
+09/06/2026,Pumpkin,Retail,Pettah,130
+09/06/2026,Pumpkin,Wholesale,Dambulla,65
+09/06/2026,Pumpkin,Retail,Dambulla,95
+09/06/2026,Brinjal,Wholesale,Pettah,250
+09/06/2026,Brinjal,Retail,Pettah,300
+09/06/2026,Brinjal,Wholesale,Dambulla,275
+09/06/2026,Brinjal,Retail,Dambulla,305
+09/06/2026,Cabbage,Wholesale,Pettah,80
+09/06/2026,Cabbage,Retail,Pettah,130
+09/06/2026,Cabbage,Wholesale,Dambulla,100
+09/06/2026,Cabbage,Retail,Dambulla,130
+09/06/2026,Carrot,Wholesale,Pettah,250
+09/06/2026,Carrot,Retail,Pettah,300
+09/06/2026,Carrot,Wholesale,Dambulla,305
+09/06/2026,Carrot,Retail,Dambulla,335
+09/06/2026,Beans,Wholesale,Pettah,350
+09/06/2026,Beans,Retail,Pettah,400
+09/06/2026,Beans,Wholesale,Dambulla,290
+09/06/2026,Beans,Retail,Dambulla,320
+09/06/2026,Green Chilli,Wholesale,Pettah,400
+09/06/2026,Green Chilli,Retail,Pettah,450
+09/06/2026,Green Chilli,Wholesale,Dambulla,425
+09/06/2026,Green Chilli,Retail,Dambulla,455
+10/06/2026,Potato (Imp),Wholesale,Pettah,176
+10/06/2026,Potato (Imp),Retail,Pettah,210
+10/06/2026,Potato (Imp),Wholesale,Dambulla,165
+10/06/2026,Potato (Imp),Retail,Dambulla,185
+10/06/2026,Potato (Local),Wholesale,Pettah,286
+10/06/2026,Potato (Local),Retail,Pettah,340
+10/06/2026,Potato (Local),Wholesale,Dambulla,250
+10/06/2026,Potato (Local),Retail,Dambulla,270
+10/06/2026,Big Onion (Imp),Wholesale,Pettah,186
+10/06/2026,Big Onion (Imp),Retail,Pettah,227
+10/06/2026,Big Onion (Imp),Wholesale,Dambulla,160
+10/06/2026,Big Onion (Imp),Retail,Dambulla,180
+10/06/2026,Big Onion (Local),Wholesale,Pettah,NA
+10/06/2026,Big Onion (Local),Retail,Pettah,NA
+10/06/2026,Big Onion (Local),Wholesale,Dambulla,NA
+10/06/2026,Big Onion (Local),Retail,Dambulla,NA
+10/06/2026,Red Onion (Imp),Wholesale,Pettah,332
+10/06/2026,Red Onion (Imp),Retail,Pettah,380
+10/06/2026,Red Onion (Imp),Wholesale,Dambulla,355
+10/06/2026,Red Onion (Imp),Retail,Dambulla,375
+10/06/2026,Red Onion (Local),Wholesale,Pettah,NA
+10/06/2026,Red Onion (Local),Retail,Pettah,NA
+10/06/2026,Red Onion (Local),Wholesale,Dambulla,295
+10/06/2026,Red Onion (Local),Retail,Dambulla,315
+10/06/2026,Lime,Wholesale,Pettah,500
+10/06/2026,Lime,Retail,Pettah,550
+10/06/2026,Lime,Wholesale,Dambulla,290
+10/06/2026,Lime,Retail,Dambulla,320
+10/06/2026,Green Chilli,Wholesale,Pettah,400
+10/06/2026,Green Chilli,Retail,Pettah,450
+10/06/2026,Green Chilli,Wholesale,Dambulla,425
+10/06/2026,Green Chilli,Retail,Dambulla,455
+10/06/2026,Snake gourd,Wholesale,Pettah,300
+10/06/2026,Snake gourd,Retail,Pettah,350
+10/06/2026,Snake gourd,Wholesale,Dambulla,165
+10/06/2026,Snake gourd,Retail,Dambulla,195
+10/06/2026,Pumpkin,Wholesale,Pettah,80
+10/06/2026,Pumpkin,Retail,Pettah,130
+10/06/2026,Pumpkin,Wholesale,Dambulla,85
+10/06/2026,Pumpkin,Retail,Dambulla,115
+10/06/2026,Brinjal,Wholesale,Pettah,300
+10/06/2026,Brinjal,Retail,Pettah,350
+10/06/2026,Brinjal,Wholesale,Dambulla,375
+10/06/2026,Brinjal,Retail,Dambulla,405
+10/06/2026,Tomato,Wholesale,Pettah,500
+10/06/2026,Tomato,Retail,Pettah,550
+10/06/2026,Tomato,Wholesale,Dambulla,425
+10/06/2026,Tomato,Retail,Dambulla,455
+10/06/2026,Cabbage,Wholesale,Pettah,80
+10/06/2026,Cabbage,Retail,Pettah,130
+10/06/2026,Cabbage,Wholesale,Dambulla,105
+10/06/2026,Cabbage,Retail,Dambulla,135
+10/06/2026,Carrot,Wholesale,Pettah,250
+10/06/2026,Carrot,Retail,Pettah,300
+10/06/2026,Carrot,Wholesale,Dambulla,280
+10/06/2026,Carrot,Retail,Dambulla,310
+10/06/2026,Beans,Wholesale,Pettah,400
+10/06/2026,Beans,Retail,Pettah,450
+10/06/2026,Beans,Wholesale,Dambulla,375
+10/06/2026,Beans,Retail,Dambulla,405
+11/06/2026,Potato (Local),Wholesale,Pettah,286
+11/06/2026,Potato (Local),Retail,Pettah,340
+11/06/2026,Potato (Local),Wholesale,Dambulla,260
+11/06/2026,Potato (Local),Retail,Dambulla,280
+11/06/2026,Big Onion (Imp),Wholesale,Pettah,182
+11/06/2026,Big Onion (Imp),Retail,Pettah,227
+11/06/2026,Big Onion (Imp),Wholesale,Dambulla,165
+11/06/2026,Big Onion (Imp),Retail,Dambulla,185
+11/06/2026,Big Onion (Local),Wholesale,Pettah,NA
+11/06/2026,Big Onion (Local),Retail,Pettah,NA
+11/06/2026,Big Onion (Local),Wholesale,Dambulla,NA
+11/06/2026,Big Onion (Local),Retail,Dambulla,NA
+11/06/2026,Potato (Imp),Wholesale,Pettah,182
+11/06/2026,Potato (Imp),Retail,Pettah,210
+11/06/2026,Potato (Imp),Wholesale,Dambulla,183
+11/06/2026,Potato (Imp),Retail,Dambulla,203
+11/06/2026,Red Onion (Imp),Wholesale,Pettah,338
+11/06/2026,Red Onion (Imp),Retail,Pettah,380
+11/06/2026,Red Onion (Imp),Wholesale,Dambulla,355
+11/06/2026,Red Onion (Imp),Retail,Dambulla,375
+11/06/2026,Red Onion (Local),Wholesale,Pettah,NA
+11/06/2026,Red Onion (Local),Retail,Pettah,NA
+11/06/2026,Red Onion (Local),Wholesale,Dambulla,340
+11/06/2026,Red Onion (Local),Retail,Dambulla,360
+11/06/2026,Lime,Wholesale,Pettah,500
+11/06/2026,Lime,Retail,Pettah,550
+11/06/2026,Lime,Wholesale,Dambulla,245
+11/06/2026,Lime,Retail,Dambulla,325
+11/06/2026,Tomato,Wholesale,Pettah,500
+11/06/2026,Tomato,Retail,Pettah,550
+11/06/2026,Tomato,Wholesale,Dambulla,485
+11/06/2026,Tomato,Retail,Dambulla,515
+11/06/2026,Snake gourd,Wholesale,Pettah,300
+11/06/2026,Snake gourd,Retail,Pettah,350
+11/06/2026,Snake gourd,Wholesale,Dambulla,130
+11/06/2026,Snake gourd,Retail,Dambulla,160
+11/06/2026,Pumpkin,Wholesale,Pettah,80
+11/06/2026,Pumpkin,Retail,Pettah,130
+11/06/2026,Pumpkin,Wholesale,Dambulla,68
+11/06/2026,Pumpkin,Retail,Dambulla,98
+11/06/2026,Brinjal,Wholesale,Pettah,300
+11/06/2026,Brinjal,Retail,Pettah,350
+11/06/2026,Brinjal,Wholesale,Dambulla,275
+11/06/2026,Brinjal,Retail,Dambulla,305
+11/06/2026,Cabbage,Wholesale,Pettah,100
+11/06/2026,Cabbage,Retail,Pettah,150
+11/06/2026,Cabbage,Wholesale,Dambulla,130
+11/06/2026,Cabbage,Retail,Dambulla,160
+11/06/2026,Carrot,Wholesale,Pettah,250
+11/06/2026,Carrot,Retail,Pettah,300
+11/06/2026,Carrot,Wholesale,Dambulla,340
+11/06/2026,Carrot,Retail,Dambulla,370
+11/06/2026,Beans,Wholesale,Pettah,400
+11/06/2026,Beans,Retail,Pettah,450
+11/06/2026,Beans,Wholesale,Dambulla,375
+11/06/2026,Beans,Retail,Dambulla,405
+11/06/2026,Green Chilli,Wholesale,Pettah,400
+11/06/2026,Green Chilli,Retail,Pettah,450
+11/06/2026,Green Chilli,Wholesale,Dambulla,435
+11/06/2026,Green Chilli,Retail,Dambulla,465
+12/06/2026,Big Onion (Imp),Wholesale,Pettah,184
+12/06/2026,Big Onion (Imp),Retail,Pettah,222
+12/06/2026,Big Onion (Imp),Wholesale,Dambulla,168
+12/06/2026,Big Onion (Imp),Retail,Dambulla,188
+12/06/2026,Big Onion (Local),Wholesale,Pettah,NA
+12/06/2026,Big Onion (Local),Retail,Pettah,NA
+12/06/2026,Big Onion (Local),Wholesale,Dambulla,NA
+12/06/2026,Big Onion (Local),Retail,Dambulla,NA
+12/06/2026,Red Onion (Imp),Wholesale,Pettah,320
+12/06/2026,Red Onion (Imp),Retail,Pettah,380
+12/06/2026,Red Onion (Imp),Wholesale,Dambulla,340
+12/06/2026,Red Onion (Imp),Retail,Dambulla,360
+12/06/2026,Red Onion (Local),Wholesale,Pettah,NA
+12/06/2026,Red Onion (Local),Retail,Pettah,NA
+12/06/2026,Red Onion (Local),Wholesale,Dambulla,275
+12/06/2026,Red Onion (Local),Retail,Dambulla,295
+12/06/2026,Lime,Wholesale,Pettah,500
+12/06/2026,Lime,Retail,Pettah,550
+12/06/2026,Lime,Wholesale,Dambulla,388
+12/06/2026,Lime,Retail,Dambulla,418
+12/06/2026,Green Chilli,Wholesale,Pettah,500
+12/06/2026,Green Chilli,Retail,Pettah,550
+12/06/2026,Green Chilli,Wholesale,Dambulla,515
+12/06/2026,Green Chilli,Retail,Dambulla,545
+12/06/2026,Tomato,Wholesale,Pettah,500
+12/06/2026,Tomato,Retail,Pettah,550
+12/06/2026,Tomato,Wholesale,Dambulla,425
+12/06/2026,Tomato,Retail,Dambulla,455
+12/06/2026,Pumpkin,Wholesale,Pettah,80
+12/06/2026,Pumpkin,Retail,Pettah,130
+12/06/2026,Pumpkin,Wholesale,Dambulla,70
+12/06/2026,Pumpkin,Retail,Dambulla,100
+12/06/2026,Brinjal,Wholesale,Pettah,300
+12/06/2026,Brinjal,Retail,Pettah,350
+12/06/2026,Brinjal,Wholesale,Dambulla,200
+12/06/2026,Brinjal,Retail,Dambulla,230
+12/06/2026,Cabbage,Wholesale,Pettah,100
+12/06/2026,Cabbage,Retail,Pettah,150
+12/06/2026,Cabbage,Wholesale,Dambulla,105
+12/06/2026,Cabbage,Retail,Dambulla,135
+12/06/2026,Carrot,Wholesale,Pettah,250
+12/06/2026,Carrot,Retail,Pettah,300
+12/06/2026,Carrot,Wholesale,Dambulla,310
+12/06/2026,Carrot,Retail,Dambulla,340
+12/06/2026,Beans,Wholesale,Pettah,450
+12/06/2026,Beans,Retail,Pettah,500
+12/06/2026,Beans,Wholesale,Dambulla,425
+12/06/2026,Beans,Retail,Dambulla,455
+12/06/2026,Potato (Local),Wholesale,Pettah,286
+12/06/2026,Potato (Local),Retail,Pettah,340
+12/06/2026,Potato (Local),Wholesale,Dambulla,265
+12/06/2026,Potato (Local),Retail,Dambulla,285
+12/06/2026,Snake gourd,Wholesale,Pettah,300
+12/06/2026,Snake gourd,Retail,Pettah,350
+12/06/2026,Snake gourd,Wholesale,Dambulla,250
+12/06/2026,Snake gourd,Retail,Dambulla,280
+12/06/2026,Potato (Imp),Wholesale,Pettah,173
+12/06/2026,Potato (Imp),Retail,Pettah,207
+12/06/2026,Potato (Imp),Wholesale,Dambulla,178
+12/06/2026,Potato (Imp),Retail,Dambulla,193
