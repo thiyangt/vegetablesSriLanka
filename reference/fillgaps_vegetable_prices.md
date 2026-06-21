@@ -43,7 +43,7 @@ fillgaps_vegetable_prices(
   market = "Dambulla",
   type = "Retail"
 )
-#> # A tsibble: 3,509 x 5 [1D]
+#> # A tsibble: 3,603 x 5 [1D]
 #>    Date       Item   Type   Market   Price
 #>    <date>     <chr>  <chr>  <chr>    <dbl>
 #>  1 2016-08-01 Carrot Retail Dambulla   155
@@ -56,5 +56,5 @@ fillgaps_vegetable_prices(
 #>  8 2016-08-08 Carrot Retail Dambulla   125
 #>  9 2016-08-09 Carrot Retail Dambulla   135
 #> 10 2016-08-10 Carrot Retail Dambulla   150
-#> # ℹ 3,499 more rows
+#> # ℹ 3,593 more rows
 ```
