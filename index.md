@@ -16,6 +16,9 @@ pak::pak("thiyangt/vegetablesSriLanka")
 ``` r
 
 library(vegetablesSriLanka)
+#> Registered S3 method overwritten by 'tsibble':
+#>   method               from 
+#>   as_tibble.grouped_df dplyr
 data("vegetables.srilanka")
 head(vegetables.srilanka)
 #> # A tibble: 6 × 5
@@ -29,14 +32,14 @@ head(vegetables.srilanka)
 #> 6 2016-08-08 Beans Retail Dambulla   190
 tail(vegetables.srilanka)
 #> # A tibble: 6 × 5
-#>   Date       Item   Type      Market Price
-#>   <date>     <chr>  <chr>     <chr>  <dbl>
-#> 1 2026-03-03 Tomato Wholesale Pettah   120
-#> 2 2026-03-04 Tomato Wholesale Pettah   120
-#> 3 2026-03-05 Tomato Wholesale Pettah    80
-#> 4 2026-03-06 Tomato Wholesale Pettah    90
-#> 5 2026-03-09 Tomato Wholesale Pettah   120
-#> 6 2026-03-10 Tomato Wholesale Pettah   120
+#>   Date       Item         Type      Market   Price
+#>   <date>     <chr>        <chr>     <chr>    <dbl>
+#> 1 2026-06-12 Snake gourd  Wholesale Dambulla   250
+#> 2 2026-06-12 Snake gourd  Retail    Dambulla   280
+#> 3 2026-06-12 Potato (Imp) Wholesale Pettah     173
+#> 4 2026-06-12 Potato (Imp) Retail    Pettah     207
+#> 5 2026-06-12 Potato (Imp) Wholesale Dambulla   178
+#> 6 2026-06-12 Potato (Imp) Retail    Dambulla   193
 ```
 
 ## Example
@@ -52,7 +55,7 @@ filled <- fillgaps_vegetable_prices(
    type = "Retail"
  )
 filled
-#> # A tsibble: 3,509 x 5 [1D]
+#> # A tsibble: 3,603 x 5 [1D]
 #>    Date       Item   Type   Market   Price
 #>    <date>     <chr>  <chr>  <chr>    <dbl>
 #>  1 2016-08-01 Carrot Retail Dambulla   155
@@ -65,7 +68,7 @@ filled
 #>  8 2016-08-08 Carrot Retail Dambulla   125
 #>  9 2016-08-09 Carrot Retail Dambulla   135
 #> 10 2016-08-10 Carrot Retail Dambulla   150
-#> # ℹ 3,499 more rows
+#> # ℹ 3,593 more rows
 ```
 
 ## Plot data
